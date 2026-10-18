@@ -1,0 +1,84 @@
+{
+  "id": "proof-review",
+  "source_niche": "tech-review",
+  "format": "16:9",
+  "measured_from": [
+    "Od6M0AXpcxQ",
+    "6D__H_DO2Xk",
+    "ANmTVYkEtLw"
+  ],
+  "ranges": {
+    "cuts_per_min": {
+      "0-15s": [
+        8.0,
+        16.0
+      ],
+      "15-60s": [
+        9.3,
+        16.0
+      ],
+      "60-180s": [
+        8.5,
+        9.0
+      ],
+      "body": [
+        4.5,
+        6.7
+      ],
+      "last_min": [
+        6.0,
+        7.0
+      ]
+    },
+    "median_shot_s": [
+      5.57,
+      7.96
+    ],
+    "text_share": [
+      0.0,
+      0.03
+    ],
+    "wpm": [
+      176.4,
+      200.7
+    ],
+    "first_word_s": [
+      2.36,
+      16.32
+    ],
+    "lufs": [
+      -17.0,
+      -15.9
+    ],
+    "lra_lu": [
+      4.1,
+      5.0
+    ],
+    "silences_per_min": [
+      3.94,
+      5.09
+    ]
+  },
+  "master": {
+    "lufs": -14,
+    "true_peak_db": -1
+  },
+  "tokens": {},
+  "captions": "none",
+  "blocks": [
+    "number-card"
+  ],
+  "mix": [
+    "pause-at-turn"
+  ],
+  "steal_rows": [
+    "Talk in the first 3 seconds",
+    "Proof-footage open",
+    "B-roll under continuous talk",
+    "Verdict in one take",
+    "Music only at the edges",
+    "Numbers as cards, nothing else",
+    "Silence as comic timing"
+  ],
+  "caution": "These ranges come from 3 videos by one creator, and outlier-versus-control differences are hypotheses."
+}

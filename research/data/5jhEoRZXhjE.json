@@ -1,0 +1,99 @@
+{
+ "id": "5jhEoRZXhjE",
+ "url": "https://www.youtube.com/watch?v=5jhEoRZXhjE",
+ "title": "Banksy Identity Revealed",
+ "channel": "Zach King",
+ "channel_followers": 43500000,
+ "upload_date": "20260322",
+ "duration_s": 26.0,
+ "views": 164868749,
+ "likes": 839630,
+ "comments": 4800,
+ "vertical": true,
+ "niche": "shorts-vfx",
+ "role": "outlier",
+ "outlier_ratio": 44.32,
+ "checked": "2026-09-26",
+ "cuts": {
+  "note": "hard cuts only (ffmpeg scene >= 0.30); dissolves and whip-pans undercount, so a floor",
+  "count": 0,
+  "per_min": 0.0,
+  "per_min_by_segment": {
+   "0-3s": 0.0,
+   "3-15s": 0.0,
+   "15-26s": 0.0
+  },
+  "avg_shot_s": 26.0,
+  "median_shot_s": 26.0,
+  "shot_p10_p90_s": [
+   26.0,
+   26.0
+  ],
+  "times": []
+ },
+ "visual_energy_per_min": [
+  0.79
+ ],
+ "on_screen_text": {
+  "frames_checked": 40,
+  "text_share": 0.0,
+  "words_per_frame": 0.0
+ },
+ "speech": {
+  "caption_track": "en-orig",
+  "words": 12,
+  "wpm": 27.7,
+  "wpm_first_30s": 27.7,
+  "first_word_s": 13.36
+ },
+ "audio": {
+  "integrated_lufs": -15.6,
+  "loudness_range_lu": 8.4,
+  "shortterm_lufs_every_2s": [
+   -120.7,
+   -15.7,
+   -16.9,
+   -16.4,
+   -16.6,
+   -14.1,
+   -12.1,
+   -12.2,
+   -15.1,
+   -17.5,
+   -21.7,
+   -20.8,
+   -20.4
+  ],
+  "silences": [],
+  "silences_per_min": 0.0,
+  "silence_share": 0.0,
+  "onsets_per_min": 101.5
+ },
+ "music": {
+  "note": "proxies: tempo from onset autocorrelation (speech-heavy audio lowers confidence); brightness = spectral centroid; bass = energy share under 150 Hz",
+  "tempo_bpm": 92.3,
+  "tempo_confidence": 1.93,
+  "tempo_by_minute": [],
+  "onsets_per_min": 131.5,
+  "cuts_on_audio_onsets": null,
+  "brightness_hz_every_10s": [
+   1531.94,
+   1530.004,
+   348.109
+  ],
+  "bass_share_every_10s": [
+   0.108,
+   0.127,
+   0.362
+  ],
+  "caption_tags": {
+   "music": {
+    "count": 1,
+    "per_min": 2.31,
+    "times": [
+     13.1
+    ]
+   }
+  }
+ }
+}

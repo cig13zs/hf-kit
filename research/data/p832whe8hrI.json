@@ -1,0 +1,114 @@
+{
+ "id": "p832whe8hrI",
+ "url": "https://www.youtube.com/watch?v=p832whe8hrI",
+ "title": "What To Do If Your Car Sinks? \ud83d\ude28",
+ "channel": "Zack D. Films",
+ "channel_followers": 28600000,
+ "upload_date": "20260923",
+ "duration_s": 54.0,
+ "views": 8366508,
+ "likes": 377318,
+ "comments": 3700,
+ "vertical": true,
+ "niche": "shorts-facts",
+ "role": "outlier",
+ "outlier_ratio": 2.6,
+ "checked": "2026-09-26",
+ "cuts": {
+  "note": "hard cuts only (ffmpeg scene >= 0.30); dissolves and whip-pans undercount, so a floor",
+  "count": 2,
+  "per_min": 2.2,
+  "per_min_by_segment": {
+   "0-3s": 0.0,
+   "3-15s": 5.0,
+   "15-54s": 1.5
+  },
+  "avg_shot_s": 18.0,
+  "median_shot_s": 13.55,
+  "shot_p10_p90_s": [
+   4.93,
+   32.85
+  ],
+  "times": [
+   13.55,
+   51.22
+  ]
+ },
+ "visual_energy_per_min": [
+  1.4
+ ],
+ "on_screen_text": {
+  "frames_checked": 40,
+  "text_share": 0.17,
+  "words_per_frame": 0.5
+ },
+ "speech": {
+  "caption_track": "en-orig",
+  "words": 147,
+  "wpm": 163.3,
+  "wpm_first_30s": 176.0,
+  "first_word_s": 0.0
+ },
+ "audio": {
+  "integrated_lufs": -11.6,
+  "loudness_range_lu": 2.1,
+  "shortterm_lufs_every_2s": [
+   -120.7,
+   -11.9,
+   -11.0,
+   -10.6,
+   -11.3,
+   -10.9,
+   -10.8,
+   -10.8,
+   -12.6,
+   -12.5,
+   -11.8,
+   -10.7,
+   -10.1,
+   -11.2,
+   -12.2,
+   -12.5,
+   -12.6,
+   -11.6,
+   -11.8,
+   -12.7,
+   -11.7,
+   -12.8,
+   -11.8,
+   -10.8,
+   -11.6,
+   -11.9,
+   -13.5
+  ],
+  "silences": [],
+  "silences_per_min": 0.0,
+  "silence_share": 0.0,
+  "onsets_per_min": 91.1
+ },
+ "music": {
+  "note": "proxies: tempo from onset autocorrelation (speech-heavy audio lowers confidence); brightness = spectral centroid; bass = energy share under 150 Hz",
+  "tempo_bpm": 152.0,
+  "tempo_confidence": 1.71,
+  "tempo_by_minute": [
+   152.0
+  ],
+  "onsets_per_min": 146.7,
+  "cuts_on_audio_onsets": null,
+  "brightness_hz_every_10s": [
+   1106.268,
+   1307.667,
+   1269.437,
+   1296.677,
+   1374.717
+  ],
+  "bass_share_every_10s": [
+   0.267,
+   0.311,
+   0.292,
+   0.341,
+   0.296
+  ],
+  "caption_tags": {}
+ }
+}

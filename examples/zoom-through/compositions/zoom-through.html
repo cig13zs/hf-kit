@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="en" data-composition-variables='[{"id":"fromLabel","type":"string","label":"Outgoing scene label","default":"THE OBJECT"},{"id":"toLabel","type":"string","label":"Incoming scene label","default":"INSIDE"},{"id":"transitionTime","type":"number","label":"Transition time in seconds","default":2.5,"min":0,"step":0.1},{"id":"objectX","type":"number","label":"Object X percent","default":50,"min":0,"max":100},{"id":"objectY","type":"number","label":"Object Y percent","default":50,"min":0,"max":100},{"id":"accentOverride","type":"string","label":"Object colour override","default":""}]'>
+<body><template>
+  <!-- A camera push through an object joins two illustrated scenes.
+  Source: shorts-facts Steal list, Camera-move joins over hard cuts; works for illustrated worlds, backfires on talking heads.
+  Variables: fromLabel, toLabel, transitionTime, objectX, objectY, accentOverride. -->
+  <style>
+    #root { position:absolute; inset:0; width:100%; height:100%; overflow:hidden; background:var(--hk-bg,#0b0f14); color:var(--hk-ink,#f5f5f0); font-family:var(--hk-font-display,"Inter",system-ui,sans-serif); font-weight:800; }
+    .scene { position:absolute; inset:0; display:grid; place-items:center; overflow:hidden; }
+    .outgoing { z-index:2; background:var(--hk-bg,#0b0f14); transform-origin:var(--object-x,50%) var(--object-y,50%); }
+    .incoming { z-index:1; background:var(--hk-paper,#f3efe4); color:var(--hk-bg,#0b0f14); }
+    .object { position:absolute; left:calc(var(--object-x,50%) - 10vmin); top:calc(var(--object-y,50%) - 10vmin); width:20vmin; height:20vmin; border-radius:50%; background:var(--hk-accent,#ffd23f); box-shadow:0 0 0 1.2vmin var(--hk-ink,#f5f5f0); }
+    .scene-label { position:absolute; top:12%; width:80%; text-align:center; font-size:clamp(2rem,7vmin,7rem); line-height:1; }
+    .incoming .scene-label { top:auto; bottom:15%; }
+  </style>
+  <div id="root" data-composition-id="zoom-through" data-start="0" data-width="1080" data-height="1920" data-duration="5">
+    <section id="zoom-clip" class="clip" data-start="0" data-duration="5" data-track-index="0">
+      <div id="zoom-incoming" class="scene incoming"><div id="zoom-to-label" class="scene-label">INSIDE</div></div>
+      <div id="zoom-outgoing" class="scene outgoing"><div id="zoom-from-label" class="scene-label">THE OBJECT</div><div class="object"></div></div>
+    </section>
+  </div>
+  <script>
+    (() => {
+      const root=document.querySelector('#root');
+      const { fromLabel,toLabel,transitionTime,objectX,objectY,accentOverride }=window.__hyperframes.getVariables();
+      if (accentOverride) root.style.setProperty('--hk-accent',accentOverride);
+      root.style.setProperty('--object-x',objectX+'%'); root.style.setProperty('--object-y',objectY+'%');
+      root.querySelector('#zoom-from-label').textContent=fromLabel;
+      root.querySelector('#zoom-to-label').textContent=toLabel;
+      const out=root.querySelector('#zoom-outgoing'), incoming=root.querySelector('#zoom-incoming');
+      const tl=gsap.timeline({ paused:true });
+      tl.fromTo(out,{ scale:1 },{ scale:6, duration:0.4, ease:'power3.in' },transitionTime);
+      tl.fromTo(incoming,{ scale:0.6 },{ scale:1, duration:0.4, ease:'power3.out' },transitionTime);
+      tl.set(out,{ opacity:0 },transitionTime+0.2);
+      window.__timelines['zoom-through']=tl;
+    })();
+  </script>
+</template></body></html>
+

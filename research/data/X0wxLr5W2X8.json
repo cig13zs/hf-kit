@@ -1,0 +1,102 @@
+{
+ "id": "X0wxLr5W2X8",
+ "url": "https://www.youtube.com/watch?v=X0wxLr5W2X8",
+ "title": "Which one is cake? \ud83c\udf70",
+ "channel": "Zach King",
+ "channel_followers": 43500000,
+ "upload_date": "20260711",
+ "duration_s": 14.0,
+ "views": 52024782,
+ "likes": 306900,
+ "comments": 2700,
+ "vertical": true,
+ "niche": "shorts-vfx",
+ "role": "outlier",
+ "outlier_ratio": 14.05,
+ "checked": "2026-09-26",
+ "cuts": {
+  "note": "hard cuts only (ffmpeg scene >= 0.30); dissolves and whip-pans undercount, so a floor",
+  "count": 0,
+  "per_min": 0.0,
+  "per_min_by_segment": {
+   "0-3s": 0.0,
+   "3-14s": 0.0
+  },
+  "avg_shot_s": 14.0,
+  "median_shot_s": 14.0,
+  "shot_p10_p90_s": [
+   14.0,
+   14.0
+  ],
+  "times": []
+ },
+ "visual_energy_per_min": [
+  0.68
+ ],
+ "on_screen_text": {
+  "frames_checked": 40,
+  "text_share": 0.0,
+  "words_per_frame": 0.0
+ },
+ "speech": {
+  "caption_track": "en-orig",
+  "words": 35,
+  "wpm": 150.0,
+  "wpm_first_30s": 150.0,
+  "first_word_s": 0.0
+ },
+ "audio": {
+  "integrated_lufs": -33.9,
+  "loudness_range_lu": 14.2,
+  "shortterm_lufs_every_2s": [
+   -120.7,
+   -34.0,
+   -38.7,
+   -33.9,
+   -34.8,
+   -37.4,
+   -48.0,
+   -47.9
+  ],
+  "silences": [
+   [
+    2.44,
+    0.78
+   ],
+   [
+    8.16,
+    1.44
+   ],
+   [
+    9.77,
+    0.98
+   ],
+   [
+    10.79,
+    1.26
+   ],
+   [
+    12.15,
+    1.95
+   ]
+  ],
+  "silences_per_min": 21.43,
+  "silence_share": 0.458,
+  "onsets_per_min": 60.0
+ },
+ "music": {
+  "note": "proxies: tempo from onset autocorrelation (speech-heavy audio lowers confidence); brightness = spectral centroid; bass = energy share under 150 Hz",
+  "tempo_bpm": 103.4,
+  "tempo_confidence": 1.09,
+  "tempo_by_minute": [],
+  "onsets_per_min": 102.9,
+  "cuts_on_audio_onsets": null,
+  "brightness_hz_every_10s": [
+   1938.767
+  ],
+  "bass_share_every_10s": [
+   0.161
+  ],
+  "caption_tags": {}
+ }
+}

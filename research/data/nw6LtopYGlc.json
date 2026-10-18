@@ -1,0 +1,104 @@
+{
+ "id": "nw6LtopYGlc",
+ "url": "https://www.youtube.com/watch?v=nw6LtopYGlc",
+ "title": "How Back To The Future Created Its Lightning \ud83d\ude2e",
+ "channel": "Zack D. Films",
+ "channel_followers": 28600000,
+ "upload_date": "20260923",
+ "duration_s": 36.0,
+ "views": 3131169,
+ "likes": 117670,
+ "comments": 871,
+ "vertical": true,
+ "niche": "shorts-facts",
+ "role": "control",
+ "outlier_ratio": 0.98,
+ "checked": "2026-09-26",
+ "cuts": {
+  "note": "hard cuts only (ffmpeg scene >= 0.30); dissolves and whip-pans undercount, so a floor",
+  "count": 2,
+  "per_min": 3.3,
+  "per_min_by_segment": {
+   "0-3s": 0.0,
+   "3-15s": 0.0,
+   "15-36s": 5.7
+  },
+  "avg_shot_s": 12.0,
+  "median_shot_s": 13.34,
+  "shot_p10_p90_s": [
+   3.5,
+   19.96
+  ],
+  "times": [
+   21.62,
+   22.66
+  ]
+ },
+ "visual_energy_per_min": [
+  1.25
+ ],
+ "on_screen_text": {
+  "frames_checked": 40,
+  "text_share": 0.2,
+  "words_per_frame": 0.6
+ },
+ "speech": {
+  "caption_track": "en-orig",
+  "words": 96,
+  "wpm": 160.0,
+  "wpm_first_30s": 160.0,
+  "first_word_s": 0.0
+ },
+ "audio": {
+  "integrated_lufs": -11.2,
+  "loudness_range_lu": 2.0,
+  "shortterm_lufs_every_2s": [
+   -120.7,
+   -9.7,
+   -10.3,
+   -11.3,
+   -12.0,
+   -12.0,
+   -10.8,
+   -11.1,
+   -12.1,
+   -10.8,
+   -11.9,
+   -11.4,
+   -11.4,
+   -10.9,
+   -11.3,
+   -12.9,
+   -11.7,
+   -11.4,
+   -12.3
+  ],
+  "silences": [],
+  "silences_per_min": 0.0,
+  "silence_share": 0.0,
+  "onsets_per_min": 90.0
+ },
+ "music": {
+  "note": "proxies: tempo from onset autocorrelation (speech-heavy audio lowers confidence); brightness = spectral centroid; bass = energy share under 150 Hz",
+  "tempo_bpm": 76.0,
+  "tempo_confidence": 1.4,
+  "tempo_by_minute": [
+   76.0
+  ],
+  "onsets_per_min": 128.3,
+  "cuts_on_audio_onsets": null,
+  "brightness_hz_every_10s": [
+   1405.583,
+   1541.805,
+   1322.572,
+   1566.125
+  ],
+  "bass_share_every_10s": [
+   0.177,
+   0.226,
+   0.173,
+   0.235
+  ],
+  "caption_tags": {}
+ }
+}

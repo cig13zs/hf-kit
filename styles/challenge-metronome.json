@@ -1,0 +1,88 @@
+{
+  "id": "challenge-metronome",
+  "source_niche": "challenge-spectacle",
+  "format": "16:9",
+  "measured_from": [
+    "KrLj6nc516A",
+    "4l97aNza_Zc",
+    "QJI0an6irrA"
+  ],
+  "ranges": {
+    "cuts_per_min": {
+      "0-15s": [
+        16.0,
+        28.0
+      ],
+      "15-60s": [
+        32.0,
+        34.7
+      ],
+      "60-180s": [
+        27.0,
+        37.0
+      ],
+      "body": [
+        27.6,
+        30.6
+      ],
+      "last_min": [
+        19.0,
+        39.0
+      ]
+    },
+    "median_shot_s": [
+      1.53,
+      1.8
+    ],
+    "text_share": [
+      0.0,
+      0.03
+    ],
+    "wpm": [
+      173.7,
+      193.2
+    ],
+    "first_word_s": [
+      0.0,
+      0.24
+    ],
+    "lufs": [
+      -8.1,
+      -5.6
+    ],
+    "lra_lu": [
+      3.6,
+      5.3
+    ],
+    "silences_per_min": [
+      0.0,
+      0.03
+    ]
+  },
+  "master": {
+    "lufs": -14,
+    "true_peak_db": -1
+  },
+  "tokens": {
+    "--hk-positive": "#39ff6a"
+  },
+  "captions": "punch",
+  "blocks": [
+    "progress-badge",
+    "number-card"
+  ],
+  "mix": [
+    "tension-bed"
+  ],
+  "steal_rows": [
+    "Premise, rule and prize by 0:22",
+    "One progress device",
+    "Metronome cut rate",
+    "Outlined money type",
+    "Two-colour character system",
+    "Punch caption, not subtitles",
+    "Score the tension scene differently",
+    "Brand inside the stunt"
+  ],
+  "caution": "These ranges come from 3 videos by one creator, and outlier-versus-control differences are hypotheses."
+}

@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="en" data-composition-variables='[{"id":"title","type":"string","label":"Spoken chapter title","default":"A NEW CHAPTER"},{"id":"backgroundColor","type":"string","label":"Background override","default":""},{"id":"textColor","type":"string","label":"Text override","default":""}]'>
+<body>
+<template>
+  <!-- Spoken turn card; animated-explainer Steal list: Spoken chapter card.
+       Use once in a video over 8 minutes at the spoken title; backfires in Shorts or more than twice.
+       Variables: title, backgroundColor, textColor. -->
+  <style>
+    #root { position:relative; width:100%; height:100%; overflow:hidden; background:var(--hk-bg,#0b0f14); color:var(--hk-ink,#f5f5f0); font-family:var(--hk-font-display,"Inter",system-ui,sans-serif); }
+    #chapter-card-scene { position:absolute; inset:0; display:flex; align-items:center; justify-content:center; padding:6%; box-sizing:border-box; }
+    #chapter-card-title { max-width:90%; display:flex; flex-wrap:wrap; justify-content:center; column-gap:.28em; row-gap:.12em; font-size:clamp(52px,10vmin,150px); font-weight:800; line-height:1.02; text-align:center; text-transform:uppercase; }
+    .chapter-card-mask { display:inline-block; overflow:hidden; padding-bottom:.08em; }
+    .chapter-card-word { display:inline-block; }
+  </style>
+  <div id="root" data-composition-id="chapter-card" data-start="0" data-width="1920" data-height="1080" data-duration="1.8">
+    <div id="chapter-card-scene" class="clip" data-start="0" data-duration="1.8" data-track-index="1"><div id="chapter-card-title"></div></div>
+  </div>
+  <script>
+    const vars = window.__hyperframes.getVariables();
+    const root = document.querySelector('#root');
+    if (vars.backgroundColor) root.style.background = vars.backgroundColor;
+    if (vars.textColor) root.style.color = vars.textColor;
+    const title = document.getElementById("chapter-card-title");
+    const tl = gsap.timeline({ paused:true });
+    String(vars.title).trim().split(/\s+/).forEach((word, i) => {
+      const mask = document.createElement("span");
+      const inner = document.createElement("span");
+      mask.className = "chapter-card-mask";
+      inner.className = "chapter-card-word";
+      inner.textContent = word;
+      mask.append(inner);
+      title.append(mask);
+      tl.fromTo(inner, { yPercent:100 }, { yPercent:0, duration:0.5, ease:"power3.out" }, i * 0.08);
+    });
+    window.__timelines["chapter-card"] = tl;
+  </script>
+</template>
+</body>
+</html>

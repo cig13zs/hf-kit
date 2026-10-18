@@ -1,0 +1,9 @@
+sound/beds/*.wav
+examples/**/renders/
+examples/**/snapshots/
+_*/
+__pycache__/
+*.mp4
+!docs/media/*.mp4
+sources/provenance.jsonl
+assets/

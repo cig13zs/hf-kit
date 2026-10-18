@@ -1,0 +1,90 @@
+{
+  "id": "archive-essay",
+  "source_niche": "documentary",
+  "format": "16:9",
+  "measured_from": [
+    "2r5eKpptixo",
+    "GV8KGcFqeLc",
+    "OMbV1rIPhCg"
+  ],
+  "ranges": {
+    "cuts_per_min": {
+      "0-15s": [
+        24.0,
+        48.0
+      ],
+      "15-60s": [
+        25.3,
+        32.0
+      ],
+      "60-180s": [
+        26.5,
+        43.0
+      ],
+      "body": [
+        13.0,
+        22.8
+      ],
+      "last_min": [
+        1.0,
+        4.0
+      ]
+    },
+    "median_shot_s": [
+      1.64,
+      2.71
+    ],
+    "text_share": [
+      0.03,
+      0.23
+    ],
+    "wpm": [
+      144.2,
+      170.8
+    ],
+    "first_word_s": [
+      1.52,
+      9.68
+    ],
+    "lufs": [
+      -18.0,
+      -16.1
+    ],
+    "lra_lu": [
+      5.9,
+      7.9
+    ],
+    "silences_per_min": [
+      0.23,
+      1.02
+    ]
+  },
+  "master": {
+    "lufs": -14,
+    "true_peak_db": -1
+  },
+  "tokens": {
+    "--hk-accent": "red"
+  },
+  "captions": "none",
+  "blocks": [
+    "doc-highlight",
+    "progress-badge",
+    "film-gate"
+  ],
+  "mix": [
+    "silence-at-heaviest-line",
+    "dip-before-clip"
+  ],
+  "steal_rows": [
+    "Highlighted source document",
+    "Supercut cold open",
+    "Two-speed edit",
+    "Progress device",
+    "Silence at the heaviest line",
+    "Dip before a loud archive clip",
+    "Film-gate archive look",
+    "Slow last minute"
+  ],
+  "caution": "These ranges come from 3 videos by one creator, and outlier-versus-control differences are hypotheses."
+}

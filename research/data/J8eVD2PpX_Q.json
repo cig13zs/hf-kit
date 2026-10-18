@@ -1,0 +1,212 @@
+{
+ "id": "J8eVD2PpX_Q",
+ "url": "https://www.youtube.com/watch?v=J8eVD2PpX_Q",
+ "title": "Meet Numberblock 33 | BRAND NEW CHARACTER REVEAL | Learn to Count | Numberblocks",
+ "channel": "Numberblocks",
+ "channel_followers": 15100000,
+ "upload_date": "20260914",
+ "duration_s": 126.0,
+ "views": 1002427,
+ "likes": 4468,
+ "comments": null,
+ "vertical": false,
+ "niche": "kids-education",
+ "role": "outlier",
+ "outlier_ratio": 3.8,
+ "checked": "2026-09-26",
+ "cuts": {
+  "note": "hard cuts only (ffmpeg scene >= 0.30); dissolves and whip-pans undercount, so a floor",
+  "count": 5,
+  "per_min": 2.4,
+  "per_min_by_segment": {
+   "0-3s": 0.0,
+   "3-15s": 0.0,
+   "15-60s": 2.7,
+   "60-126s": 2.7
+  },
+  "avg_shot_s": 21.0,
+  "median_shot_s": 19.86,
+  "shot_p10_p90_s": [
+   0.6,
+   42.54
+  ],
+  "times": [
+   45.0,
+   45.92,
+   71.0,
+   71.28,
+   111.36
+  ]
+ },
+ "visual_energy_per_min": [
+  0.77,
+  0.99,
+  0.44
+ ],
+ "on_screen_text": {
+  "frames_checked": 40,
+  "text_share": 0.12,
+  "words_per_frame": 2.6
+ },
+ "speech": {
+  "caption_track": "en-orig",
+  "words": 168,
+  "wpm": 80.0,
+  "wpm_first_30s": 72.0,
+  "first_word_s": 1.08
+ },
+ "audio": {
+  "integrated_lufs": -18.1,
+  "loudness_range_lu": 13.2,
+  "shortterm_lufs_every_2s": [
+   -120.7,
+   -20.6,
+   -18.9,
+   -17.9,
+   -20.3,
+   -36.3,
+   -24.8,
+   -19.3,
+   -17.8,
+   -16.3,
+   -17.7,
+   -17.0,
+   -16.0,
+   -18.9,
+   -26.2,
+   -18.5,
+   -18.1,
+   -18.9,
+   -19.6,
+   -18.3,
+   -27.4,
+   -33.5,
+   -19.1,
+   -18.0,
+   -19.0,
+   -17.1,
+   -17.7,
+   -18.6,
+   -20.3,
+   -19.5,
+   -19.4,
+   -20.5,
+   -19.7,
+   -19.5,
+   -17.4,
+   -17.1,
+   -16.8,
+   -19.6,
+   -17.1,
+   -16.9,
+   -18.5,
+   -19.0,
+   -18.2,
+   -19.8,
+   -20.9,
+   -19.9,
+   -18.5,
+   -19.0,
+   -18.3,
+   -15.4,
+   -16.0,
+   -18.5,
+   -16.7,
+   -18.6,
+   -21.8,
+   -23.6,
+   -31.2,
+   -29.4,
+   -29.5,
+   -30.0,
+   -30.2,
+   -31.2,
+   -33.6,
+   -34.2
+  ],
+  "silences": [
+   [
+    8.92,
+    0.72
+   ],
+   [
+    28.35,
+    0.53
+   ],
+   [
+    40.46,
+    1.73
+   ],
+   [
+    55.28,
+    0.43
+   ],
+   [
+    65.59,
+    0.72
+   ],
+   [
+    74.63,
+    0.41
+   ],
+   [
+    110.73,
+    0.88
+   ],
+   [
+    125.22,
+    0.52
+   ]
+  ],
+  "silences_per_min": 3.81,
+  "silence_share": 0.047,
+  "onsets_per_min": 78.1
+ },
+ "music": {
+  "note": "proxies: tempo from onset autocorrelation (speech-heavy audio lowers confidence); brightness = spectral centroid; bass = energy share under 150 Hz",
+  "tempo_bpm": 152.0,
+  "tempo_confidence": 1.35,
+  "tempo_by_minute": [
+   143.6,
+   103.4
+  ],
+  "onsets_per_min": 100.0,
+  "cuts_on_audio_onsets": {
+   "within_s": 0.06,
+   "observed": 0.2,
+   "chance": 0.195,
+   "lift": 1.03
+  },
+  "brightness_hz_every_10s": [
+   950.269,
+   1028.017,
+   1415.889,
+   1371.177,
+   1295.56,
+   1323.961,
+   1306.565,
+   1201.209,
+   1645.887,
+   1305.153,
+   1106.59,
+   676.255,
+   528.655
+  ],
+  "bass_share_every_10s": [
+   0.065,
+   0.381,
+   0.122,
+   0.118,
+   0.179,
+   0.115,
+   0.088,
+   0.079,
+   0.071,
+   0.132,
+   0.107,
+   0.504,
+   0.405
+  ],
+  "caption_tags": {}
+ }
+}

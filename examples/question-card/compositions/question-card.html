@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="en" data-composition-variables='[{"id":"question","type":"string","label":"Question","default":"WHAT CHANGED EVERYTHING?"},{"id":"topLabel","type":"string","label":"Top camera label","default":"HOST"},{"id":"bottomLabel","type":"string","label":"Bottom camera label","default":"GUEST"},{"id":"cardColor","type":"string","label":"Card colour override","default":""}]'>
+<body>
+<template>
+  <!-- Static seam question; shorts-podcast Steal list: Question card over a stacked split.
+       Use for a clip answering one clear question; backfires if the answer wanders away.
+       Variables: question, topLabel, bottomLabel, cardColor. Shorts only, 9:16. -->
+  <style>
+    #root { position:relative; width:100%; height:100%; overflow:hidden; font-family:var(--hk-font-display,"Inter",system-ui,sans-serif); background:var(--hk-bg,#0b0f14); }
+    #question-card-split { position:absolute; inset:0; display:grid; grid-template-rows:1fr 1fr; }
+    .question-card-video-slot { position:relative; overflow:hidden; display:flex; align-items:flex-end; padding:5%; box-sizing:border-box; color:var(--hk-ink,#f5f5f0); font-family:var(--hk-font-body,"Inter",system-ui,sans-serif); font-size:clamp(18px,2.6vmin,32px); font-weight:800; letter-spacing:.08em; }
+    #question-card-top { background:linear-gradient(135deg,color-mix(in srgb,var(--hk-side-a,#3be8ff) 22%,var(--hk-bg,#0b0f14)),var(--hk-bg,#0b0f14)); }
+    #question-card-bottom { background:linear-gradient(135deg,color-mix(in srgb,var(--hk-side-b,#ff7a3b) 22%,var(--hk-bg,#0b0f14)),var(--hk-bg,#0b0f14)); }
+    #question-card-seam { position:absolute; left:5%; right:5%; top:50%; transform:translateY(-50%); min-height:12%; display:grid; place-items:center; padding:4%; box-sizing:border-box; background:var(--hk-paper,#f3efe4); color:var(--hk-bg,#0b0f14); text-align:center; font-size:clamp(30px,5.5vmin,75px); font-weight:900; line-height:1.05; text-transform:uppercase; overflow-wrap:anywhere; }
+  </style>
+  <div id="root" data-composition-id="question-card" data-start="0" data-width="1080" data-height="1920" data-duration="5">
+    <div id="question-card-split" class="clip" data-start="0" data-duration="5" data-track-index="1"><div id="question-card-top" class="question-card-video-slot"><span id="question-card-top-label">HOST</span></div><div id="question-card-bottom" class="question-card-video-slot"><span id="question-card-bottom-label">GUEST</span></div></div>
+    <div id="question-card-seam" class="clip" data-start="0" data-duration="5" data-track-index="2">WHAT CHANGED EVERYTHING?</div>
+  </div>
+  <script>
+    const vars = window.__hyperframes.getVariables();
+    document.getElementById("question-card-seam").textContent = vars.question;
+    document.getElementById("question-card-top-label").textContent = vars.topLabel;
+    document.getElementById("question-card-bottom-label").textContent = vars.bottomLabel;
+    if (vars.cardColor) document.getElementById("question-card-seam").style.background = vars.cardColor;
+    window.__timelines["question-card"] = gsap.timeline({ paused:true });
+  </script>
+</template>
+</body>
+</html>

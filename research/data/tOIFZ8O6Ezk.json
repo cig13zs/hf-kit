@@ -1,0 +1,79 @@
+{
+ "id": "tOIFZ8O6Ezk",
+ "url": "https://www.youtube.com/watch?v=tOIFZ8O6Ezk",
+ "title": "The floating tree illusion",
+ "channel": "Zach King",
+ "channel_followers": 43500000,
+ "upload_date": "20260530",
+ "duration_s": 11.0,
+ "views": 4035819,
+ "likes": 59202,
+ "comments": 1400,
+ "vertical": true,
+ "niche": "shorts-vfx",
+ "role": "control",
+ "outlier_ratio": 1.08,
+ "checked": "2026-09-26",
+ "cuts": {
+  "note": "hard cuts only (ffmpeg scene >= 0.30); dissolves and whip-pans undercount, so a floor",
+  "count": 0,
+  "per_min": 0.0,
+  "per_min_by_segment": {
+   "0-3s": 0.0,
+   "3-11s": 0.0
+  },
+  "avg_shot_s": 11.0,
+  "median_shot_s": 11.0,
+  "shot_p10_p90_s": [
+   11.0,
+   11.0
+  ],
+  "times": []
+ },
+ "visual_energy_per_min": [
+  1.34
+ ],
+ "on_screen_text": {
+  "frames_checked": 40,
+  "text_share": 0.0,
+  "words_per_frame": 0.0
+ },
+ "speech": {
+  "caption_track": "en-orig",
+  "words": 11,
+  "wpm": 60.0,
+  "wpm_first_30s": 60.0,
+  "first_word_s": 3.44
+ },
+ "audio": {
+  "integrated_lufs": -13.7,
+  "loudness_range_lu": 11.1,
+  "shortterm_lufs_every_2s": [
+   -120.7,
+   -22.1,
+   -20.3,
+   -19.2,
+   -12.6,
+   -9.7
+  ],
+  "silences": [],
+  "silences_per_min": 0.0,
+  "silence_share": 0.0,
+  "onsets_per_min": 76.4
+ },
+ "music": {
+  "note": "proxies: tempo from onset autocorrelation (speech-heavy audio lowers confidence); brightness = spectral centroid; bass = energy share under 150 Hz",
+  "tempo_bpm": 107.7,
+  "tempo_confidence": 1.26,
+  "tempo_by_minute": [],
+  "onsets_per_min": 109.1,
+  "cuts_on_audio_onsets": null,
+  "brightness_hz_every_10s": [
+   1579.212
+  ],
+  "bass_share_every_10s": [
+   0.277
+  ],
+  "caption_tags": {}
+ }
+}

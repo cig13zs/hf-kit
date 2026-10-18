@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="en" data-composition-variables='[{"id":"landmarks","type":"string","label":"Landmarks JSON [{x,y,text}] in world px (world = 2x frame)","default":"[{\"x\":900,\"y\":1250,\"text\":\"THE CELL\"},{\"x\":2050,\"y\":900,\"text\":\"THE VIRUS\"},{\"x\":3050,\"y\":1400,\"text\":\"THE DEFENCE\"}]"},{"id":"stations","type":"string","label":"Camera stations JSON [{t, at (landmark index) or focus [x,y], scale}]","default":"[{\"t\":0,\"focus\":[1920,1080],\"scale\":0.5},{\"t\":1.6,\"at\":0,\"scale\":1.25},{\"t\":4,\"at\":1,\"scale\":1.4},{\"t\":6.4,\"at\":2,\"scale\":1.25}]"},{"id":"title","type":"string","label":"Opening title (fades as the camera moves)","default":"ONE WORLD"},{"id":"accentOverride","type":"string","label":"Accent colour override","default":""}]'>
+<body><template>
+  <!-- One illustrated world, three parallax layers, and a camera that travels between named landmarks.
+  Source: animated-explainer Steal list, Long take through one world (first cut 5.9-22.9s, median shot 6.5-9.4s); works for an illustrated world, backfires on talking heads or stock clips.
+  Variables: landmarks JSON, stations JSON (a station frames a landmark with "at" or a world point with "focus"), title, accentOverride. -->
+  <style>
+    #root { position:absolute; inset:0; width:100%; height:100%; overflow:hidden; background:var(--hk-bg,#0b0f14); color:var(--hk-ink,#f5f5f0); font-family:var(--hk-font-body,"Inter",system-ui,sans-serif); }
+    .viewport { position:absolute; inset:0; overflow:hidden; }
+    .world { position:absolute; left:0; top:0; width:200%; height:200%; transform-origin:0 0; }
+    .layer { position:absolute; inset:0; }
+    .back { background:radial-gradient(circle at 78% 14%,var(--hk-accent,#ffd23f) 0 1.6%,transparent 1.7%),linear-gradient(#0d1824,#1f3d52 55%,#1d4a47); }
+    .back::after { content:""; position:absolute; top:30%; left:-60%; width:220%; height:30%; background:#26485c; clip-path:polygon(0 90%,10% 30%,21% 70%,33% 12%,46% 80%,58% 22%,71% 62%,84% 8%,100% 55%,100% 100%,0 100%); }
+    .middle::before { content:""; position:absolute; top:52%; left:0; width:100%; height:48%; background:#1b5250; clip-path:polygon(0 20%,12% 8%,25% 26%,38% 4%,53% 24%,67% 6%,82% 22%,100% 2%,100% 100%,0 100%); }
+    .front::after { content:""; position:absolute; top:80%; left:-60%; width:220%; height:20%; background:#0c2a2c; clip-path:polygon(0 35%,13% 70%,27% 30%,41% 80%,59% 25%,72% 72%,88% 28%,100% 60%,100% 100%,0 100%); }
+    .landmark { position:absolute; transform:translate(-50%,-50%); display:flex; flex-direction:column; align-items:center; gap:.5em; }
+    .landmark .dot { width:1.6em; height:1.6em; border-radius:50%; background:var(--hk-accent,#ffd23f); box-shadow:0 0 0 .45em #ffd23f33,0 0 1.4em var(--hk-accent,#ffd23f); }
+    .landmark .tag { padding:.35em .8em; border-radius:999px; background:var(--hk-bg,#0b0f14); border:3px solid var(--hk-accent,#ffd23f); font:800 clamp(1rem,2.6vmin,2.6rem)/1 var(--hk-font-display,"Inter",system-ui,sans-serif); letter-spacing:.04em; white-space:nowrap; }
+    .title { position:absolute; left:0; right:0; top:12%; text-align:center; font:800 clamp(2.4rem,8vmin,8rem)/1 var(--hk-font-display,"Inter",system-ui,sans-serif); letter-spacing:.04em; text-shadow:0 .04em .3em #000a; }
+  </style>
+  <div id="root" data-composition-id="world-camera" data-start="0" data-width="1920" data-height="1080" data-duration="8">
+    <section id="world-clip" class="clip viewport" data-start="0" data-duration="8" data-track-index="0">
+      <div id="world" class="world"><div id="layer-back" class="layer back"></div><div id="layer-middle" class="layer middle"></div><div id="layer-front" class="layer front"></div></div>
+      <div id="world-title" class="title">ONE WORLD</div>
+    </section>
+  </div>
+  <script>
+    (() => {
+      const root = document.querySelector('#root');
+      const { landmarks, stations, title, accentOverride } = window.__hyperframes.getVariables();
+      if (accentOverride) root.style.setProperty('--hk-accent', accentOverride);
+      const k = root.clientWidth / 1920, W = root.clientWidth, H = root.clientHeight;  // world px are authored against a 1920x1080 frame
+      const marks = JSON.parse(landmarks), stops = JSON.parse(stations);
+      const middle = root.querySelector('#layer-middle');
+      marks.forEach((m) => {
+        const el = document.createElement('div');
+        el.className = 'landmark'; el.style.left = m.x * k + 'px'; el.style.top = m.y * k + 'px';
+        el.innerHTML = '<span class="dot"></span><span class="tag"></span>';
+        el.querySelector('.tag').textContent = m.text;
+        middle.appendChild(el);
+      });
+      const titleEl = root.querySelector('#world-title');
+      titleEl.textContent = title;
+      const cam = (s) => {  // translate that centres the focus point at this scale
+        const [fx, fy] = s.at !== undefined ? [marks[s.at].x, marks[s.at].y] : s.focus;
+        return { x: W / 2 - fx * k * s.scale, y: H / 2 - fy * k * s.scale, scale: s.scale };
+      };
+      const world = root.querySelector('#world');
+      const layers = [[root.querySelector('#layer-back'), 0.6], [root.querySelector('#layer-front'), 1.4]];  // middle holds the landmarks, so it stays exact
+      const tl = gsap.timeline({ paused: true });
+      if (stops.length) {
+        const c0 = cam(stops[0]);
+        tl.set(world, c0, 0);
+        for (let i = 1; i < stops.length; i++) {
+          const prev = stops[i - 1], c = cam(stops[i]), duration = stops[i].t - prev.t;
+          if (duration <= 0) continue;
+          tl.to(world, { ...c, duration, ease: 'sine.inOut' }, prev.t);
+          layers.forEach(([el, f]) => tl.to(el, { x: (f - 1) * (c.x - c0.x) / c.scale, y: (f - 1) * (c.y - c0.y) / c.scale, duration, ease: 'sine.inOut' }, prev.t));
+        }
+        if (stops[1]) tl.to(titleEl, { autoAlpha: 0, y: -30, duration: 0.5, ease: 'power2.in' }, Math.max(0, stops[1].t - 0.2));
+      }
+      window.__timelines['world-camera'] = tl;
+    })();
+  </script>
+</template></body></html>

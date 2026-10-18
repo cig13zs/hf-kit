@@ -1,0 +1,86 @@
+{
+  "id": "build-payoff",
+  "source_niche": "science-entertainment",
+  "format": "16:9",
+  "measured_from": [
+    "DPZzrlFCD_I",
+    "P4gNS0Iiu0Q",
+    "9IiYOTzJ2uw"
+  ],
+  "ranges": {
+    "cuts_per_min": {
+      "0-15s": [
+        28.0,
+        56.0
+      ],
+      "15-60s": [
+        30.7,
+        61.3
+      ],
+      "60-180s": [
+        23.5,
+        48.0
+      ],
+      "body": [
+        15.6,
+        46.3
+      ],
+      "last_min": [
+        26.0,
+        59.0
+      ]
+    },
+    "median_shot_s": [
+      1.0,
+      2.12
+    ],
+    "text_share": [
+      0.0,
+      0.03
+    ],
+    "wpm": [
+      128.8,
+      166.6
+    ],
+    "first_word_s": [
+      0.0,
+      0.16
+    ],
+    "lufs": [
+      -13.8,
+      -7.5
+    ],
+    "lra_lu": [
+      1.7,
+      9.7
+    ],
+    "silences_per_min": [
+      0.05,
+      0.8
+    ]
+  },
+  "master": {
+    "lufs": -14,
+    "true_peak_db": -1
+  },
+  "tokens": {},
+  "captions": "none",
+  "blocks": [
+    "progress-badge"
+  ],
+  "mix": [
+    "payoff-lift",
+    "pause-at-turn"
+  ],
+  "steal_rows": [
+    "Superlative over the finished object",
+    "Payoff first, then \"N months ago\"",
+    "Proof that others failed",
+    "Test, fail, fix with slow-mo",
+    "Payoff montage: fewer cuts, louder music",
+    "Doubt, silence, reveal",
+    "Versus with stakes and a bracket",
+    "Ad as an in-story mini-game"
+  ],
+  "caution": "These ranges come from 3 videos by one creator, and outlier-versus-control differences are hypotheses."
+}

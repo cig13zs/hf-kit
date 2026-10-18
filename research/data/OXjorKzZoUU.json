@@ -1,0 +1,150 @@
+{
+ "id": "OXjorKzZoUU",
+ "url": "https://www.youtube.com/watch?v=OXjorKzZoUU",
+ "title": "Meet Numberblock 37 | BRAND NEW CHARACTER REVEAL | Learn to Count | Numberblocks",
+ "channel": "Numberblocks",
+ "channel_followers": 15100000,
+ "upload_date": "20260916",
+ "duration_s": 90.0,
+ "views": 262332,
+ "likes": 2532,
+ "comments": null,
+ "vertical": false,
+ "niche": "kids-education",
+ "role": "control",
+ "outlier_ratio": 0.98,
+ "checked": "2026-09-26",
+ "cuts": {
+  "note": "hard cuts only (ffmpeg scene >= 0.30); dissolves and whip-pans undercount, so a floor",
+  "count": 1,
+  "per_min": 0.7,
+  "per_min_by_segment": {
+   "0-3s": 0.0,
+   "3-15s": 0.0,
+   "15-60s": 0.0,
+   "60-90s": 2.0
+  },
+  "avg_shot_s": 45.0,
+  "median_shot_s": 45.0,
+  "shot_p10_p90_s": [
+   21.06,
+   68.94
+  ],
+  "times": [
+   74.92
+  ]
+ },
+ "visual_energy_per_min": [
+  0.51,
+  0.7
+ ],
+ "on_screen_text": {
+  "frames_checked": 40,
+  "text_share": 0.17,
+  "words_per_frame": 3.6
+ },
+ "speech": {
+  "caption_track": "en-orig",
+  "words": 119,
+  "wpm": 79.3,
+  "wpm_first_30s": 78.0,
+  "first_word_s": 1.08
+ },
+ "audio": {
+  "integrated_lufs": -22.2,
+  "loudness_range_lu": 12.1,
+  "shortterm_lufs_every_2s": [
+   -120.7,
+   -21.0,
+   -18.9,
+   -17.9,
+   -19.8,
+   -32.0,
+   -16.9,
+   -16.1,
+   -22.2,
+   -22.6,
+   -22.8,
+   -26.3,
+   -25.6,
+   -23.5,
+   -19.8,
+   -19.2,
+   -28.3,
+   -23.6,
+   -23.2,
+   -22.3,
+   -22.2,
+   -27.0,
+   -25.1,
+   -25.4,
+   -23.6,
+   -25.4,
+   -28.0,
+   -26.4,
+   -26.5,
+   -26.5,
+   -23.5,
+   -17.8,
+   -24.8,
+   -26.3,
+   -25.6,
+   -23.7,
+   -21.6,
+   -23.4,
+   -30.3,
+   -29.1,
+   -29.6,
+   -29.9,
+   -30.4,
+   -31.5,
+   -33.3
+  ],
+  "silences": [
+   [
+    8.89,
+    0.72
+   ],
+   [
+    88.7,
+    0.52
+   ]
+  ],
+  "silences_per_min": 1.33,
+  "silence_share": 0.014,
+  "onsets_per_min": 76.7
+ },
+ "music": {
+  "note": "proxies: tempo from onset autocorrelation (speech-heavy audio lowers confidence); brightness = spectral centroid; bass = energy share under 150 Hz",
+  "tempo_bpm": 73.8,
+  "tempo_confidence": 1.64,
+  "tempo_by_minute": [
+   123.0
+  ],
+  "onsets_per_min": 112.7,
+  "cuts_on_audio_onsets": null,
+  "brightness_hz_every_10s": [
+   950.946,
+   1177.236,
+   783.331,
+   1674.245,
+   1786.413,
+   995.694,
+   1867.782,
+   908.802,
+   479.604
+  ],
+  "bass_share_every_10s": [
+   0.065,
+   0.455,
+   0.2,
+   0.169,
+   0.108,
+   0.345,
+   0.235,
+   0.389,
+   0.428
+  ],
+  "caption_tags": {}
+ }
+}

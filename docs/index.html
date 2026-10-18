@@ -1,0 +1,458 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>hf-kit</title>
+<meta name="description" content="HyperFrames animation blocks, mix presets and style targets built from measurements of 48 YouTube videos in 16 niches.">
+<meta name="theme-color" content="#0b0f14">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Crect x='2' y='2' width='12' height='12' rx='2' fill='%23ffd23f'/%3E%3C/svg%3E">
+<link rel="stylesheet" href="style.css">
+<script src="app.js" defer></script>
+</head>
+<body>
+<a class="skip" href="#main">Skip to content</a>
+
+<header class="wrap bar">
+  <a class="mark" href="./">hf-kit</a>
+  <nav aria-label="Project links">
+    <a href="https://github.com/cig13zs/hf-kit">GitHub</a>
+    <a href="https://ko-fi.com/jju1s">Ko-fi</a>
+  </nav>
+</header>
+
+<main id="main">
+  <div class="wrap intro">
+    <div>
+      <h1>HyperFrames blocks and style targets, measured from 48 YouTube videos</h1>
+      <p class="lede">Thirteen animation blocks, sixteen style files with measured ranges, mix presets, generated sound effects and beds, a caption tool and a render checker, plus the research they came from.</p>
+      <p class="clone"><code><span>$ </span>git clone https://github.com/cig13zs/hf-kit</code></p>
+    </div>
+    <dl class="spec">
+      <dt>blocks</dt><dd>13</dd>
+      <dt>styles</dt><dd>16</dd>
+      <dt>niches</dt><dd>16, one creator each</dd>
+      <dt>videos</dt><dd>48</dd>
+      <dt>runs on</dt><dd>HyperFrames 0.8.77</dd>
+      <dt>licence</dt><dd>MIT, audio CC0</dd>
+    </dl>
+  </div>
+
+  <div class="wrap">
+    <figure class="reel">
+      <div class="frame">
+        <video id="reel" src="media/reel.mp4" autoplay muted loop playsinline controls preload="metadata" width="1920" height="1080" aria-label="Reel of the hf-kit block demos"></video>
+      </div>
+      <figcaption>The block demos in one reel. Each demo is a project in <code>examples/</code>.</figcaption>
+    </figure>
+  </div>
+
+  <section class="part" id="blocks" aria-labelledby="blocks-h">
+    <div class="wrap">
+      <h2 id="blocks-h">Blocks</h2>
+      <p class="note">Each block is one HyperFrames sub-composition that rebuilds a row from a niche's steal list. The <code>--hk-*</code> tokens theme all of them at once, and variables set the text and timing. Hover a tile to play its demo, or tap it on a phone.</p>
+
+      <h3>Demoed at 16:9</h3>
+      <ul class="tiles wide">
+        <li class="tile">
+          <button class="play" type="button" aria-pressed="false">
+            <span class="sr-only">Play the world-camera demo:</span>
+            <span class="ph" aria-hidden="true">world-camera</span>
+            <picture>
+              <source media="(prefers-reduced-motion: reduce)" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7">
+              <img src="media/world-camera.gif" alt="a camera travels between named landmarks in one illustrated world" loading="lazy" decoding="async" width="640" height="360">
+            </picture>
+            <video muted loop playsinline preload="none" data-src="media/world-camera.mp4"></video>
+            <span class="state" aria-hidden="true"></span>
+          </button>
+          <h4>world-camera</h4>
+          <p class="src">animated-explainer, Kurzgesagt</p>
+          <p class="row">"Long take through one world"</p>
+          <p class="vars">landmarks, stations, title, accentOverride</p>
+        </li>
+        <li class="tile">
+          <button class="play" type="button" aria-pressed="false">
+            <span class="sr-only">Play the pill-label demo:</span>
+            <span class="ph" aria-hidden="true">pill-label</span>
+            <picture>
+              <source media="(prefers-reduced-motion: reduce)" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7">
+              <img src="media/pill-label.gif" alt="a label pill appears the first time a term is named" loading="lazy" decoding="async" width="640" height="360">
+            </picture>
+            <video muted loop playsinline preload="none" data-src="media/pill-label.mp4"></video>
+            <span class="state" aria-hidden="true"></span>
+          </button>
+          <h4>pill-label</h4>
+          <p class="src">animated-explainer, Kurzgesagt</p>
+          <p class="row">"Pill label on first appearance"</p>
+          <p class="vars">text, actorColor, enterAt, holdSeconds</p>
+        </li>
+        <li class="tile">
+          <button class="play" type="button" aria-pressed="false">
+            <span class="sr-only">Play the chapter-card demo:</span>
+            <span class="ph" aria-hidden="true">chapter-card</span>
+            <picture>
+              <source media="(prefers-reduced-motion: reduce)" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7">
+              <img src="media/chapter-card.gif" alt="a full-frame chapter title card" loading="lazy" decoding="async" width="640" height="360">
+            </picture>
+            <video muted loop playsinline preload="none" data-src="media/chapter-card.mp4"></video>
+            <span class="state" aria-hidden="true"></span>
+          </button>
+          <h4>chapter-card</h4>
+          <p class="src">animated-explainer, Kurzgesagt</p>
+          <p class="row">"Spoken chapter card"</p>
+          <p class="vars">title, backgroundColor, textColor</p>
+        </li>
+        <li class="tile">
+          <button class="play" type="button" aria-pressed="false">
+            <span class="sr-only">Play the ui-window demo:</span>
+            <span class="ph" aria-hidden="true">ui-window</span>
+            <picture>
+              <source media="(prefers-reduced-motion: reduce)" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7">
+              <img src="media/ui-window.gif" alt="an app window with a title bar, text typing in steps and a progress bar" loading="lazy" decoding="async" width="640" height="360">
+            </picture>
+            <video muted loop playsinline preload="none" data-src="media/ui-window.mp4"></video>
+            <span class="state" aria-hidden="true"></span>
+          </button>
+          <h4>ui-window</h4>
+          <p class="src">animated-explainer, Kurzgesagt</p>
+          <p class="row">"UI window as evidence"</p>
+          <p class="vars">title, message, progress, accentOverride</p>
+        </li>
+        <li class="tile">
+          <button class="play" type="button" aria-pressed="false">
+            <span class="sr-only">Play the doc-highlight demo:</span>
+            <span class="ph" aria-hidden="true">doc-highlight</span>
+            <picture>
+              <source media="(prefers-reduced-motion: reduce)" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7">
+              <img src="media/doc-highlight.gif" alt="a source document where one phrase gets highlighted" loading="lazy" decoding="async" width="640" height="360">
+            </picture>
+            <video muted loop playsinline preload="none" data-src="media/doc-highlight.mp4"></video>
+            <span class="state" aria-hidden="true"></span>
+          </button>
+          <h4>doc-highlight</h4>
+          <p class="src">documentary, Johnny Harris</p>
+          <p class="row">"Highlighted source document"</p>
+          <p class="vars">heading, before, highlight, after, highlightColor, revealAt</p>
+        </li>
+        <li class="tile">
+          <button class="play" type="button" aria-pressed="false">
+            <span class="sr-only">Play the film-gate demo:</span>
+            <span class="ph" aria-hidden="true">film-gate</span>
+            <picture>
+              <source media="(prefers-reduced-motion: reduce)" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7">
+              <img src="media/film-gate.gif" alt="a rounded, vignetted gate laid over archive footage" loading="lazy" decoding="async" width="640" height="360">
+            </picture>
+            <video muted loop playsinline preload="none" data-src="media/film-gate.mp4"></video>
+            <span class="state" aria-hidden="true"></span>
+          </button>
+          <h4>film-gate</h4>
+          <p class="src">documentary, Johnny Harris</p>
+          <p class="row">"Film-gate archive look"</p>
+          <p class="vars">radiusPx, blurPx, spreadPx, shadowColor</p>
+        </li>
+        <li class="tile">
+          <button class="play" type="button" aria-pressed="false">
+            <span class="sr-only">Play the number-card demo:</span>
+            <span class="ph" aria-hidden="true">number-card</span>
+            <picture>
+              <source media="(prefers-reduced-motion: reduce)" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7">
+              <img src="media/number-card.gif" alt="a large number card with a label" loading="lazy" decoding="async" width="640" height="360">
+            </picture>
+            <video muted loop playsinline preload="none" data-src="media/number-card.mp4"></video>
+            <span class="state" aria-hidden="true"></span>
+          </button>
+          <h4>number-card</h4>
+          <p class="src">tech-review, Marques Brownlee; challenge-spectacle, MrBeast</p>
+          <p class="row">"Numbers as cards, nothing else" and "Outlined money type"</p>
+          <p class="vars">number, label, variant (clean or money), accentColor</p>
+        </li>
+        <li class="tile">
+          <button class="play" type="button" aria-pressed="false">
+            <span class="sr-only">Play the progress-badge demo:</span>
+            <span class="ph" aria-hidden="true">progress-badge</span>
+            <picture>
+              <source media="(prefers-reduced-motion: reduce)" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7">
+              <img src="media/progress-badge.gif" alt="a corner counter that pops each time its value changes" loading="lazy" decoding="async" width="640" height="360">
+            </picture>
+            <video muted loop playsinline preload="none" data-src="media/progress-badge.mp4"></video>
+            <span class="state" aria-hidden="true"></span>
+          </button>
+          <h4>progress-badge</h4>
+          <p class="src">challenge-spectacle, MrBeast</p>
+          <p class="row">"One progress device"</p>
+          <p class="vars">caption, changes, badgeColor</p>
+        </li>
+        <li class="tile">
+          <button class="play" type="button" aria-pressed="false">
+            <span class="sr-only">Play the tier-board demo:</span>
+            <span class="ph" aria-hidden="true">tier-board</span>
+            <picture>
+              <source media="(prefers-reduced-motion: reduce)" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7">
+              <img src="media/tier-board.gif" alt="an S to D tier board where items drop in and the winner glows" loading="lazy" decoding="async" width="640" height="360">
+            </picture>
+            <video muted loop playsinline preload="none" data-src="media/tier-board.mp4"></video>
+            <span class="state" aria-hidden="true"></span>
+          </button>
+          <h4>tier-board</h4>
+          <p class="src">cooking, Joshua Weissman</p>
+          <p class="row">"Scoring spine carried to a champion"</p>
+          <p class="vars">title, items, winnerTime, positiveOverride</p>
+        </li>
+      </ul>
+
+      <h3>Demoed at 9:16</h3>
+      <ul class="tiles tall">
+        <li class="tile">
+          <button class="play" type="button" aria-pressed="false">
+            <span class="sr-only">Play the zoom-through demo:</span>
+            <span class="ph" aria-hidden="true">zoom-through</span>
+            <picture>
+              <source media="(prefers-reduced-motion: reduce)" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7">
+              <img src="media/zoom-through.gif" alt="the camera pushes through an object from one scene into the next" loading="lazy" decoding="async" width="360" height="640">
+            </picture>
+            <video muted loop playsinline preload="none" data-src="media/zoom-through.mp4"></video>
+            <span class="state" aria-hidden="true"></span>
+          </button>
+          <h4>zoom-through</h4>
+          <p class="src">shorts-facts, Zack D. Films</p>
+          <p class="row">"Camera-move joins over hard cuts"</p>
+          <p class="vars">fromLabel, toLabel, transitionTime, objectX, objectY, accentOverride</p>
+        </li>
+        <li class="tile">
+          <button class="play" type="button" aria-pressed="false">
+            <span class="sr-only">Play the blur-swap demo:</span>
+            <span class="ph" aria-hidden="true">blur-swap</span>
+            <picture>
+              <source media="(prefers-reduced-motion: reduce)" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7">
+              <img src="media/blur-swap.gif" alt="one thing swaps for another at the peak of a short blur" loading="lazy" decoding="async" width="360" height="640">
+            </picture>
+            <video muted loop playsinline preload="none" data-src="media/blur-swap.mp4"></video>
+            <span class="state" aria-hidden="true"></span>
+          </button>
+          <h4>blur-swap</h4>
+          <p class="src">shorts-vfx, Zach King</p>
+          <p class="row">"One-take look" and "Transformation on camera"</p>
+          <p class="vars">beforeText, afterText, swapTime, frames, fps, accentOverride</p>
+        </li>
+        <li class="tile">
+          <button class="play" type="button" aria-pressed="false">
+            <span class="sr-only">Play the face-banner-stack demo:</span>
+            <span class="ph" aria-hidden="true">face-banner-stack</span>
+            <picture>
+              <source media="(prefers-reduced-motion: reduce)" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7">
+              <img src="media/face-banner-stack.gif" alt="a vertical layout with a face slot, a topic banner and a content box" loading="lazy" decoding="async" width="360" height="640">
+            </picture>
+            <video muted loop playsinline preload="none" data-src="media/face-banner-stack.mp4"></video>
+            <span class="state" aria-hidden="true"></span>
+          </button>
+          <h4>face-banner-stack</h4>
+          <p class="src">shorts-gaming, KreekCraft</p>
+          <p class="row">"Face-banner-content stack"</p>
+          <p class="vars">layout, banner, faceLabel, contentLabel, topicLabel, bannerOverride</p>
+        </li>
+        <li class="tile">
+          <button class="play" type="button" aria-pressed="false">
+            <span class="sr-only">Play the question-card demo:</span>
+            <span class="ph" aria-hidden="true">question-card</span>
+            <picture>
+              <source media="(prefers-reduced-motion: reduce)" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7">
+              <img src="media/question-card.gif" alt="a question card on the seam of a stacked two-person split" loading="lazy" decoding="async" width="360" height="640">
+            </picture>
+            <video muted loop playsinline preload="none" data-src="media/question-card.mp4"></video>
+            <span class="state" aria-hidden="true"></span>
+          </button>
+          <h4>question-card</h4>
+          <p class="src">shorts-podcast, The Diary Of A CEO</p>
+          <p class="row">"Question card over a stacked split"</p>
+          <p class="vars">question, topLabel, bottomLabel, cardColor</p>
+        </li>
+      </ul>
+    </div>
+  </section>
+
+  <section class="part" id="styles" aria-labelledby="styles-h">
+    <div class="wrap">
+      <h2 id="styles-h">Styles</h2>
+      <p class="note">A style file holds the ranges measured across one creator's three videos, with the tokens, caption variant, blocks and mix presets that go with them. <code>tools/scaffold.py --style</code> starts a project from one; <code>tools/check.py --style</code> measures your render against it. Below: hard cuts per minute by segment, and the median shot length.</p>
+
+      <div class="scroll" role="region" aria-labelledby="long-cap" tabindex="0">
+        <table>
+          <caption id="long-cap">Long form, 16:9. Cuts per minute; the bars share one scale from 0 to 62.</caption>
+          <thead>
+            <tr><th scope="col">style</th><th scope="col">niche, creator</th><th scope="col">0-15 s</th><th scope="col">15-60 s</th><th scope="col">60-180 s</th><th scope="col">body</th><th scope="col">last min</th><th scope="col">median shot (s)</th></tr>
+          </thead>
+          <tbody>
+            <tr><th scope="row">archive-essay</th><td class="who">documentary, Johnny Harris</td>
+              <td class="num">24-48<span class="rb" style="--a:24;--b:48"></span></td>
+              <td class="num">25.3-32<span class="rb" style="--a:25.3;--b:32"></span></td>
+              <td class="num">26.5-43<span class="rb" style="--a:26.5;--b:43"></span></td>
+              <td class="num">13-22.8<span class="rb" style="--a:13;--b:22.8"></span></td>
+              <td class="num">1-4<span class="rb" style="--a:1;--b:4"></span></td>
+              <td class="num">1.64-2.71</td></tr>
+            <tr><th scope="row">world-explainer</th><td class="who">animated-explainer, Kurzgesagt</td>
+              <td class="num">0-4<span class="rb" style="--a:0;--b:4"></span></td>
+              <td class="num">2.7-8<span class="rb" style="--a:2.7;--b:8"></span></td>
+              <td class="num">4-6<span class="rb" style="--a:4;--b:6"></span></td>
+              <td class="num">4.5-5.2<span class="rb" style="--a:4.5;--b:5.2"></span></td>
+              <td class="num">3-12<span class="rb" style="--a:3;--b:12"></span></td>
+              <td class="num">6.54-9.37</td></tr>
+            <tr><th scope="row">build-payoff</th><td class="who">science-entertainment, Mark Rober</td>
+              <td class="num">28-56<span class="rb" style="--a:28;--b:56"></span></td>
+              <td class="num">30.7-61.3<span class="rb" style="--a:30.7;--b:61.3"></span></td>
+              <td class="num">23.5-48<span class="rb" style="--a:23.5;--b:48"></span></td>
+              <td class="num">15.6-46.3<span class="rb" style="--a:15.6;--b:46.3"></span></td>
+              <td class="num">26-59<span class="rb" style="--a:26;--b:59"></span></td>
+              <td class="num">1-2.12</td></tr>
+            <tr><th scope="row">challenge-metronome</th><td class="who">challenge-spectacle, MrBeast</td>
+              <td class="num">16-28<span class="rb" style="--a:16;--b:28"></span></td>
+              <td class="num">32-34.7<span class="rb" style="--a:32;--b:34.7"></span></td>
+              <td class="num">27-37<span class="rb" style="--a:27;--b:37"></span></td>
+              <td class="num">27.6-30.6<span class="rb" style="--a:27.6;--b:30.6"></span></td>
+              <td class="num">19-39<span class="rb" style="--a:19;--b:39"></span></td>
+              <td class="num">1.53-1.8</td></tr>
+            <tr><th scope="row">proof-review</th><td class="who">tech-review, Marques Brownlee</td>
+              <td class="num">8-16<span class="rb" style="--a:8;--b:16"></span></td>
+              <td class="num">9.3-16<span class="rb" style="--a:9.3;--b:16"></span></td>
+              <td class="num">8.5-9<span class="rb" style="--a:8.5;--b:9"></span></td>
+              <td class="num">4.5-6.7<span class="rb" style="--a:4.5;--b:6.7"></span></td>
+              <td class="num">6-7<span class="rb" style="--a:6;--b:7"></span></td>
+              <td class="num">5.57-7.96</td></tr>
+            <tr><th scope="row">screen-news</th><td class="who">tech-news-screen, Fireship</td>
+              <td class="num">12-16<span class="rb" style="--a:12;--b:16"></span></td>
+              <td class="num">10.7-20<span class="rb" style="--a:10.7;--b:20"></span></td>
+              <td class="num">11-18<span class="rb" style="--a:11;--b:18"></span></td>
+              <td class="num">7.5-18.6<span class="rb" style="--a:7.5;--b:18.6"></span></td>
+              <td class="num">2-8<span class="rb" style="--a:2;--b:8"></span></td>
+              <td class="num">2.67-3.73</td></tr>
+            <tr><th scope="row">series-gameplay</th><td class="who">gaming-longform, Grian</td>
+              <td class="none" colspan="5">no cut target: game menus read as cuts and some dark-scene cuts are missed</td>
+              <td class="none">none</td></tr>
+            <tr><th scope="row">campfire-story</th><td class="who">storytelling-true-crime, MrBallen</td>
+              <td class="num">0-20<span class="rb" style="--a:0;--b:20"></span></td>
+              <td class="num">0-2.7<span class="rb" style="--a:0;--b:2.7"></span></td>
+              <td class="num">1-4<span class="rb" style="--a:1;--b:4"></span></td>
+              <td class="num">0.8-3.2<span class="rb" style="--a:0.8;--b:3.2"></span></td>
+              <td class="num">3-7<span class="rb" style="--a:3;--b:7"></span></td>
+              <td class="num">7.92-20.04</td></tr>
+            <tr><th scope="row">tasting-tour</th><td class="who">cooking, Joshua Weissman</td>
+              <td class="num">4-60<span class="rb" style="--a:4;--b:60"></span></td>
+              <td class="num">26.7-44<span class="rb" style="--a:26.7;--b:44"></span></td>
+              <td class="num">21.5-35<span class="rb" style="--a:21.5;--b:35"></span></td>
+              <td class="num">28.7-31.1<span class="rb" style="--a:28.7;--b:31.1"></span></td>
+              <td class="num">22-27<span class="rb" style="--a:22;--b:27"></span></td>
+              <td class="num">1.53-1.73</td></tr>
+            <tr><th scope="row">block-lesson</th><td class="who">kids-education, Numberblocks</td>
+              <td class="num">0-8<span class="rb" style="--a:0;--b:8"></span></td>
+              <td class="num">0-10.7<span class="rb" style="--a:0;--b:10.7"></span></td>
+              <td class="num">2-9.5<span class="rb" style="--a:2;--b:9.5"></span></td>
+              <td class="num">9.7<span class="rb" style="--a:9.7;--b:9.7"></span></td>
+              <td class="num">3<span class="rb" style="--a:3;--b:3"></span></td>
+              <td class="num">4.08-45</td></tr>
+            <tr><th scope="row">calm-teaching</th><td class="who">calm-faith, BibleProject</td>
+              <td class="none" colspan="5">no cut target: dissolves and morphs hide the cuts</td>
+              <td class="none">none</td></tr>
+            <tr><th scope="row">drawn-storytime</th><td class="who">animated-storytime, JaidenAnimations</td>
+              <td class="num">0-24<span class="rb" style="--a:0;--b:24"></span></td>
+              <td class="num">18.7-21.3<span class="rb" style="--a:18.7;--b:21.3"></span></td>
+              <td class="num">15.5-22.5<span class="rb" style="--a:15.5;--b:22.5"></span></td>
+              <td class="num">23.3-24.8<span class="rb" style="--a:23.3;--b:24.8"></span></td>
+              <td class="num">6-10<span class="rb" style="--a:6;--b:10"></span></td>
+              <td class="num">1.88-2</td></tr>
+          </tbody>
+        </table>
+      </div>
+
+      <div class="scroll" role="region" aria-labelledby="short-cap" tabindex="0">
+        <table>
+          <caption id="short-cap">Shorts, 9:16. Same scale. n/a means the style file sets no range for that segment.</caption>
+          <thead>
+            <tr><th scope="col">style</th><th scope="col">niche, creator</th><th scope="col">0-3 s</th><th scope="col">3-15 s</th><th scope="col">15-60 s</th><th scope="col">60 s+</th><th scope="col">median shot (s)</th></tr>
+          </thead>
+          <tbody>
+            <tr><th scope="row">facts-short</th><td class="who">shorts-facts, Zack D. Films</td>
+              <td class="num">0<span class="rb" style="--a:0;--b:0"></span></td>
+              <td class="num">0-10<span class="rb" style="--a:0;--b:10"></span></td>
+              <td class="num">1.5-5.7<span class="rb" style="--a:1.5;--b:5.7"></span></td>
+              <td class="none">n/a</td>
+              <td class="num">4.67-13.55</td></tr>
+            <tr><th scope="row">news-short</th><td class="who">shorts-gaming, KreekCraft</td>
+              <td class="num">0-20<span class="rb" style="--a:0;--b:20"></span></td>
+              <td class="num">6.7-15<span class="rb" style="--a:6.7;--b:15"></span></td>
+              <td class="none">n/a</td>
+              <td class="none">n/a</td>
+              <td class="num">2.03-6</td></tr>
+            <tr><th scope="row">podcast-clip</th><td class="who">shorts-podcast, The Diary Of A CEO</td>
+              <td class="num">0-20<span class="rb" style="--a:0;--b:20"></span></td>
+              <td class="num">5-30<span class="rb" style="--a:5;--b:30"></span></td>
+              <td class="num">13.3-30.7<span class="rb" style="--a:13.3;--b:30.7"></span></td>
+              <td class="num">15-30.7<span class="rb" style="--a:15;--b:30.7"></span></td>
+              <td class="num">1.5-2.43</td></tr>
+            <tr><th scope="row">one-take-trick</th><td class="who">shorts-vfx, Zach King</td>
+              <td class="num">0<span class="rb" style="--a:0;--b:0"></span></td>
+              <td class="num">0<span class="rb" style="--a:0;--b:0"></span></td>
+              <td class="num">0<span class="rb" style="--a:0;--b:0"></span></td>
+              <td class="none">n/a</td>
+              <td class="num">11-26</td></tr>
+          </tbody>
+        </table>
+      </div>
+      <p class="tablenote">The ranges swing hard between niches: the documentary style opens at 24-48 cuts a minute and the explainer style at 0-4. Inside a niche, a higher cut rate didn't go with more views, so take a niche's rate together with its format.</p>
+    </div>
+  </section>
+
+  <section class="sheet" id="measured" aria-labelledby="measured-h">
+    <div class="wrap">
+      <h2 id="measured-h">How it was measured</h2>
+      <p class="finding"><mark>Cut rate and loudness did not separate the outliers from their controls.</mark> A person at stake, the stake stated in the first seconds, proof on screen and a held answer did. Read both halves as hypotheses: each rests on three videos per creator.</p>
+
+      <p>There are 16 niches with one creator each. From a creator's latest 80 uploads we took the video with the highest views-to-median ratio, the highest ratio among the latest 30, and, as the control, the video closest to the median among the latest 30. Outlier ratios run from 1.62x to 44.32x and controls from 0.93x to 1.08x. Compilations, sponsored uploads, livestreams and anything over two hours were left out. Views were read on 26 September 2026.</p>
+
+      <div class="cols">
+        <div class="no">
+          <h3>Did not separate</h3>
+          <ul>
+            <li>Overall cut rate. Outliers cut slower than their control in <b>4</b> niches and faster in <b>4</b>, and every faster case has a confound. Johnny Harris's outliers: <b>14.6-14.8</b> cuts/min, his control <b>23.4</b>.</li>
+            <li>Median shot length, which follows the cut rate.</li>
+            <li>Integrated loudness: <b>-5.6</b> to <b>-33.9</b> LUFS across the 48, with no direction.</li>
+            <li>Designed transitions. <b>15</b> of 16 niches use no whip, glitch, spin or zoom as a habit, in outliers and controls alike.</li>
+          </ul>
+        </div>
+        <div class="yes">
+          <h3>Recurred in outliers</h3>
+          <ul>
+            <li>A person with something at stake: <b>6</b> niches.</li>
+            <li>The stake or claim in the first seconds: <b>6</b> niches.</li>
+            <li>Proof on screen: <b>5</b> niches.</li>
+            <li>The title's answer held back: <b>4</b> niches.</li>
+            <li>Denser speech in the first 30 s: <b>8</b> niches.</li>
+            <li>Fewer music-only stretches: <b>8</b> niches.</li>
+          </ul>
+        </div>
+      </div>
+
+      <h3>What each number is</h3>
+      <dl class="defs">
+        <dt>hard cut</dt><dd>An ffmpeg scene score of 0.30 or more on a 160 px wide copy. Detections under 0.25 s apart count once.</dd>
+        <dt>segments</dt><dd>Long form: 0-15 s, 15-60 s, 60-180 s, the body, the last minute. Shorts: 0-3 s, 3-15 s, 15-60 s, 60 s on.</dd>
+        <dt>text share</dt><dd>The share of sampled frames where Tesseract reads two or more words at confidence above 70.</dd>
+        <dt>words per minute</dt><dd>From the YouTube caption track, over the whole video and over the first 30 s.</dd>
+        <dt>loudness</dt><dd>EBU R128 integrated loudness and loudness range, measured with ffmpeg.</dd>
+        <dt>silences</dt><dd>Stretches below -35 dB that last 0.4 s or longer.</dd>
+        <dt>music</dt><dd>Spectral-flux onsets, brightness and bass share in 10 s windows, and <code>[music]</code> tags in the captions.</dd>
+      </dl>
+
+      <p class="small">Hard-cut counts are floors, since dissolves, whips, camera moves and overlays go uncounted. Every niche is one channel's house style. Nobody listened to the audio, and tempo under narration was too unstable to use. Views don't prove an edit caused them. The full tables, the confounds and a mood table are in <a href="https://github.com/cig13zs/hf-kit/blob/main/research/TECHNIQUES.md">research/TECHNIQUES.md</a>.</p>
+    </div>
+  </section>
+</main>
+
+<footer>
+  <div class="wrap">
+    <span>hf-kit</span>
+    <a href="https://github.com/cig13zs/hf-kit">github.com/cig13zs/hf-kit</a>
+    <a href="https://ko-fi.com/jju1s">Support it on Ko-fi</a>
+    <span>MIT. Generated audio CC0.</span>
+  </div>
+</footer>
+</body>
+</html>

@@ -1,0 +1,82 @@
+{
+ "id": "rssMorwX9Ws",
+ "url": "https://www.youtube.com/watch?v=rssMorwX9Ws",
+ "title": "How To Unlock the Classic Roblox Theme",
+ "channel": "KreekCraft",
+ "channel_followers": 17300000,
+ "upload_date": "20260903",
+ "duration_s": 12.0,
+ "views": 2313303,
+ "likes": 38792,
+ "comments": 6300,
+ "vertical": true,
+ "niche": "shorts-gaming",
+ "role": "outlier",
+ "outlier_ratio": 3.63,
+ "checked": "2026-09-26",
+ "cuts": {
+  "note": "hard cuts only (ffmpeg scene >= 0.30); dissolves and whip-pans undercount, so a floor",
+  "count": 1,
+  "per_min": 5.0,
+  "per_min_by_segment": {
+   "0-3s": 0.0,
+   "3-12s": 6.7
+  },
+  "avg_shot_s": 6.0,
+  "median_shot_s": 6.0,
+  "shot_p10_p90_s": [
+   2.34,
+   9.66
+  ],
+  "times": [
+   10.57
+  ]
+ },
+ "visual_energy_per_min": [
+  1.09
+ ],
+ "on_screen_text": {
+  "frames_checked": 40,
+  "text_share": 0.95,
+  "words_per_frame": 7.2
+ },
+ "speech": {
+  "caption_track": "en-orig",
+  "words": 61,
+  "wpm": 305.0,
+  "wpm_first_30s": 305.0,
+  "first_word_s": 0.0
+ },
+ "audio": {
+  "integrated_lufs": -14.9,
+  "loudness_range_lu": 2.4,
+  "shortterm_lufs_every_2s": [
+   -120.7,
+   -15.7,
+   -15.5,
+   -15.2,
+   -13.8,
+   -14.9,
+   -15.5
+  ],
+  "silences": [],
+  "silences_per_min": 0.0,
+  "silence_share": 0.0,
+  "onsets_per_min": 130.0
+ },
+ "music": {
+  "note": "proxies: tempo from onset autocorrelation (speech-heavy audio lowers confidence); brightness = spectral centroid; bass = energy share under 150 Hz",
+  "tempo_bpm": 95.7,
+  "tempo_confidence": 1.9,
+  "tempo_by_minute": [],
+  "onsets_per_min": 160.0,
+  "cuts_on_audio_onsets": null,
+  "brightness_hz_every_10s": [
+   946.115
+  ],
+  "bass_share_every_10s": [
+   0.048
+  ],
+  "caption_tags": {}
+ }
+}

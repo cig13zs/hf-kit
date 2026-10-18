@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="en" data-composition-variables='[{"id":"layout","type":"enum","label":"Layout","default":"stack","options":[{"value":"stack","label":"Face, banner, content"},{"value":"topic-top","label":"16:9 topic box on top"}]},{"id":"banner","type":"string","label":"Banner text","default":"THE NEW UPDATE"},{"id":"faceLabel","type":"string","label":"Face slot label","default":"FACE / CAMERA"},{"id":"contentLabel","type":"string","label":"Content slot label","default":"SOURCE POST"},{"id":"topicLabel","type":"string","label":"Topic box label","default":"TOPIC VISUAL"},{"id":"bannerOverride","type":"string","label":"Banner colour override","default":""}]'>
+<body><template>
+  <!-- Persistent face, topic banner, and source slot; topic-top mode adds a rounded 16:9 top box.
+  Source: shorts-gaming Steal list, Face-banner-content stack; works for creator-led news, backfires when footage needs the full frame.
+  Variables: layout, banner, faceLabel, contentLabel, topicLabel, bannerOverride. -->
+  <style>
+    #root { position:absolute; inset:0; width:100%; height:100%; overflow:hidden; background:var(--hk-bg,#0b0f14); color:var(--hk-ink,#f5f5f0); font-family:var(--hk-font-body,"Inter",system-ui,sans-serif); }
+    .stack { position:absolute; inset:0; display:grid; grid-template-rows:33% 11% 56%; gap:0; }
+    .face { display:grid; place-items:center; min-height:0; background:var(--hk-positive,#39ff6a); color:var(--hk-bg,#0b0f14); font:800 clamp(1.3rem,4.3vmin,4rem)/1 var(--hk-font-display,"Inter",system-ui,sans-serif); }
+    .banner { display:grid; place-items:center; margin:0 4%; border-radius:1.5vmin; background:var(--hk-negative,#ff4d4d); color:var(--hk-ink,#f5f5f0); font:900 clamp(1.4rem,5.2vmin,5rem)/1 var(--hk-font-display,"Inter",system-ui,sans-serif); text-align:center; }
+    .content { display:grid; place-items:center; min-height:0; margin:1.5% 4% 4%; border:2px solid #ffffff55; background:var(--hk-paper,#f3efe4); color:var(--hk-bg,#0b0f14); font:800 clamp(1.2rem,3.5vmin,3rem)/1 var(--hk-font-display,"Inter",system-ui,sans-serif); }
+    .topic { display:none; width:88%; aspect-ratio:16/9; align-self:center; justify-self:center; place-items:center; border-radius:2vmin; background:var(--hk-paper,#f3efe4); color:var(--hk-bg,#0b0f14); font:800 clamp(1rem,3.7vmin,3rem)/1 var(--hk-font-display,"Inter",system-ui,sans-serif); }
+    #root.topic-top .stack { grid-template-rows:29% 24% 10% 37%; }
+    #root.topic-top .topic { display:grid; }
+    #root.topic-top .face { grid-row:2; margin:0 4%; }
+    #root.topic-top .banner { grid-row:3; }
+    #root.topic-top .content { grid-row:4; }
+  </style>
+  <div id="root" data-composition-id="face-banner-stack" data-start="0" data-width="1080" data-height="1920" data-duration="5">
+    <section id="face-stack-clip" class="clip" data-start="0" data-duration="5" data-track-index="0">
+      <div class="stack"><div id="topic-slot" class="topic" data-slot="topic">TOPIC VISUAL</div><div id="face-slot" class="face" data-slot="face">FACE / CAMERA</div><div id="banner-text" class="banner">THE NEW UPDATE</div><div id="content-slot" class="content" data-slot="content">SOURCE POST</div></div>
+    </section>
+  </div>
+  <script>
+    (() => {
+      const root=document.querySelector('#root');
+      const { layout,banner,faceLabel,contentLabel,topicLabel,bannerOverride }=window.__hyperframes.getVariables();
+      root.classList.toggle('topic-top',layout==='topic-top');
+      if (bannerOverride) root.style.setProperty('--hk-negative',bannerOverride);
+      root.querySelector('#banner-text').textContent=banner;
+      root.querySelector('#face-slot').textContent=faceLabel;
+      root.querySelector('#content-slot').textContent=contentLabel;
+      root.querySelector('#topic-slot').textContent=topicLabel;
+      window.__timelines['face-banner-stack']=gsap.timeline({ paused:true });
+    })();
+  </script>
+</template></body></html>
+

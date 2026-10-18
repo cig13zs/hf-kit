@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="en" data-composition-variables='[{"id":"title","type":"string","label":"Board title","default":"THE RANKING"},{"id":"items","type":"string","label":"Items JSON [{label,tier,t,winner}]","default":"[{\"label\":\"A\",\"tier\":\"B\",\"t\":0.6},{\"label\":\"B\",\"tier\":\"A\",\"t\":1.5},{\"label\":\"C\",\"tier\":\"S\",\"t\":2.4,\"winner\":true}]"},{"id":"winnerTime","type":"number","label":"Champion reveal time","default":4.5,"min":0,"step":0.1},{"id":"positiveOverride","type":"string","label":"Winner colour override","default":""}]'>
+<body><template>
+  <!-- S-D ranking board; timed items scale in and the champion glows.
+  Source: cooking Steal list, Scoring spine carried to a champion; works for comparable items, backfires without criteria.
+  Variables: title, items JSON [{label, tier, t, img?, winner?}], winnerTime, positiveOverride. -->
+  <style>
+    #root { position:absolute; inset:0; width:100%; height:100%; overflow:hidden; background:var(--hk-bg,#0b0f14); color:var(--hk-ink,#f5f5f0); font-family:var(--hk-font-body,"Inter",system-ui,sans-serif); }
+    .clip { position:absolute; inset:0; box-sizing:border-box; padding:4vmin 6vmin; }
+    h1 { margin:0 0 3vmin; font:800 clamp(2rem,5vmin,5rem)/1 var(--hk-font-display,"Inter",system-ui,sans-serif); }
+    .board { height:82%; display:grid; grid-template-rows:repeat(5,1fr); gap:.9vmin; }
+    .row { display:flex; min-height:0; border:1px solid #ffffff44; border-radius:1vmin; overflow:visible; background:#ffffff12; }
+    .grade { flex:0 0 11%; display:grid; place-items:center; background:var(--hk-paper,#f3efe4); color:var(--hk-bg,#0b0f14); font:800 clamp(1.4rem,4.5vmin,4.5rem)/1 var(--hk-font-display,"Inter",system-ui,sans-serif); }
+    .items { flex:1; min-width:0; display:flex; align-items:center; gap:1.2vmin; padding:1vmin 2vmin; }
+    .item { height:86%; aspect-ratio:1.8; flex:0 0 auto; display:grid; place-items:center; border-radius:.8vmin; background:var(--hk-paper,#f3efe4); color:var(--hk-bg,#0b0f14); font:800 clamp(.9rem,2.6vmin,2.6rem)/1.05 var(--hk-font-display,"Inter",system-ui,sans-serif); text-align:center; overflow:hidden; padding:.3em; box-sizing:border-box; }
+    .item img { width:100%; height:100%; object-fit:cover; }
+    .item:has(img) { aspect-ratio:1; padding:0; }
+  </style>
+  <div id="root" data-composition-id="tier-board" data-start="0" data-width="1920" data-height="1080" data-duration="6">
+    <section id="tier-clip" class="clip" data-start="0" data-duration="6" data-track-index="0">
+      <h1 id="tier-title">THE RANKING</h1><div class="board"><div class="row"><div class="grade">S</div><div class="items" data-tier="S"></div></div><div class="row"><div class="grade">A</div><div class="items" data-tier="A"></div></div><div class="row"><div class="grade">B</div><div class="items" data-tier="B"></div></div><div class="row"><div class="grade">C</div><div class="items" data-tier="C"></div></div><div class="row"><div class="grade">D</div><div class="items" data-tier="D"></div></div></div>
+    </section>
+  </div>
+  <script>
+    (() => {
+      const root=document.querySelector('#root');
+      const { title,items,winnerTime,positiveOverride }=window.__hyperframes.getVariables();
+      if (positiveOverride) root.style.setProperty('--hk-positive',positiveOverride);
+      root.querySelector('#tier-title').textContent=title;
+      const tl=gsap.timeline({ paused:true });
+      JSON.parse(items).forEach((item) => {
+        const row=Array.from(root.querySelectorAll('.items')).find(el => el.dataset.tier===item.tier);
+        if (!row) return;
+        const tile=document.createElement('div');
+        tile.className='item';
+        if (item.img) { const img=document.createElement('img'); img.src=item.img; img.alt=item.label||''; tile.appendChild(img); } else tile.textContent=item.label;
+        row.appendChild(tile);
+        tl.fromTo(tile,{ scale:0 },{ scale:1, duration:0.3, ease:'power3.out' },item.t);
+        if (item.winner) tl.to(tile,{ scale:1.15, filter:'drop-shadow(0 0 18px var(--hk-positive, #39ff6a))', duration:0.3, ease:'power3.out' },Math.max(item.t+0.3,winnerTime));
+      });
+      window.__timelines['tier-board']=tl;
+    })();
+  </script>
+</template></body></html>
+
