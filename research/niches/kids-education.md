@@ -37,21 +37,21 @@ HyperFrames runtime.
 | Music: brightness median | 996 Hz (OXjorKzZoUU) | 1296 Hz (J8eVD2PpX_Q) |
 
 ## Shared devices (all three: the house style)
-- **The body is the number.** Characters are stacks of unit blocks, one colour per number,
+- The body is the number. Characters are stacks of unit blocks, one colour per number,
   and the count of blocks is the value (seen in all three).
-- **The numeral stays on screen.** Above each head in the compilation; a corner badge in the
+- The numeral stays on screen. Above each head in the compilation; a corner badge in the
   reveals from the moment of the reveal (seen).
-- **Slow speech:** 79-98 wpm (measured), about half the animated explainers' 156-162.
-- **Camera flights instead of cuts:** 0.7-9.5 cuts/min (measured). The reveals are one
+- Slow speech: 79-98 wpm (measured), about half the animated explainers' 156-162.
+- Camera flights instead of cuts: 0.7-9.5 cuts/min (measured). The reveals are one
   continuous 3D camera from the book to the page to the character (seen); the compilation
   cranes and tracks inside its scenes (seen).
-- **Musical openings.** Both reveals open with a rhymed jingle about the magic book (0:01; sung is inferred); the
+- Musical openings. Both reveals open with a rhymed jingle about the magic book (0:01; sung is inferred); the
   compilation opens with a times-table song (0:07) (seen in transcripts).
-- **Quiet, wide mixes:** −18.1 to −22.4 LUFS and LRA 6.6-13.2 LU (measured), the quietest and
+- Quiet, wide mixes: −18.1 to −22.4 LUFS and LRA 6.6-13.2 LU (measured), the quietest and
   widest in the sample so far.
-- **Pauses:** 1.3-3.81 silences/min (measured), and a 0.72s gap right after the jingle in both
+- Pauses: 1.3-3.81 silences/min (measured), and a 0.72s gap right after the jingle in both
   reveals (0:08.9, measured).
-- **Participation prompts:** "who could this Numberblock be?", "Shout it out if you know",
+- Participation prompts: "who could this Numberblock be?", "Shout it out if you know",
   counting aloud (seen in transcripts).
 - **No whip, glitch or shake** in any sampled frame (seen). The accents are sparkles, glow,
   confetti and bursts.
@@ -83,22 +83,22 @@ Hypotheses:
    number itself may draw different search interest.
 
 ## Sound and music profile
-- **Level:** −18.1 to −22.4 LUFS integrated (measured), 4-8 LU under YouTube's −14 reference.
+- Level: −18.1 to −22.4 LUFS integrated (measured), 4-8 LU under YouTube's −14 reference.
   These play noticeably quieter than most videos (inferred from the knowledge chapter's
   normalisation rule). For a new kids channel, keep the knowledge chapter's −14 default and
   get dynamics from pauses instead of a quiet master.
-- **Range:** 6.6-13.2 LU (measured), three to six times the animated explainers' 2.2. Jingles,
+- Range: 6.6-13.2 LU (measured), three to six times the animated explainers' 2.2. Jingles,
   songs and cheers are loud; narration and answer pauses are quiet (measured in the reveals'
   curves: intros −16 to −21, bodies −16 to −28, pauses −26 to −36).
-- **Silence as a turn for the child:** a 1.73s silence after "who could this Numberblock be?"
+- Silence as a turn for the child: a 1.73s silence after "who could this Numberblock be?"
   (J8eVD2PpX_Q 0:40.5, measured). Reading it as a participation pause is inferred.
-- **Songs carry the lessons:** the compilation's [music] tags cluster in four song blocks (0:11-3:28,
+- Songs carry the lessons: the compilation's [music] tags cluster in four song blocks (0:11-3:28,
   18:38-25:26, 44:25-48:49, 53:19-61:44), and the first song is the eight times table itself
   (measured and seen). The music chapter's kids row warns against sung lyrics over teaching
   lines. Here the lyrics are the teaching, which is a different case: nothing competes with them.
-- **Low sound-design density:** 76-78 onsets/min (measured), the lowest of the three niches in
+- Low sound-design density: 76-78 onsets/min (measured), the lowest of the three niches in
   this batch (explainers 96-99, storytime 82-95).
-- **Timbre:** brightness 996-1296 Hz, bass share 0.12-0.24 (measured), between the storytime
+- Timbre: brightness 996-1296 Hz, bass share 0.12-0.24 (measured), between the storytime
   niche's thin low end (0.05-0.13) and the explainers' (0.21-0.27).
 - **Tempo** is unusable in all three (measured, weak confidence).
 

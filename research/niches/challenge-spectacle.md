@@ -41,25 +41,25 @@ OCR reads 0-3% text, but the overview sheets show outlined display captions, pri
 name tags in all three. OCR misses this stylised type, so the text share is a floor here.
 
 ## Shared devices (all three: the house style)
-- **The premise, the rule and the prize by 0:22.** The first word lands at 0.0-0.24s, and each
+- The premise, the rule and the prize by 0:22. The first word lands at 0.0-0.24s, and each
   hook states what is at stake: a price ladder (0:00-0:21), exes chained for $250,000 (0:00-0:10),
   last one in the circle wins $1,000,000 (0:00-0:22) (seen in transcripts).
-- **A metronome edit.** 28-31 cuts per minute overall, 1.5-1.8s median shots, and no slow
+- A metronome edit. 28-31 cuts per minute overall, 1.5-1.8s median shots, and no slow
   section anywhere in the body (measured). Variety comes from the format, not from the cut rate.
-- **A progress device the viewer can read:** a price that only goes up, a day count and a chain
+- A progress device the viewer can read: a price that only goes up, a day count and a chain
   that only gets shorter, a remaining-count badge that only goes down (seen).
-- **Money as a physical object:** a cash wall, a cash chest, green price tags (seen in all three).
-- **Outlined display type for key words only:** green glowing "$" figures, neon name tags,
+- Money as a physical object: a cash wall, a cash chest, green price tags (seen in all three).
+- Outlined display type for key words only: green glowing "$" figures, neon name tags,
   and one punch caption per beat ("SAFEST CAR ON THE PLANET", "HE'S SALTY", "RIGHT RIGHT
   RIGHT"), never running subtitles (seen).
-- **A loud, flat, gap-free mix:** −5.6 to −8.1 LUFS, LRA 3.6-5.3 LU, at most one silence in
+- A loud, flat, gap-free mix: −5.6 to −8.1 LUFS, LRA 3.6-5.3 LU, at most one silence in
   15-41 minutes (measured).
-- **Fast talk:** 174-193 wpm (measured), with many overlapping speakers (seen in transcripts).
-- **Cuts ignore the beat:** lift 0.98-1.02 (measured). The edit follows voices and reactions.
-- **Own brands inside the story:** Feastables chocolate survives an explosion (KrLj6nc516A
+- Fast talk: 174-193 wpm (measured), with many overlapping speakers (seen in transcripts).
+- Cuts ignore the beat: lift 0.98-1.02 (measured). The edit follows voices and reactions.
+- Own brands inside the story: Feastables chocolate survives an explosion (KrLj6nc516A
   3:35-4:07), a Feastables fridge and chocolate milk (4l97aNza_Zc 9:39, 20:16), Beast Games as
   the source of the games (QJI0an6irrA 1:16, 40:41) (seen).
-- **Hard cuts, with flashes rare:** one white flash on an explosion (KrLj6nc516A), two in a hook
+- Hard cuts, with flashes rare: one white flash on an explosion (KrLj6nc516A), two in a hook
   (4l97aNza_Zc), none seen in the control (seen).
 
 ## Outlier against control (every causal claim is a hypothesis)
@@ -84,24 +84,24 @@ Hypotheses:
    scene (measured), which may keep a 37-minute video from feeling like one long loud stretch.
 
 ## Sound and music profile
-- **Level and density:** −5.6 to −8.1 LUFS integrated with 3.6-5.3 LU range (measured), the
+- Level and density: −5.6 to −8.1 LUFS integrated with 3.6-5.3 LU range (measured), the
   loudest and flattest of the three niches in this batch. YouTube turns these down at playback
   (knowledge chapter), so what survives is density: no gaps (inferred).
-- **Silence is almost absent:** 0-1 silences per video (measured). The chapter's challenge row
+- Silence is almost absent: 0-1 silences per video (measured). The chapter's challenge row
   expects a near-constant bed, and the measurements agree.
-- **Where it does go quiet, it means something:** a comic dip under a slow car door
+- Where it does go quiet, it means something: a comic dip under a slow car door
   (KrLj6nc516A 8:24-8:28, −17.5), the briefcase choice (QJI0an6irrA 36:00, −16.4), and the
   post-polygraph beat (4l97aNza_Zc 28:12, −24.1) (measured, transcript).
-- **Tension gets its own colour once:** in 4l97aNza_Zc's lie-detector section, loudness falls
+- Tension gets its own colour once: in 4l97aNza_Zc's lie-detector section, loudness falls
   ~3 LU, brightness falls from 1382 Hz to 942-1175 Hz and bass share rises to 0.32-0.34
   (measured). This matches the chapter's "tension beds under countdowns" (inferred).
-- **Peaks are voices, not effects:** the loudest windows are shouting and money moments
+- Peaks are voices, not effects: the loudest windows are shouting and money moments
   ("THIS DOESN'T FEEL RIGHT", the $125,000 split, the scores reveal) (measured, transcript).
   Even an explosion does not top the shouting (KrLj6nc516A, measured).
 - **Music-only gaps are short and frequent in the control** (1.27 [music] tags/min) and rarer in
   the outliers (0.24-0.9/min) (measured). [screaming] tags (5-13 per video where tagged) mark
   stunts and eliminations (measured).
-- **Brightness:** 1090-1382 Hz median (measured), on average the brightest niche of the three: voices,
+- Brightness: 1090-1382 Hz median (measured), on average the brightest niche of the three: voices,
   crowds and shouting (inferred).
 
 ## Steal list

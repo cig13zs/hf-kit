@@ -64,10 +64,10 @@ captions change about once a second and carry the rhythm (seen).
   accents (seen).
 - Captions: the channel's standard white bold rounded sans, sentence case, soft shadow,
   2-4 words, centred near 78% of frame height (seen).
-- **Colour code, mostly consistent:** red for forces and failure (pressure arrows, the
+- Colour code, mostly consistent: red for forces and failure (pressure arrows, the
   failure flashes at 0:18.5 and 0:30.4); green or yellow for the
   object being tried (seatbelt, window, glove box, breaker) (seen).
-- **Diagram inserts inside the story:** the circular X-ray of the door circuits and the
+- Diagram inserts inside the story: the circular X-ray of the door circuits and the
   macro cross-section of laminated glass. Both explain an invisible cause without leaving
   the scene (seen).
 - Comic props lighten the dread: a clock, a rubber duck, a fish (seen, 0:35-0:48).
@@ -90,25 +90,25 @@ captions change about once a second and carry the rhythm (seen).
   foley and music).
 - Speech eases from 176 wpm in the first 30s to about 147 wpm in the last 24s (derived),
   which gives the solution more room than the setup (inferred).
-- **Music block:** the darkest 10 seconds are the first (1106 Hz against 1270-1375 after),
+- Music block: the darkest 10 seconds are the first (1106 Hz against 1270-1375 after),
   which is when the car goes under; a muffled underwater treatment fits (inferred). Bass
   share runs 0.27-0.34 for the whole Short, higher than the channel's other two (0.17-0.22
   outside peaks), and peaks at 30-40s, the trapped stretch (measured). A heavier low end
   under a dread story (inferred). No caption tags; tempo 152 BPM at low confidence.
 
 ## 8. Retention mechanics: why
-- **"Imagine you..." plus water by 1.5s.** The viewer is the victim, so the stakes are
+- "Imagine you..." plus water by 1.5s. The viewer is the victim, so the stakes are
   personal before anything is explained. Job: building tension.
-- **The failure ladder.** Each attempt is a mini-question (will this work?) answered with a
+- The failure ladder. Each attempt is a mini-question (will this work?) answered with a
   "but" 5-10 seconds later. Job: resetting attention, and building tension toward the low
   point.
-- **Flash-forward at 0:14.** It shows what success looks like, then takes it away. The
+- Flash-forward at 0:14. It shows what success looks like, then takes it away. The
   viewer now waits for that image. Job: building tension, and it sets up the payoff.
-- **Diagram inserts.** An X-ray or cross-section explains why an attempt fails in 3-4
+- Diagram inserts. An X-ray or cross-section explains why an attempt fails in 3-4
   seconds. Job: clarifying, and delivering proof.
-- **Comic props in the dread stretch.** The duck and the fish keep the waiting section from
+- Comic props in the dread stretch. The duck and the fish keep the waiting section from
   feeling like dead time. Job: resetting attention.
-- **Counterintuitive answer held to the end.** The one useful fact is the last one. Job:
+- Counterintuitive answer held to the end. The one useful fact is the last one. Job:
   showing a payoff. It probably also drives saves and shares (inferred; not measured).
 
 ## 9. Outlier against control

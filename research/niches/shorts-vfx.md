@@ -35,14 +35,14 @@ own sample.
 | Likes per view | 0.51% (5jhEoRZXhjE) | 1.47% (tOIFZ8O6Ezk) |
 
 ## Shared devices: the house style (seen unless marked)
-- **Zero hard cuts.** Each Short plays as one handheld take. Any joins sit inside whips,
+- Zero hard cuts. Each Short plays as one handheld take. Any joins sit inside whips,
   swings and blurred turns (inferred).
 - **The creator performs on camera,** usually as the one the trick happens to.
-- **Practical-looking effects in real places:** a wall, a table, a garden. Natural light and
+- Practical-looking effects in real places: a wall, a table, a garden. Natural light and
   no visible grade.
-- **No text over the effect.** At most a 1.5-second opening question.
+- No text over the effect. At most a 1.5-second opening question.
 - **11-26 seconds, one premise,** ending on the payoff frame with no outro.
-- **Dynamic sound:** LRA 8.4-14.2 LU, the widest in this batch, with the 2-second loudness
+- Dynamic sound: LRA 8.4-14.2 LU, the widest in this batch, with the 2-second loudness
   swinging 9.6-14.1 LU inside each Short (measured).
 
 ## Outlier against control (every causal claim is a hypothesis)
@@ -56,13 +56,13 @@ own sample.
 | Likes per view | 0.51% and 0.59% | 1.47% |
 | Sound | a peak at the conflict, then a dark drop (5jhEoRZXhjE); 46% silence around reveals (X0wxLr5W2X8) | a steady 12 LU climb into the crash |
 
-- **H1: the change must happen on camera.** Both outliers show a transformation; the
+- H1: the change must happen on camera. Both outliers show a transformation; the
   control shows a finished impossible state. Watching it happen invites checking and
   rewatching.
-- **H2: borrow a reference the whole feed knows.** A famous artwork or a familiar trend
+- H2: borrow a reference the whole feed knows. A famous artwork or a familiar trend
   gives an instant hook with no words.
-- **H3: a calm camera sells the trick.** The outliers move less (0.68-0.79 against 1.34).
-- **H4: ask or claim, don't label.** "Illusion" tells the viewer the answer before the
+- H3: a calm camera sells the trick. The outliers move less (0.68-0.79 against 1.34).
+- H4: ask or claim, don't label. "Illusion" tells the viewer the answer before the
   video starts.
 - The outliers' low likes per view (about a third of the control's) suggests their reach
   went far beyond the creator's audience (inferred).
@@ -70,15 +70,15 @@ own sample.
   younger, so age doesn't explain the pattern.
 
 ## Sound and music profile
-- **Measured:** the widest loudness ranges in the batch (LRA 8.4-14.2 LU), against 1.0-5.8
+- Measured: the widest loudness ranges in the batch (LRA 8.4-14.2 LU), against 1.0-5.8
   for the talk-led Shorts. Every curve has a shape: 5jhEoRZXhjE peaks at the confrontation
   (−12.1, 12-14s) and falls about 9.6 LU for the balloon and escape; tOIFZ8O6Ezk climbs
   12 LU into the crash; X0wxLr5W2X8 is near-silent overall (−33.9 LUFS) with silences on 46%
   of the runtime and −48 at the end.
-- **Measured (5jhEoRZXhjE only):** the last 6 seconds turn dark and bassy, brightness
+- Measured (5jhEoRZXhjE only): the last 6 seconds turn dark and bassy, brightness
   falling from about 1530 to 348 Hz and bass share rising from 0.11-0.13 to 0.36, and a
   caption [music] tag sits at 13.1s as the guard appears.
-- **Inferred:** sound here is event design, not a bed under talk: a build into an impact,
+- Inferred: sound here is event design, not a bed under talk: a build into an impact,
   a drop for the poetic payoff, silence around a comic reveal. These map onto the chapter's
   silence devices, "sound drop before a reveal" and "hard cut to silence"
   (`knowledge/sound-design.md` §2.2), and onto riser-into-impact for the crash

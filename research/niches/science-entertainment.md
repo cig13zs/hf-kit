@@ -35,20 +35,20 @@ difference is the channel's own drift over time.
 | Music: bass share median | 0.15 (9IiYOTzJ2uw) | 0.25 (DPZzrlFCD_I) |
 
 ## Shared devices (all three: the house style)
-- **A superlative in the first second over the finished thing.** "the world's first ever
+- A superlative in the first second over the finished thing. "the world's first ever
   actual pool of Jell-O", "the most dangerous robot I've ever built", "the most epic birthday
   party ever", each spoken at 0.0-0.2s while the finished build is on screen (seen in
   transcripts and hook sheets).
-- **Fast talk in the first 30 seconds:** 178-220 wpm (measured), well above each video's
+- Fast talk in the first 30 seconds: 178-220 wpm (measured), well above each video's
   average.
-- **No captions and almost no text:** 0-3% of frames (measured). The pictures and the voice
+- No captions and almost no text: 0-3% of frames (measured). The pictures and the voice
   carry everything.
-- **Hard cuts and practical spectacle.** Fire, smoke, snow, sparks and Jell-O are real. No
+- Hard cuts and practical spectacle. Fire, smoke, snow, sparks and Jell-O are real. No
   designed transitions (whip, glitch, zoom-through) appeared in any cut pair (seen).
-- **Physics in plain words at the moment it matters:** convection "like when you blow on the
+- Physics in plain words at the moment it matters: convection "like when you blow on the
   top of a hot cup of soup" (DPZzrlFCD_I 3:46), a steel-cable "mustache" bayonet (P4gNS0Iiu0Q
   2:08), dummy tests and thrust vectors (9IiYOTzJ2uw 1:29-3:01) (seen in transcripts).
-- **Pop-culture and crossover inserts:** Phineas and Ferb in two videos, The Office, and Dude
+- Pop-culture and crossover inserts: Phineas and Ferb in two videos, The Office, and Dude
   Perfect (seen).
 - **A closing gag, then an ad or end card** (seen in all three endings).
 
@@ -72,22 +72,22 @@ Hypotheses:
    don't follow a beat.
 
 ## Sound and music profile
-- **Level:** −7.5 to −13.8 LUFS integrated (measured), all at or above the −14 reference.
+- Level: −7.5 to −13.8 LUFS integrated (measured), all at or above the −14 reference.
   YouTube turns the louder ones down (knowledge chapter), so the difference that survives
   playback is density and range, not volume (inferred).
-- **Two mixing philosophies:** a wide-range story mix (DPZzrlFCD_I, LRA 9.7 LU) where narration
+- Two mixing philosophies: a wide-range story mix (DPZzrlFCD_I, LRA 9.7 LU) where narration
   is quiet and the payoff montage jumps ~4 LU, and a wall-of-sound versus mix (P4gNS0Iiu0Q, LRA
   1.7 LU, one silence in 19 minutes) (measured). The control sits between them (6.7 LU).
-- **Silence and dips before reveals:** a 0.55s silence right before the Jell-O tarp reveal
+- Silence and dips before reveals: a 0.55s silence right before the Jell-O tarp reveal
   (DPZzrlFCD_I 4:30) and a dip to −22/−26 before the kid's surprise (9IiYOTzJ2uw 10:04)
   (measured, transcript). This matches the chapter's "tension bed, then silence at the outcome"
   row for this genre. The versus video skips it (measured: no silences).
-- **Music takes over for payoffs:** transcript gaps with no narration line up with montages
+- Music takes over for payoffs: transcript gaps with no narration line up with montages
   (DPZzrlFCD_I 2:29-3:13, 5:00-6:58, 8:41-9:45), and bass share rises to 0.43-0.57 in those
   minutes (measured). Only there do cuts land on onsets above chance (lift 1.31, measured).
-- **Dialogue elsewhere:** outside montages the cut follows speech and action (lift 1.03 in both
+- Dialogue elsewhere: outside montages the cut follows speech and action (lift 1.03 in both
   the control and the robot outlier, measured), even at 48 cuts per minute.
-- **Brightness:** 877-1357 Hz median (measured); brighter than the documentary niche's
+- Brightness: 877-1357 Hz median (measured); brighter than the documentary niche's
   742-825 Hz, consistent with more voices, kids, crowds and outdoor sound (inferred).
 
 ## Steal list

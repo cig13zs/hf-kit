@@ -5,19 +5,19 @@ three `knowledge/` chapters, and ideas from third-party video and audio skills (
 section 13). Written 2026-09-27. This is the raw material for the video skill and for `styles/*.json`.
 
 ## Bottom line
-- **Pace doesn't travel.** Against their own control, outliers cut slower in 4 niches, faster in 4
+- Pace doesn't travel. Against their own control, outliers cut slower in 4 niches, faster in 4
   (each with a confound) and on either side in 5. Copy a niche's house rate when you copy its
   format; never raise the cut rate to chase views. Read section 0 before section 2.
-- **What recurs in outliers is script and proof, not edit surface:** a person with something at
+- What recurs in outliers is script and proof, not edit surface: a person with something at
   stake (6 niches), the stake or claim said in the first seconds, evidence on screen (5 niches),
   and the title's answer held back. All hypotheses.
-- **Two measured leads in the audio and speech data:** both outliers carry fewer music-only
+- Two measured leads in the audio and speech data: both outliers carry fewer music-only
   stretches than their control in 8 niches, and talk denser in the first 30 s in 8 niches.
   Both hypotheses.
-- **Flashy transitions are rare everywhere.** 15 of 16 niches use no whip, glitch, spin or
+- Flashy transitions are rare everywhere. 15 of 16 niches use no whip, glitch, spin or
   zoom transition as a habit (at most 1-3 accents a video). The slow styles move the camera
   inside the shot instead of cutting.
-- **Silence is the most shared sound device:** a short drop before a reveal, after the heaviest
+- Silence is the most shared sound device: a short drop before a reveal, after the heaviest
   line, or at a chapter end, in 12 of 16 niches. It works because it is rare.
 - **Loudness didn't separate outliers** anywhere (−5.6 to −33.9 LUFS across the 48). Mix to
   −14 LUFS, −1 dBTP as the house default.
@@ -32,13 +32,13 @@ section 13). Written 2026-09-27. This is the raw material for the video skill an
 | R | Reference chapter (`knowledge/*.md`): practice or published source, not measured here |
 | recipe | A build setting from a sheet's steal list or `SPEC.md`. Design choice, not a measurement |
 
-- **Hard-cut counts are floors.** Dissolves, whips, camera moves and overlays go uncounted;
+- Hard-cut counts are floors. Dissolves, whips, camera moves and overlays go uncounted;
   Minecraft menus add false cuts.
-- **Nobody listened to the audio.** Sound claims come from loudness, spectrum, onset timing and
+- Nobody listened to the audio. Sound claims come from loudness, spectrum, onset timing and
   caption tags. Onsets per minute mostly count speech syllables.
 - **Tempo is unusable under narration** in all 16 niches (low confidence, per-minute readings
   swinging by 60-100 BPM). Take BPM from `knowledge/music-and-mood.md`, never from a sheet.
-- **One creator per niche.** Every "niche" finding is one channel's house style.
+- One creator per niche. Every "niche" finding is one channel's house style.
 - **Quotes** are at most 15 words. Every number traces to a sheet, a card or a data file.
 
 ### Video key
@@ -141,11 +141,11 @@ The narrator or host speaks on the first frame. No logo, title card or music int
 | calm-faith: 3EkD-alQhT8, b54d_GhBthI vs Q7PgVAN2MPo | 0.56-0.72 s vs 8.64 s of wordless series intro | M, H |
 | Exceptions: documentary 2r5eKpptixo (9.7 s, opens on documents), shorts-vfx 5jhEoRZXhjE (13.36 s, the trick is the hook), kids (1.1-7.4 s, a jingle first) | | M |
 
-- **Works:** any narrated or presenter-led video with a clear promise.
+- Works: any narrated or presenter-led video with a clear promise.
   **Backfires:** when the picture is the hook (a trick, a supercut of documents) or the first
   frame can't be read without context.
-- **Mood / genre:** every talk-led format; in wonder and magic formats the image leads.
-- **hf-kit:** voice `<audio data-start="0">`, no title scene before it. `check.py`
+- Mood / genre: every talk-led format; in wonder and magic formats the image leads.
+- hf-kit: voice `<audio data-start="0">`, no title scene before it. `check.py`
   `first_word_s` range `[0, 0.6]` for narrated styles, `[0, 2.5]` for review styles.
 
 ### 1.2 The stake, rule or claim in the first seconds
@@ -160,10 +160,10 @@ Say what could go wrong, what's won, or the full claim, before any setup.
 | storytime: plSyrHqUh78, Oc91iOxcB3c | 3 rules in 16 s; 2 viewer objections in 23 s | S |
 | calm-faith: 3EkD-alQhT8, b54d_GhBthI | the problem within 0.75 s; question or promise by 0:16-0:27 | S, H |
 
-- **Works:** challenges, survival and safety, news, how-to.
+- Works: challenges, survival and safety, news, how-to.
   **Backfires:** fake stakes (clickbait), or a rule that needs a paragraph.
-- **Mood / genre:** tension, hype, dread.
-- **hf-kit:** a script rule, no block. A prize or price lands as `number-card` `variant: money`
+- Mood / genre: tension, hype, dread.
+- hf-kit: a script rule, no block. A prize or price lands as `number-card` `variant: money`
   on the spoken number (`scale 1.4→1`, 250 ms, recipe). In Shorts the first caption group is
   the claim's noun phrase.
 
@@ -178,11 +178,11 @@ Open on the finished thing, the result or the source, then explain it.
 | shorts-podcast: 8Ho3a4bkkV8 | credential label at 1.0 s | S |
 | shorts-vfx: 5jhEoRZXhjE, X0wxLr5W2X8 vs tOIFZ8O6Ezk | a world-famous mural or a known trend, readable by about 2 s, vs an original gag | S, H |
 
-- **Works:** the object looks good in one frame; first-hand footage; claims viewers might doubt.
+- Works: the object looks good in one frame; first-hand footage; claims viewers might doubt.
   **Backfires:** the object underwhelms; stock footage; a weak source invites "fake" comments; a
   borrowed icon you have no right to use.
-- **Mood / genre:** triumph, curiosity.
-- **hf-kit:** hero clip at `data-start="0"` with the VO on frame 0; source scene by 1.9 s,
+- Mood / genre: triumph, curiosity.
+- hf-kit: hero clip at `data-start="0"` with the VO on frame 0; source scene by 1.9 s,
   `scale 0.96→1` 0.3 s `power2.out` (recipe); `ui-window` for a source that needs framing.
 
 ### 1.4 Fast open, slower body
@@ -197,11 +197,11 @@ Cut the first 15 s at two to four times the body rate, then settle.
 | calm-faith: 3EkD-alQhT8 | 20 cuts/min in 0-15 s, shots lengthening from 2.3 to 11 s | M |
 | shorts-podcast: 0YVdjmU13E4 vs -svLMqHJGaU | 30 cuts/min in 3-15 s vs 5 | M |
 
-- **Works:** many strong images; a claim that's already everywhere; a trip or tasting whose
+- Works: many strong images; a claim that's already everywhere; a trip or tasting whose
   ending can be previewed unresolved. **Backfires:** similar-looking shots; a preview that gives
   the answer away; clips without source labels.
-- **Mood / genre:** curiosity, hype, tension.
-- **hf-kit:** 8-10 clips at `data-duration` 0.3-0.8 s, each keeping its source lower third,
+- Mood / genre: curiosity, hype, tension.
+- hf-kit: 8-10 clips at `data-duration` 0.3-0.8 s, each keeping its source lower third,
   then the host track (recipe, documentary and cooking).
 
 ### 1.5 Unbroken opening move
@@ -218,11 +218,11 @@ decides.
 | shorts-facts, all 3 | 0 hard cuts in 0-3 s; first hard cut at 4.67-21.62 s; camera moves instead | M |
 | shorts-vfx, all 3 | one take, 0 hard cuts | M |
 
-- **Works:** an illustrated world the camera can travel; several people reacting live; a trick
+- Works: an illustrated world the camera can travel; several people reacting live; a trick
   that must read as one take. **Backfires:** a talking head or a still under slow narration
   (reads as frozen).
-- **Mood / genre:** wonder, calm, playful.
-- **hf-kit:** `world-camera` (stations `[{t,x,y,scale}]`, `sine.inOut`, parallax layers at
+- Mood / genre: wonder, calm, playful.
+- hf-kit: `world-camera` (stations `[{t,x,y,scale}]`, `sine.inOut`, parallax layers at
   0.6×, 1× and 1.4×, recipe); in 9:16, `zoom-through` between scenes.
 
 ### 1.6 A question the viewer can answer
@@ -235,11 +235,11 @@ Pose a question on screen or aloud, then give the viewer a beat to guess.
 | shorts-vfx: X0wxLr5W2X8 | question spoken at 0.0 s, word-by-word caption gone by 2.0 s, then no text | S |
 | kids: J8eVD2PpX_Q vs OXjorKzZoUU | silhouette, clues, a 1.73 s silence after the question, then the name at 0:43; the control has no clues and no pause | M, H |
 
-- **Works:** clips answering one clear question; tricks with a visible answer; reveals for
+- Works: clips answering one clear question; tricks with a visible answer; reveals for
   young viewers. **Backfires:** the clip wanders off the card's question; the answer is obvious
   or given away by the clues.
-- **Mood / genre:** curiosity, playful.
-- **hf-kit:** `question-card` (9:16, static, 3-6 s at the seam of a stacked split). Kids reveal:
+- Mood / genre: curiosity, playful.
+- hf-kit: `question-card` (9:16, static, 3-6 s at the seam of a stacked split). Kids reveal:
   `filter:brightness(0)→brightness(1)` 400 ms `power2.out` with the bed at `v:0` for 1.5-2 s
   before the line (recipe, no block yet).
 
@@ -252,9 +252,9 @@ The ident, series title or channel pitch comes after the hook's question.
 | tech-news, all 3 | a 43-50 s cold open, then a fixed show line and title card | M, S |
 | true crime, all 3 | one-line premise, then the fixed pitch (0:11-0:29), then about 20-22 s without speech before the story | S |
 
-- **Works:** series with regulars. **Backfires:** a new channel's fixed bit means nothing yet.
-- **Mood / genre:** all long-form series.
-- **hf-kit:** `chapter-card` as the title card, with a series or date variable. Calm register:
+- Works: series with regulars. **Backfires:** a new channel's fixed bit means nothing yet.
+- Mood / genre: all long-form series.
+- hf-kit: `chapter-card` as the title card, with a series or date variable. Calm register:
   `opacity 0→1, y 12→0`, 0.8 s `sine.out`, held 3-4 s (recipe).
 
 ---
@@ -292,10 +292,10 @@ Cut on every speaker turn and reaction; no clip longer than about 3.7 s outside 
 | cooking, all 3 | body 28.7-31.1 cuts/min; median 1.53-1.73 s; p90 3.5-4.0 s | M |
 | science: P4gNS0Iiu0Q | 47.9 cuts/min, median 1.0 s (a versus video) | M |
 
-- **Works:** dialogue-heavy group footage; energetic hosts on rich location footage.
+- Works: dialogue-heavy group footage; energetic hosts on rich location footage.
   **Backfires:** calm or reflective content; a static one-angle studio (reads as twitchy).
-- **Mood / genre:** hype, comedy.
-- **hf-kit:** no block; cap clip `data-duration` at the niche's p90. Style ranges: body
+- Mood / genre: hype, comedy.
+- hf-kit: no block; cap clip `data-duration` at the niche's p90. Style ranges: body
   `[28, 31]`, `median_shot_s` `[1.5, 1.8]`.
 
 ### 2.3 Jump cuts on phrase boundaries
@@ -306,10 +306,10 @@ Remove breaths and join sentence to sentence.
 | cooking, all 3 | cuts land in speech pauses at 1.43-1.56× chance; 229-235 wpm | M |
 | calm-faith: Q7PgVAN2MPo (control) vs outliers | control's cuts wait for pauses (1.33×); outliers cut over the voice (0.89-1.04×) | M, H |
 
-- **Works:** fast talkers with one continuous A-roll plus inserts.
+- Works: fast talkers with one continuous A-roll plus inserts.
   **Backfires:** one static angle; in teaching, a picture that waits for every pause (the
   calm-faith control's habit).
-- **hf-kit:** cut list from caption gaps of 0.25 s or more; remove each gap (recipe, cooking).
+- hf-kit: cut list from caption gaps of 0.25 s or more; remove each gap (recipe, cooking).
   Borrowed: sample-accurate transcript splices (`media-use` transcript-cut reasoning).
 
 ### 2.4 B-roll over a continuous voice (L-cut)
@@ -321,11 +321,11 @@ The voice runs across the cut; the picture changes on the noun.
 | calm-faith: 3EkD-alQhT8, b54d_GhBthI | 0.89-1.04× (image changes on the noun) | M |
 | shorts-podcast: 8Ho3a4bkkV8 | host reaction cutaways over the guest's audio; 4 host shots in 8 s at a strong claim | S |
 
-- **Works:** spec walkthroughs, teaching, big claims in interviews.
+- Works: spec walkthroughs, teaching, big claims in interviews.
   **Backfires:** the b-roll doesn't show the noun being said; a cutaway hides the speaker's key
   gesture.
-- **Mood / genre:** sincerity, calm, curiosity.
-- **hf-kit:** one continuous voice track; b-roll clips placed on nouns from caption timings. J-cut:
+- Mood / genre: sincerity, calm, curiosity.
+- hf-kit: one continuous voice track; b-roll clips placed on nouns from caption timings. J-cut:
   next clip's audio `data-start` 0.3-1 s before its picture (R).
 
 ### 2.5 Cut on a sound onset
@@ -340,10 +340,10 @@ Cuts land on a word start or a hit more often than chance.
 | cooking | 1.14, 1.13 vs 1.05 | M, H |
 | No pattern: explainer, tech-news, tech-review (split); documentary, challenge (flat at 0.96-1.02); gaming, science (split) | | M |
 
-- **Reading:** a lead, not a finding. Onsets include syllables, so a high lift can mean "cut on
+- Reading: a lead, not a finding. Onsets include syllables, so a high lift can mean "cut on
   the word" or "a hit on the insert".
-- **Works:** dialogue edits, evidence inserts. **Backfires:** a cut that clips a consonant.
-- **hf-kit:** snap cut times to transcript word starts, 1-2 frames early (recipe, podcast). Add
+- Works: dialogue edits, evidence inserts. **Backfires:** a cut that clips a consonant.
+- hf-kit: snap cut times to transcript word starts, 1-2 frames early (recipe, podcast). Add
   SFX.md "Impact on reveal" on evidence inserts. Borrowed: a beat QA that compares each anchor
   with its word timing and guards shot tails (idea from `video-talkcraft`'s `beat_lint.py`;
   implement it independently).
@@ -358,11 +358,11 @@ Spend cuts where the content changes register: fast for events and evidence, slo
 | tech-news | 13-15 cuts/min for context, 8-9 for statements; FluKUJyeYD8's body speeds to 18.6 for the mess, aspmNhKAFMc slows to 7.5 for statements | M |
 | calm-faith | 12 cuts/min in the application section (3EkD-alQhT8 6:01-7:00), about 10 (b54d_GhBthI 4:08-4:49), against a 4.4-4.9 body | M |
 
-- **Works:** events first, judgment second; a proof chapter; the turn from "them" to "you".
+- Works: events first, judgment second; a proof chapter; the turn from "them" to "you".
   **Backfires:** inserts spread evenly (proof stops feeling special); a host section of 60 s+ with
   no cutaway.
-- **Mood / genre:** tension, curiosity, calm.
-- **hf-kit:** two sub-compositions, a montage track and a host track with inserts every 5-15 s;
+- Mood / genre: tension, curiosity, calm.
+- hf-kit: two sub-compositions, a montage track and a host track with inserts every 5-15 s;
   an evidence sub-composition with 4-8 inserts of 4-8 s (recipe). Borrowed: a shot-function label
   on every clip in the EDL makes the two speeds explicit (`editing-montage`).
 
@@ -376,10 +376,10 @@ Hold the verdict or the decision in one shot.
 | gaming-longform | decisions played with 0 cuts, visual energy 0.06-0.36, for 1-2 min | M |
 | documentary, all 3 | 1-4 cuts in the last minute | M |
 
-- **Works:** a trusted voice at 175-200 wpm; taste and opinion; votes and countdowns.
+- Works: a trusted voice at 175-200 wpm; taste and opinion; votes and countdowns.
   **Backfires:** a slow or unknown presenter; vague verdicts.
-- **Mood / genre:** sincerity.
-- **hf-kit:** one A-roll clip, no music, no graphics until the score is spoken; then a hard cut to
+- Mood / genre: sincerity.
+- hf-kit: one A-roll clip, no music, no graphics until the score is spoken; then a hard cut to
   `number-card` or `tier-board` (recipe).
 
 ### 2.8 Few cuts, a moving camera
@@ -393,11 +393,11 @@ Motion inside the shot does the work of cuts.
 | shorts-facts, all 3 | 2-4 hard cuts in 36-54 s; joins on whips, push-ins and zoom-throughs | M, S |
 | shorts-vfx: 5jhEoRZXhjE, X0wxLr5W2X8 vs tOIFZ8O6Ezk | calmer camera in the outliers (visual energy 0.68-0.79 vs 1.34) | M, H |
 
-- **Works:** illustrated worlds; reflective teaching at 150+ wpm; a trick that must read in one
+- Works: illustrated worlds; reflective teaching at 150+ wpm; a trick that must read in one
   look. **Backfires:** a talking head (a 40 s static head reads frozen); a slow zoom on every shot
   (R).
-- **Mood / genre:** wonder, calm, playful.
-- **hf-kit:** `world-camera`. Shot floor: no clip under 3 s outside the hook and the application;
+- Mood / genre: wonder, calm, playful.
+- hf-kit: `world-camera`. Shot floor: no clip under 3 s outside the hook and the application;
   each long clip gets one `sine.inOut` drift, `scale 1→1.06` (recipe, calm-faith). Borrowed:
   velocity-matched seams where the camera carries across a cut, used selectively
   (`faceless-explainer` cut catalog).
@@ -411,10 +411,10 @@ Alternate framings of the same take, or cut from an event to a reaction.
 | gaming-longform | avatar talking head, wide and close alternating every 1.5-3.5 s in intros and outros | M |
 | shorts-podcast, all 3 | hard cuts between real camera angles; no digital punch-in seen | S |
 
-- **Works:** narrator-led comedy; series intros. **Backfires:** the same face every time; long
+- Works: narrator-led comedy; series intros. **Backfires:** the same face every time; long
   explanations.
-- **Mood / genre:** comedy, sincerity.
-- **hf-kit:** on drawings, `tl.set(art,{scale:1.3,transformOrigin:"55% 40%"})` on alternate
+- Mood / genre: comedy, sincerity.
+- hf-kit: on drawings, `tl.set(art,{scale:1.3,transformOrigin:"55% 40%"})` on alternate
   cuts (recipe). On footage, a hard punch of 110-120% with the origin near the eyes (R).
 
 ### 2.10 No dead air after the hook
@@ -428,9 +428,9 @@ Tighten voice gaps once the hook has landed.
 | cooking: outliers vs 4TyPUB6o-t8 | 0.14-0.26 silences/min vs 0.67 | M |
 | Counter: gaming-longform keeps 10-11.6 silences/min (12.7-15.3% of runtime); true crime keeps structural gaps | | M |
 
-- **Works:** information Shorts, clips over 45 s. **Backfires:** a punchline that needs its beat
+- Works: information Shorts, clips over 45 s. **Backfires:** a punchline that needs its beat
   (keep one deliberate pause); long-form play and story, where the quiet is part of the format.
-- **hf-kit:** remove voice gaps over 0.4 s (or cap them at 0.2-0.3 s); style range
+- hf-kit: remove voice gaps over 0.4 s (or cap them at 0.2-0.3 s); style range
   `silences_per_min` `[0, 0]` for these Shorts.
 
 ### 2.11 Density from the words, not the cuts
@@ -440,8 +440,8 @@ Tighten voice gaps once the hook has landed.
 | calm-faith | outliers 151-157 wpm, 3-4 filler words vs 126 wpm, 17 fillers, 11.75 speech gaps/min | M, H |
 | 8 niches | both outliers speak faster than the control in the first 30 s (section 0) | M, H |
 
-- **Works:** scripted narration. **Backfires:** unscripted talk padded with fillers.
-- **hf-kit:** no block. Pace the voiceover to the style's wpm and check with
+- Works: scripted narration. **Backfires:** unscripted talk padded with fillers.
+- hf-kit: no block. Pace the voiceover to the style's wpm and check with
   `research/measure.py` (`check.py` doesn't report wpm).
 
 ---
@@ -461,8 +461,8 @@ control, so the protagonist is a script choice.
 | tech-news: FluKUJyeYD8, aspmNhKAFMc vs E7la7-dtfVM | named lab leaders and researchers as cut-outs vs one founder | S, H |
 | shorts-facts: NdKRD1j9juE, p832whe8hrI vs nw6LtopYGlc | a man, or "you", in mortal danger vs film trivia | S, H |
 
-- **Works:** any format. **Backfires:** invented stakes for real victims; strawman characters.
-- **hf-kit:** script rule. Give the protagonist a side colour (`--hk-side-a`) and keep it.
+- Works: any format. **Backfires:** invented stakes for real victims; strawman characters.
+- hf-kit: script rule. Give the protagonist a side colour (`--hk-side-a`) and keep it.
 
 ### 3.2 A premise you can say in one line
 | Where | Measured | Label |
@@ -472,7 +472,7 @@ control, so the protagonist is a script choice.
 | shorts-gaming: rssMorwX9Ws, 2n1rIXEeybM vs qvrxyBRhi_0 | titles name the thing vs "oh no" | S, H |
 | shorts-vfx: 5jhEoRZXhjE, X0wxLr5W2X8 vs tOIFZ8O6Ezk | a claim or a question vs a title calling it an illusion | S, H |
 
-- **hf-kit:** none; a planning check.
+- hf-kit: none; a planning check.
 
 ### 3.3 Hold the title's answer, pay small proofs early
 | Where | Measured | Label |
@@ -482,10 +482,10 @@ control, so the protagonist is a script choice.
 | tech-news: aspmNhKAFMc, FluKUJyeYD8 vs E7la7-dtfVM | a loop opened by 0:43 paid at 3:07; a claim deflated at 6:23 vs a loop paid in 30 s | S, H |
 | documentary: 2r5eKpptixo, GV8KGcFqeLc vs OMbV1rIPhCg | proof by 0:19; best device by 7:08 vs the control's device at 21:46 | S, H |
 
-- **Reading:** hold the answer, not the evidence.
-- **Works:** question titles, survival stories, disputes. **Backfires:** a weak payoff (a late
+- Reading: hold the answer, not the evidence.
+- Works: question titles, survival stories, disputes. **Backfires:** a weak payoff (a late
   answer then feels like a cheat); a middle with no tension of its own.
-- **hf-kit:** in Shorts, the answer scene near `0.75 × duration` (recipe); in long form, one
+- hf-kit: in Shorts, the answer scene near `0.75 × duration` (recipe); in long form, one
   `doc-highlight` or `ui-window` proof inside the first minute. Borrowed: thesis-first story
   ordering (`faceless-explainer`) agrees with the documentary rows; it conflicts with holding
   the answer only if the thesis states the answer.
@@ -500,10 +500,10 @@ Reset the question at intervals.
 | storytime: Oc91iOxcB3c | two viewer objections in the hook, answered at 13:51 and 14:38 | S |
 | science, all 3 | test, fail, fix: one loop per 30-90 s | S |
 
-- **Works:** problem-solution stories; any explanation over 3 min. **Backfires:** trivial turns;
+- Works: problem-solution stories; any explanation over 3 min. **Backfires:** trivial turns;
   strawman objections; so frequent it reads as a skit.
-- **Mood / genre:** tension, curiosity.
-- **hf-kit:** one sub-composition per attempt, each ending on a 6-frame red failure flash; the
+- Mood / genre: tension, curiosity.
+- hf-kit: one sub-composition per attempt, each ending on a 6-frame red failure flash; the
   objection voice gets its own colour chip (recipe).
 
 ### 3.5 A progress device the viewer can read
@@ -514,9 +514,9 @@ Reset the question at intervals.
 | cooking: 3pgUFPtqJu4, AJiGaXRsFNU vs 4TyPUB6o-t8 | taste levels 1-4 previewed at 0:19.5 (3pgUFPtqJu4); an S-D tier board shown 3 times, about 1.2 verdicts/min (AJiGaXRsFNU); vs about 13 parallel rounds with no carried score | S, H |
 | kids: J8eVD2PpX_Q, OXjorKzZoUU | the numeral badge stays from the reveal to the end | S |
 
-- **Works:** long videos with a countable goal. **Backfires:** it stops changing for 5+ min, or
+- Works: long videos with a countable goal. **Backfires:** it stops changing for 5+ min, or
   appears once and is forgotten.
-- **hf-kit:** `progress-badge` (changes as JSON; pop `scale 1.4→1` 200 ms `back.out`, recipe);
+- hf-kit: `progress-badge` (changes as JSON; pop `scale 1.4→1` 200 ms `back.out`, recipe);
   `tier-board` (items drop in, the winner glows); SFX.md "Tick for counter".
 
 ### 3.6 Scheduled re-hook events
@@ -526,7 +526,7 @@ Reset the question at intervals.
 | science: P4gNS0Iiu0Q | 5 rounds of 2-4 min | S |
 | kids: DC-bErjbu0E | songs at about 0, 19, 44 and 57 min | M |
 
-- **hf-kit:** a reusable event sub-composition: the cue audio plus a hard cut to the event's
+- hf-kit: a reusable event sub-composition: the cue audio plus a hard cut to the event's
   first frame (recipe).
 
 ### 3.7 Chapter resets
@@ -539,9 +539,9 @@ Mark each new chapter with one fixed device.
 | Backdrop change | true crime | 4-7 location backdrops per 34 min, each held 1-9 min | M |
 | Spoken signpost | gaming-longform: Qk0iCPmtLUA | "day two" after 3.3 s of silence (20:02) | M, S |
 
-- **Works:** videos over 8 min with a turn. **Backfires:** Shorts; more than two cards per video;
+- Works: videos over 8 min with a turn. **Backfires:** Shorts; more than two cards per video;
   a backdrop change mid-scene.
-- **hf-kit:** `chapter-card` (`yPercent 100→0`, 500 ms `power3.out`, 80 ms stagger, `data-start`
+- hf-kit: `chapter-card` (`yPercent 100→0`, 500 ms `power3.out`, 80 ms stagger, `data-start`
   on the spoken title's first word, recipe).
 
 ### 3.8 Callbacks and bookends
@@ -551,7 +551,7 @@ Mark each new chapter with one fixed device.
 | storytime: Oc91iOxcB3c | both hook objections answered at 13:51 and 14:38 | S |
 | tech-review: ANmTVYkEtLw | the skit's dark, bassy sound returns at the callback (bass share 0.45-0.49, brightness 642-926 Hz) | M; "same cue" I |
 
-- **hf-kit:** reuse the setup's sub-composition as a 0.4-1 s insert just before the payoff line
+- hf-kit: reuse the setup's sub-composition as a 0.4-1 s insert just before the payoff line
   (recipe).
 
 ### 3.9 Attachment and loss
@@ -561,10 +561,10 @@ Mark each new chapter with one fixed device.
 | storytime: Oc91iOxcB3c | about 8 min of setbacks before the kitten comes home | S |
 | gaming-longform: 2teag5QC7NA | a −14 LUFS hit, then 3.5 s of near silence over the death screen (3:58) | M |
 
-- **Works:** a named character the viewer knows. **Backfires:** trivial losses; real-world
+- Works: a named character the viewer knows. **Backfires:** trivial losses; real-world
   tragedy.
-- **Mood / genre:** comedy with heart, dread.
-- **hf-kit:** no block yet. Pause the scene's child timeline, `filter:grayscale(1)` over 300 ms,
+- Mood / genre: comedy with heart, dread.
+- hf-kit: no block yet. Pause the scene's child timeline, `filter:grayscale(1)` over 300 ms,
   a card `scale 1.3→1` 150 ms `power4.out`, bed lane `v:0` for 1.2 s (recipe).
 
 Borrowed for structure: the shot-board row and continuity anchors (`storyboard-previsualization`) and the director worksheet's observable-action and end-state checks (`DirectorSKILL`)
@@ -592,12 +592,12 @@ Show the source (document, post, chart, photo) while making the claim.
 | storytime: Oc91iOxcB3c | | real photos and video of the cat in one grid | S |
 | science: DPZzrlFCD_I | | 3-4 clips in about 5 s showing others failed | S |
 
-- **Counter-evidence:** where the text isn't proof it didn't help: calm-faith's outliers show
+- Counter-evidence: where the text isn't proof it didn't help: calm-faith's outliers show
   less text (3-5% vs 12%, verse cards), and tech-review's biggest outlier has no graphics at all.
-- **Works:** contested or hyped claims; news; real cases. **Backfires:** a card that can't be
+- Works: contested or hyped claims; news; real cases. **Backfires:** a card that can't be
   read in its hold; a highlight that doesn't match the words spoken; decorative windows.
-- **Mood / genre:** curiosity, tension, dread.
-- **hf-kit:** `doc-highlight` (typed page, highlight `scaleX 0→1` 250 ms `power2.out`, page drift
+- Mood / genre: curiosity, tension, dread.
+- hf-kit: `doc-highlight` (typed page, highlight `scaleX 0→1` 250 ms `power2.out`, page drift
   `y -2%`); `ui-window` (in `y 40→0` 400 ms `power3.out`, typed text `steps(n)` at 40 ms a
   character, bar `scaleX 0→0.8` 1.2 s); cards on `#0b0b0b` tilted ±2° (recipe, tech-news).
   Borrowed: a claim-to-screen table and deterministic factual graphics
@@ -611,16 +611,16 @@ Show the source (document, post, chart, photo) while making the claim.
 | tech-news, all 3 | orange or red bars on the quoted line; hand-drawn white arrows and underlines | S |
 | shorts-gaming: 2n1rIXEeybM | read-along highlight, 4 steps in 6 s | S |
 
-- **Backfires:** a bar over the whole paragraph.
-- **hf-kit:** `doc-highlight` with `revealAt` on the clause's first word.
+- Backfires: a bar over the whole paragraph.
+- hf-kit: `doc-highlight` with `revealAt` on the clause's first word.
 
 ### 4.3 Label on first appearance
 | Where | Measured | Label |
 |---|---|---|
 | explainer, all 3 | bold white sans on a coloured pill ("Stoma", "Script Writing", immune cells); labels fill most of the 5-17% text share | S, M |
 
-- **Works:** 3+ new terms or actors. **Backfires:** labels that stay after the first pass.
-- **hf-kit:** `pill-label` (`scale 0.6→1`, 0.2 s `back.out(1.7)`, hold by the rule above, out
+- Works: 3+ new terms or actors. **Backfires:** labels that stay after the first pass.
+- hf-kit: `pill-label` (`scale 0.6→1`, 0.2 s `back.out(1.7)`, hold by the rule above, out
   150 ms `power2.in`).
 
 ### 4.4 Numbers as cards
@@ -630,9 +630,9 @@ Show the source (document, post, chart, photo) while making the claim.
 | challenge, all 3 | one outlined green money figure per step | S |
 | cooking: 3pgUFPtqJu4, 4TyPUB6o-t8 | a price on screen by 0:04.5-0:09; big green numerals | S |
 
-- **Works:** prices, benchmarks, prize reveals. **Backfires:** every number styled, so none
+- Works: prices, benchmarks, prize reveals. **Backfires:** every number styled, so none
   matters; decorative labels on non-numeric claims.
-- **hf-kit:** `number-card` `clean` (numerals 96 px bold, `y 20→0` 0.4 s `power3.out`) or
+- hf-kit: `number-card` `clean` (numerals 96 px bold, `y 20→0` 0.4 s `power3.out`) or
   `money` (`#39ff6a`, 4 px dark stroke, glow, `scale 1.4→1` 250 ms). Borrowed: source,
   denominator, baseline and proportional-animation rules for numbers and bars
   (`motion-graphics-direction`).
@@ -646,10 +646,10 @@ Three measured variants. OCR undercounts all three.
 | karaoke | shorts-gaming, all 3 | condensed bold caps, white with a dark outline, 2-4 words, one word in cyan or yellow | S |
 | speaker | shorts-podcast, all 3 | host always yellow, guest white in the outliers, 1-5 words, no box; the control used 5 colours | S, H |
 
-- **Works:** cards under 160-200 wpm narration; karaoke for 215-305 wpm talk; speaker colours for
+- Works: cards under 160-200 wpm narration; karaoke for 215-305 wpm talk; speaker colours for
   two or three voices. **Backfires:** faces or products at caption height; more than three
   speaker colours; karaoke on slow, emotional delivery.
-- **hf-kit:** `captions.py --variant cards|karaoke|speaker`. Borrowed: rail versus promoted
+- hf-kit: `captions.py --variant cards|karaoke|speaker`. Borrowed: rail versus promoted
   embed, bad-clip refusal and preview-before-render checks (`embedded-captions`); the final
   mixed audio as the caption source of truth (`captions-media-accessibility`); semantic line
   breaks and worst-frame QA (`title-kinetic-typography`); dated safe-zone tests per platform
@@ -663,9 +663,9 @@ Three measured variants. OCR undercounts all three.
 | cooking, all 3 | keywords in a second colour, money in green | S |
 
 - OCR reads 0-3% text in challenge and cooking; it misses this stylised type (M floor).
-- **Backfires:** running subtitles in this style; whole sentences as stickers; everything
+- Backfires: running subtitles in this style; whole sentences as stickers; everything
   coloured.
-- **hf-kit:** `captions.py --variant punch` (heavy italic caps, stroke, `scale 0.6→1` 120 ms, held
+- hf-kit: `captions.py --variant punch` (heavy italic caps, stroke, `scale 0.6→1` 120 ms, held
   1.2 s) or `--variant keyword` (`.kw`, `.money`, `scale 0.92→1` over 3 frames). The tech-news
   sticker is the punch variant plus `rotate:-8deg` and a 6 px stroke (recipe; not a variant yet).
 
@@ -679,9 +679,9 @@ No captions and no lower thirds: the voice and the picture carry it.
 | shorts-vfx, all 3 | 0% over the effect; at most a 1.5 s opening question | M, S |
 | calm-faith | outliers 3-5% vs control 12% | M, H |
 
-- **Works:** physical spectacle, visual tricks, reflective long-form narration.
+- Works: physical spectacle, visual tricks, reflective long-form narration.
   **Backfires:** explainers; Shorts watched muted (untested here).
-- **hf-kit:** no caption track after the first 2 s.
+- hf-kit: no caption track after the first 2 s.
 
 ### 4.8 Honesty and authority labels
 | Label | Where | Measured | Label tag |
@@ -689,7 +689,7 @@ No captions and no lower thirds: the voice and the picture carry it.
 | "(NOT) REAL" on staged or stock images | true crime outliers | on every reenactment insert | S, H |
 | Credential | shorts-podcast: 8Ho3a4bkkV8, 0YVdjmU13E4 vs -svLMqHJGaU | credential at 1.0 s; a name card at 0:35 vs role tags too small to read | S, H |
 
-- **hf-kit:** no blocks yet. Honesty label: typewriter caps top-centre, 14 px at 1080p,
+- hf-kit: no blocks yet. Honesty label: typewriter caps top-centre, 14 px at 1080p,
   `opacity 0.85` (recipe). Credential: handwritten-style text plus an SVG arrow drawn with
   `strokeDashoffset` over 0.4 s (recipe).
 
@@ -699,7 +699,7 @@ No captions and no lower thirds: the voice and the picture carry it.
 | shorts-gaming, all 3 | face in the top 30-33%, a banner, the content box below | S |
 | shorts-podcast, all 3 | stacked split with the question card at the seam | S |
 
-- **hf-kit:** `face-banner-stack` (its topic-top mode is a rounded 16:9 box at the top);
+- hf-kit: `face-banner-stack` (its topic-top mode is a rounded 16:9 box at the top);
   `question-card`. Borrowed: the card/video split, stack, PiP and overlay options with portrait
   type sizes (`talking-head-recut`); a choice between screen-space and tracked overlays with a
   fallback (`motion-graphics-direction`).
@@ -724,7 +724,7 @@ No captions and no lower thirds: the voice and the picture carry it.
 | shorts-facts | the exception: camera whips, push-ins and zoom-throughs are the join | S |
 | shorts-vfx | joins hidden inside whips and blurred moves | I |
 
-- **hf-kit:** clip B's `data-start` = clip A's end, no tween. In motion-graphics work, one primary
+- hf-kit: clip B's `data-start` = clip A's end, no tween. In motion-graphics work, one primary
   transition for 60-70% of scene changes plus 1-2 accents (R, HyperFrames transitions doc).
 
 ### 5.2 One accent, kept for a turn
@@ -734,9 +734,9 @@ No captions and no lower thirds: the voice and the picture carry it.
 | challenge: KrLj6nc516A, 4l97aNza_Zc vs QJI0an6irrA | a white flash on an explosion; two in a hook vs none | S |
 | explainer: _zfN9wnPvU0 | one zoom-blur | S |
 
-- **Backfires:** on every cut (template look); more than 3 flashes in any second (seizure risk,
+- Backfires: on every cut (template look); more than 3 flashes in any second (seizure risk,
   WCAG 2.3.1, R).
-- **hf-kit:** no pixel-dissolve block yet: a 16×9 grid of divs, pre-seeded `opacity 1→0` stagger
+- hf-kit: no pixel-dissolve block yet: a 16×9 grid of divs, pre-seeded `opacity 1→0` stagger
   over 250 ms, `steps(1)` (recipe). Flash: white div in over 2 frames, out over 4-8 (R).
   Borrowed: the restrained Social Flash verification steps (`media-use` recipe seeds).
 
@@ -747,9 +747,9 @@ No captions and no lower thirds: the voice and the picture carry it.
 | explainer, all 3 | macro-to-micro zooms and morphs | S |
 | kids: J8eVD2PpX_Q, OXjorKzZoUU | one continuous camera from the book to the page to the character | S |
 
-- **Works:** 3D or illustrated worlds. **Backfires:** live-action talking heads; zooming on every
+- Works: 3D or illustrated worlds. **Backfires:** live-action talking heads; zooming on every
   change (motion sickness, R).
-- **hf-kit:** `zoom-through` (scene A `scale 1→6` `power3.in` 0.4 s around the object; scene B
+- hf-kit: `zoom-through` (scene A `scale 1→6` `power3.in` 0.4 s around the object; scene B
   `scale 0.6→1` `power3.out` at the same time).
 
 ### 5.4 Hide the join inside motion
@@ -758,8 +758,8 @@ No captions and no lower thirds: the voice and the picture carry it.
 | shorts-vfx, all 3 | 0 hard cuts in 11-26 s | M; joins I |
 | gaming-longform | 5-10 of 12 sampled cut pairs per video touch an inventory screen | S |
 
-- **Backfires:** a visible swap frame; menus shorter than 0.3 s.
-- **hf-kit:** `blur-swap` (before and after layers swapped at the peak of a 4-6 frame blur,
+- Backfires: a visible swap frame; menus shorter than 0.3 s.
+- hf-kit: `blur-swap` (before and after layers swapped at the peak of a 4-6 frame blur,
   `blur 0→20px→0`).
 
 ### 5.5 Entrances land on the word
@@ -774,10 +774,10 @@ durations and eases are recipes, not measurements.
 | Sticker | `scale 1.3→1`, 120 ms `expo.out` | tech-news sticker caption |
 | Calm title | `opacity 0→1, y 12→0`, 0.8 s `sine.out` | calm-faith series title |
 
-- **Rules (R):** decelerate in, accelerate out; about three easing characters per video; exits
+- Rules (R): decelerate in, accelerate out; about three easing characters per video; exits
   20-30% shorter than entrances; `back.out` and bounce for playful beats only; one gradient sweep
   per video at most.
-- **Borrowed:** GSAP backward-seek and side-effect checks before a render
+- Borrowed: GSAP backward-seek and side-effect checks before a render
   (`gsap-animation-composition`).
 
 ### 5.6 Camera on stills
@@ -787,7 +787,7 @@ durations and eases are recipes, not measurements.
 | documentary, all 3 | archive stills and period maps with drawn red or gold routes | S |
 | true crime: outliers | host keyed over a location still, changed per chapter | S |
 
-- **hf-kit:** `world-camera` (three parallax layers). Ken Burns on a still: `scale 1→1.12,
+- hf-kit: `world-camera` (three parallax layers). Ken Burns on a still: `scale 1→1.12,
   xPercent 0→-3`, `sine.inOut`, over a 5-10 s hold (R). One camera move per shot (R). No map block
   yet.
 
@@ -806,9 +806,9 @@ recipes are reference.
 | storytime, all 3 | black line art on white, colour only on the subject; a lavender-grey wash for rooms and flashbacks | S |
 | kids, all 3 | one colour per number | S |
 
-- **Works:** abstract ideas; a character the story is about. **Backfires:** a palette that drifts
+- Works: abstract ideas; a character the story is about. **Backfires:** a palette that drifts
   scene to scene; everything coloured, so nothing pops.
-- **hf-kit:** tokens per world (`--hk-bg`, `--hk-accent`, `--hk-side-a/b`); one world class per
+- hf-kit: tokens per world (`--hk-bg`, `--hk-accent`, `--hk-side-a/b`); one world class per
   scene sub-composition; 0.6-0.8 s crossfade when the world changes (recipe). Borrowed:
   visual-grammar invariants, controlled variables and failure signals (`visual-style-direction`).
 
@@ -819,8 +819,8 @@ recipes are reference.
 | challenge: 4l97aNza_Zc | two colours on clothes, tags and sets | S |
 | shorts-podcast | a colour per speaker in captions | S |
 
-- **Backfires:** more than four colours; more than three sides.
-- **hf-kit:** `--hk-side-a` `#3be8ff`, `--hk-side-b` `#ff7a3b`; the enemy's colour also drives its
+- Backfires: more than four colours; more than three sides.
+- hf-kit: `--hk-side-a` `#3be8ff`, `--hk-side-b` `#ff7a3b`; the enemy's colour also drives its
   glow, `drop-shadow(0 0 12px var(--enemy))` (recipe).
 
 ### 6.3 Glow on the named noun
@@ -828,8 +828,8 @@ recipes are reference.
 |---|---|---|
 | shorts-facts, all 3 | the object the narration names lights up as it's said, 7 or more times per video | S |
 
-- **Backfires:** every object glows. **Works:** a moving camera under dense narration.
-- **hf-kit:** no block yet: a masked cut-out with `drop-shadow(0 0 12px var(--glow))`, in over 4
+- Backfires: every object glows. **Works:** a moving camera under dense narration.
+- hf-kit: no block yet: a masked cut-out with `drop-shadow(0 0 12px var(--glow))`, in over 4
   frames, held 1-1.5 s (recipe).
 
 ### 6.4 Archive in a film gate
@@ -837,8 +837,8 @@ recipes are reference.
 |---|---|---|
 | documentary, all 3 | archive footage, prints and period maps in a rounded dark vignette with warm, textured colour | S |
 
-- **Backfires:** modern footage gets it too. **Mood:** nostalgia, history.
-- **hf-kit:** `film-gate` (`box-shadow: inset 0 0 120px 60px #000`, `border-radius 24px`, archive
+- Backfires: modern footage gets it too. **Mood:** nostalgia, history.
+- hf-kit: `film-gate` (`box-shadow: inset 0 0 120px 60px #000`, `border-radius 24px`, archive
   clips only). Borrowed: the Film Memory and VHS Playback recipe seeds with their before/after
   verification (`media-use`).
 
@@ -848,7 +848,7 @@ recipes are reference.
 | science, all 3 | fire, smoke, snow, sparks and Jell-O are real; no designed transitions | S |
 | shorts-vfx, all 3 | effects that look practical, natural light, no visible grade; a calm camera in the outliers (0.68-0.79 vs 1.34) | S, M |
 
-- **hf-kit:** for our renders, one look per video and at most three texture layers (R).
+- hf-kit: for our renders, one look per video and at most three texture layers (R).
 
 ### 6.6 Grades by mood (reference only)
 Teal-orange for challenge and hype; bleach bypass or low-key noir for true crime and mystery;
@@ -873,8 +873,8 @@ The sections below use loudness, spectrum, onset timing and caption tags.
 | true crime, all 3 | the story's climax line, 4.8-7.6 LU over the median | M |
 | tech-news, all 3 | a borrowed clip with its own audio, 3-8 LU over the median | M |
 
-- **Reading:** peaks are reactions and real sound, not designed effects.
-- **hf-kit:** impacts at or under the voice (SFX.md: impact −6 dB under the voice); let reaction
+- Reading: peaks are reactions and real sound, not designed effects.
+- hf-kit: impacts at or under the voice (SFX.md: impact −6 dB under the voice); let reaction
   audio peak and catch it with a true-peak limiter rather than flattening it.
 
 ### 7.2 A sound on the evidence insert
@@ -883,7 +883,7 @@ The sections below use loudness, spectrum, onset timing and caption tags.
 | true crime, storytime | outliers' cut-on-onset lift 1.22-1.57 vs 1.02-1.06 in the controls (2.5) | M, H |
 | true crime: VGiLQIzQW2Q | `>> [music] >>` inside sentences at key lines (21:24) | S; short stings I |
 
-- **hf-kit:** SFX.md "Impact on reveal" (transient on the insert's first frame, −6 dB under the
+- hf-kit: SFX.md "Impact on reveal" (transient on the insert's first frame, −6 dB under the
   voice) or "Pop-in" (−12 dB) for small inserts. Borrowed: a motion-to-sound cue schema of
   `{relative time, sound role, visual event, gain, optional rate/trim}` (idea from
   `video-talkcraft`'s sfx map; implement independently with our own cleared files).
@@ -895,8 +895,8 @@ The sections below use loudness, spectrum, onset timing and caption tags.
 | shorts-vfx: 5jhEoRZXhjE | peak at the confrontation (−12.1, 12-14 s), then about 9.6 LU down; brightness about 1530 → 348 Hz, bass share 0.11-0.13 → 0.36 | M |
 | gaming-longform: 2teag5QC7NA | an explosion at 3:56 falling 50 LU into the death screen at 4:00 | M |
 
-- **Works:** builds, falls, escapes. **Backfires:** talk-led Shorts, where the voice stays level.
-- **hf-kit:** SFX.md "Riser into payoff" (1-4 s lead ending on the payoff frame) plus "Impact on
+- Works: builds, falls, escapes. **Backfires:** talk-led Shorts, where the voice stays level.
+- hf-kit: SFX.md "Riser into payoff" (1-4 s lead ending on the payoff frame) plus "Impact on
   reveal"; then gain automation down 8-10 LU with a low-pass for a quiet ending (recipe). Pattern:
   riser → 1-4 frames of near silence → impact, about one pair a minute in long form (R).
 
@@ -907,7 +907,7 @@ The sections below use loudness, spectrum, onset timing and caption tags.
 | kids: J8eVD2PpX_Q, OXjorKzZoUU | a jingle opens both reveals, then a 0.72 s gap (0:08.9) | M |
 | tech-review: Od6M0AXpcxQ, 6D__H_DO2Xk | the channel ident; music tagged at 0:00.7 | M (tags) |
 
-- **hf-kit:** a reusable event sub-composition carrying its cue (recipe).
+- hf-kit: a reusable event sub-composition carrying its cue (recipe).
 
 ### 7.5 Restraint by genre (reference)
 Designed SFX per minute (R): fast Shorts 15-40; listicles 10-25; explainers 4-12; tutorials 2-8;
@@ -915,7 +915,7 @@ documentary 0-4; calm and faith 0-2. Sound the top one or two animations in each
 no SFX on looping motion; rotate 3-6 variants; SFX 6-15 dB under the voice (R). The only measured
 hint: kids content has the lowest onset rate among talk-led niches (76-78/min, M), but syllables
 dominate that number.
-- **hf-kit:** SFX.md event map (pop-in, whoosh on transition, impact on reveal, riser into
+- hf-kit: SFX.md event map (pop-in, whoosh on transition, impact on reveal, riser into
   payoff, tick for counter, sub drop), with generated files in `sound/sfx/`. Borrowed:
   material, distance, sync priority and a stem/asset manifest per sound (`sound-design-foley`); the SFX manifest's event timings, after fixing its J/L-cut error (`media-use`).
 
@@ -933,9 +933,9 @@ dominate that number.
 | cooking | 1.05-1.14 | M |
 | science: DPZzrlFCD_I | 1.31, the only beat-cut stretch in the sample, in montages with no narration | M |
 
-- **Rule:** under narration, cut on speech and let the music sit; in a music-only montage, cut 1-2
+- Rule: under narration, cut on speech and let the music sit; in a music-only montage, cut 1-2
   frames before beats or bars (R).
-- **hf-kit:** no beat grid under the voice. Borrowed: the reliable-grid versus phrase-flow
+- hf-kit: no beat grid under the voice. Borrowed: the reliable-grid versus phrase-flow
   decision (`music-to-video`); real-transient and rendered-output beat checks
   (`video-shotcraft`).
 
@@ -946,10 +946,10 @@ dominate that number.
 | gaming-longform: Qk0iCPmtLUA, UjjRGyre3RY | one music time-lapse of about 27-28 s per episode (58:39, 11:45) | M |
 | kids: DC-bErjbu0E | four song blocks carry the lessons (0:11-3:28, 18:38-25:26, 44:25-48:49, 53:19-61:44) | M |
 
-- **Works:** visually satisfying action; build progress. **Backfires:** dull or repetitive action;
+- Works: visually satisfying action; build progress. **Backfires:** dull or repetitive action;
   a montage for every task.
-- **Mood / genre:** triumph, playful.
-- **hf-kit:** `payoff-lift` (music `1.585`, VO off, 4-8 s clips on bar lines).
+- Mood / genre: triumph, playful.
+- hf-kit: `payoff-lift` (music `1.585`, VO off, 4-8 s clips on bar lines).
 
 ### 8.3 Music at the edges, not under the talk
 | Where | Measured | Label |
@@ -962,10 +962,10 @@ dominate that number.
 
 - The chapter's "music up on b-roll" for tech review is not seen: b-roll in the body carries no
   tagged music (M against R).
-- **Works:** talk-led reviews; one fast narrator. **Backfires:** a room-noise problem the bed was
+- Works: talk-led reviews; one fast narrator. **Backfires:** a room-noise problem the bed was
   hiding; slow, quiet stories that need mood.
-- **Mood / genre:** sincerity, comedy, curiosity.
-- **hf-kit:** `thin-bed-pauses`, or music clips only in the intro and outro scenes.
+- Mood / genre: sincerity, comedy, curiosity.
+- hf-kit: `thin-bed-pauses`, or music clips only in the intro and outro scenes.
 
 ### 8.4 A continuous flat bed
 | Where | Measured | Label |
@@ -974,10 +974,10 @@ dominate that number.
 | calm-faith, all 3 | body spread 3.1-3.7 LU; no silence in the body; Q7PgVAN2MPo's 11.75 speech gaps/min leave only 0.53 silences/min | M; "filled by the bed" I |
 | shorts-facts, all 3 | LRA 2.0-2.3, zero silences | M; bed I |
 
-- **Works:** dense narration; reflective teaching. **Backfires:** a melodic bed in 1-4 kHz under
+- Works: dense narration; reflective teaching. **Backfires:** a melodic bed in 1-4 kHz under
   dense speech (it masks consonants, R).
-- **Mood / genre:** wonder, calm.
-- **hf-kit:** `voice-first-flat` or `gapless-bed`. Carve 3-6 dB around 2-3 kHz on the bed (R).
+- Mood / genre: wonder, calm.
+- hf-kit: `voice-first-flat` or `gapless-bed`. Carve 3-6 dB around 2-3 kHz on the bed (R).
 
 ### 8.5 Fewer music-only stretches (outlier lead)
 A [music] caption tag marks music heard with no words. Both outliers carry fewer tags per minute
@@ -995,9 +995,9 @@ than their control in 8 niches (values from `data/*.json`):
 | tech-news | 0, 0 | 0.17 | M |
 | Reverses: true crime | 0.2, 1.5 | 1.33 | M |
 
-- **Reading (H):** the outliers keep a voice on top more of the time. Caption types differ (auto
+- Reading (H): the outliers keep a voice on top more of the time. Caption types differ (auto
   against human), so treat it as a lead.
-- **hf-kit:** plan music-only moments as events (8.2, 9.4), not as filler between lines.
+- hf-kit: plan music-only moments as events (8.2, 9.4), not as filler between lines.
 
 ### 8.6 Score one section differently
 Darker and bassier for tension, in one section only.
@@ -1009,9 +1009,9 @@ Darker and bassier for tension, in one section only.
 | calm-faith: b54d_GhBthI | bass share 0.26-0.37 under the unbroken opening and 0.35 under the fall, vs a 0.17 median | M |
 | cooking: 3pgUFPtqJu4 | the processing minutes darker (531 Hz against 691 Hz) | M; source unknown |
 
-- **Backfires:** a dark mix all the way through; constant tension that numbs (R).
-- **Mood / genre:** tension, dread.
-- **hf-kit:** `tension-section`; in Shorts, bed +2 LU with a low-shelf boost over the danger scene
+- Backfires: a dark mix all the way through; constant tension that numbs (R).
+- Mood / genre: tension, dread.
+- hf-kit: `tension-section`; in Shorts, bed +2 LU with a low-shelf boost over the danger scene
   and −2 LU for the waiting beat, voice fixed (recipe).
 
 ### 8.7 Bed on for tension, off for exposition
@@ -1020,8 +1020,8 @@ Darker and bassier for tension, in one section only.
 | true crime: VGiLQIzQW2Q | minutes with [music] tags have no silences; minutes without have 6-12 per minute | M |
 | true crime: QfxhFa5hEX8 | the fewest tags and the most silences (4.72/min) | M |
 
-- **Backfires:** a bed that drops mid-sentence.
-- **hf-kit:** music volume keyed to transcript sections, 0.8 s fades at section borders (recipe).
+- Backfires: a bed that drops mid-sentence.
+- hf-kit: music volume keyed to transcript sections, 0.8 s fades at section borders (recipe).
 
 ### 8.8 One swell at a climax
 | Where | Measured | Label |
@@ -1030,9 +1030,9 @@ Darker and bassier for tension, in one section only.
 | calm-faith: 3EkD-alQhT8, b54d_GhBthI | bumps of 2.5-4 LU on dramatic beats (3EkD-alQhT8 0:20, 1:32, 2:30, 3:26; b54d_GhBthI 0:44, 1:14, 4:18) | M; cause I |
 | science: DPZzrlFCD_I | payoff minutes about 4 LU over the narration | M |
 
-- **Rule (R):** about one strong hit per 10-20 s of bed; the biggest accent on the section's most
+- Rule (R): about one strong hit per 10-20 s of bed; the biggest accent on the section's most
   important picture.
-- **hf-kit:** no preset; a `data-automation` volume lane raising the bed 2.5-4 LU for the beat.
+- hf-kit: no preset; a `data-automation` volume lane raising the bed 2.5-4 LU for the beat.
 
 ### 8.9 A darker tail
 | Where | Measured | Label |
@@ -1041,7 +1041,7 @@ Darker and bassier for tension, in one section only.
 | calm-faith: 3EkD-alQhT8, b54d_GhBthI | the outro cue roughly halves in brightness (469-545 vs 1106 Hz; 440-635 vs 1178 Hz) | M |
 | shorts-vfx: 5jhEoRZXhjE | last 6 s brightness about 1530 → 348 Hz | M |
 
-- **hf-kit:** an outro cue darker than the bed, with `endcard-fade` or `exhale-tail`.
+- hf-kit: an outro cue darker than the bed, with `endcard-fade` or `exhale-tail`.
 
 ### 8.10 The song is the lesson
 | Where | Measured | Label |
@@ -1050,7 +1050,7 @@ Darker and bassier for tension, in one section only.
 
 - Looks like a conflict with the chapter's "no sung lyrics over teaching lines" (R), but here the
   lyric is the teaching and nothing competes with it.
-- **hf-kit:** equation bubble `from({scale:0,rotation:-12})`, 250 ms `back.out(2)` on the sung
+- hf-kit: equation bubble `from({scale:0,rotation:-12})`, 250 ms `back.out(2)` on the sung
   answer; hold `words × 0.45 s` (recipe).
 
 Borrowed for music: cue IDs, planned silences and exits, and composition-versus-master rights
@@ -1084,7 +1084,7 @@ checks (`music-supervision-scoring`).
   ones (R; community-measured, YouTube publishes no number). Shorts, TikTok and Reels have no
   published target: −14 there is our house default, not a platform rule (R; wording qualified per
   `social-short-production`).
-- **hf-kit:** `check.py`'s master line (target −14, ceiling −1 dBTP). Borrowed: a local loudness
+- hf-kit: `check.py`'s master line (target −14, ceiling −1 dBTP). Borrowed: a local loudness
   meter and delivery checks (`audio-mixing-mastering`); probe → decide → encode → probe
   (`ffmpeg-media-finishing`).
 
@@ -1096,9 +1096,9 @@ checks (`music-supervision-scoring`).
 | shorts-facts, shorts-gaming | LRA 1.0-2.4 | M |
 | storytime: plSyrHqUh78, Oc91iOxcB3c vs OQx7q6mwkV4 | 4.1 and 2.2 vs 6.8 (one narrator against a cast) | M |
 
-- **Works:** one narrator, dense narration. **Backfires:** calm or story pieces that need
+- Works: one narrator, dense narration. **Backfires:** calm or story pieces that need
   dynamics.
-- **hf-kit:** `voice-first-flat`; render and check LRA ≤3 LU.
+- hf-kit: `voice-first-flat`; render and check LRA ≤3 LU.
 
 ### 9.3 Wide mix for casts, songs and reactions
 | Where | Measured | Label |
@@ -1108,9 +1108,9 @@ checks (`music-supervision-scoring`).
 | shorts-vfx | LRA 8.4-14.2; the 2 s curve swings 9.6-14.1 LU inside each Short | M |
 | science: DPZzrlFCD_I | LRA 9.7 | M |
 
-- **Backfires:** a body 5-8 LU under its intro (the kids control's flaw); fix with pauses and a −14
+- Backfires: a body 5-8 LU under its intro (the kids control's flaw); fix with pauses and a −14
   master, not a quiet master.
-- **hf-kit:** no flattening; a true-peak limiter last, with no more than about 1 dB of limiting
+- hf-kit: no flattening; a true-peak limiter last, with no more than about 1 dB of limiting
   (R).
 
 ### 9.4 Silence as punctuation
@@ -1137,13 +1137,13 @@ shorts-gaming and the podcast outliers.
 | | challenge: KrLj6nc516A | a dip to −17.5 under a slow car door (8:24-8:28) | M |
 | | cooking: 3pgUFPtqJu4 | after a joke (3:52); a censor mute (5:22) | M |
 
-- **Rarity is the point:** once per video in explainer and calm-faith; under about one a minute in
+- Rarity is the point: once per video in explainer and calm-faith; under about one a minute in
   documentary; about one per two minutes for verdicts (cooking steal list); at most one hard
   silence per 2-3 min (R). In Shorts keep it under about 1 s (R), except comic reveals
   (shorts-vfx, measured 0.8-1.95 s).
-- **Backfires:** after every paragraph; in information Shorts (reads as broken); a gag silence on a
+- Backfires: after every paragraph; in information Shorts (reads as broken); a gag silence on a
   real tragedy.
-- **hf-kit:** `silence-at-heaviest-line`; `pause-at-turn`; chapter gap = every track off with a
+- hf-kit: `silence-at-heaviest-line`; `pause-at-turn`; chapter gap = every track off with a
   black div for 2.5-6.2 s (recipe); comic beat = cut the A-roll with 1-2.5 s of room tone. Under
   dialogue, "silence" means room tone, not digital zero (R).
 
@@ -1153,8 +1153,8 @@ shorts-gaming and the podcast outliers.
 | documentary: 2r5eKpptixo | −28.8 LUFS at 4:12 before the −10.7 peak at 4:20; archive news clips are the three loudest windows, 7-8 LU over the median | M |
 | tech-news, all 3 | borrowed clips 3-8 LU over the median, narration stopped | M |
 
-- **Backfires:** on every clip; clips every 30 s (the reset stops resetting).
-- **hf-kit:** `dip-before-clip`.
+- Backfires: on every clip; clips every 30 s (the reset stops resetting).
+- hf-kit: `dip-before-clip`.
 
 ### 9.6 Duck and carve under the voice (reference)
 Music 18-22 LU under the voice while it speaks, rising to 10-14 LU under in gaps over 1 s; duck
@@ -1176,7 +1176,7 @@ repair that keeps the original performance, useful for clip channels (`dialogue-
 | shorts-gaming, all 3 | 0 s of outro; the last informative line ends the video | M, S |
 | shorts-vfx, all 3 | the payoff frame, no outro | S |
 
-- **hf-kit:** no end scene; the last caption group ends the timeline.
+- hf-kit: no end scene; the last caption group ends the timeline.
 
 ### 10.2 Long form slows in the last minute
 | Where | Cuts in the last minute (floor) | Label |
@@ -1189,7 +1189,7 @@ repair that keeps the original performance, useful for clip channels (`dialogue-
 | kids: DC-bErjbu0E | 3, visual energy 0.32, a bedtime ending | M |
 | Counter: science 26-59, cooking 22-27, challenge 19-39 keep full pace to the end | | M |
 
-- **hf-kit:** a `last_min` range in the style JSON.
+- hf-kit: a `last_min` range in the style JSON.
 
 ### 10.3 A quiet tail under the credits
 | Where | Measured | Label |
@@ -1200,9 +1200,9 @@ repair that keeps the original performance, useful for clip channels (`dialogue-
 | storytime: plSyrHqUh78 | credits 10-15 LU under the body | M |
 | Counter: storytime Oc91iOxcB3c's last 20 s is its loudest stretch | | M |
 
-- **Works:** an end card, credits or a support ask. **Backfires:** Shorts (over about 1 s of quiet
+- Works: an end card, credits or a support ask. **Backfires:** Shorts (over about 1 s of quiet
   reads as broken, R); a video that ends on a line of VO.
-- **hf-kit:** `endcard-fade` (end-card scene 15-20 s) or `exhale-tail` (back-time the cue's last
+- hf-kit: `endcard-fade` (end-card scene 15-20 s) or `exhale-tail` (back-time the cue's last
   chord to the logo frame).
 
 ### 10.4 Sponsor and brand after the content, or inside it
@@ -1213,7 +1213,7 @@ repair that keeps the original performance, useful for clip channels (`dialogue-
 | science, all 3 | a closing gag, then the ad or end card | S |
 | challenge: KrLj6nc516A, 4l97aNza_Zc vs QJI0an6irrA | own brand inside a stunt (chocolate survives an explosion, KrLj6nc516A 3:35-4:07) vs a TV-series plug at both ends | S, H |
 
-- **hf-kit:** the sponsor as its own final sub-composition with one offer sticker (recipe).
+- hf-kit: the sponsor as its own final sub-composition with one offer sticker (recipe).
 
 ### 10.5 Fixed sign-off
 | Where | Seen | Label |
@@ -1223,7 +1223,7 @@ repair that keeps the original performance, useful for clip channels (`dialogue-
 | true crime, all 3 | thanks, a comments ask, a playlist pointer | S |
 | explainer, all 3 | the same "Support Human-Made Art" end card | S |
 
-- **hf-kit:** one end-card sub-composition per channel, reused.
+- hf-kit: one end-card sub-composition per channel, reused.
 
 ---
 
@@ -1252,12 +1252,12 @@ cell is R only.
 ## 12. Recipe gaps in hf-kit
 
 What the evidence asks for that the kit doesn't have yet:
-- **Blocks:** tilted sticker caption (a `punch` variant), pixel-block dissolve, glow on the named
+- Blocks: tilted sticker caption (a `punch` variant), pixel-block dissolve, glow on the named
   noun, loss card, silhouette reveal, map with a drawn route (a documentary house device), honesty
   label, credential label with a drawn arrow.
-- **Checks:** `check.py` doesn't report text share or wpm, so style ranges for those go unchecked;
+- Checks: `check.py` doesn't report text share or wpm, so style ranges for those go unchecked;
   run `research/measure.py` for them.
-- **Mix:** no preset for a single swell (8.8); use a raw `data-automation` lane.
+- Mix: no preset for a single swell (8.8); use a raw `data-automation` lane.
 
 ## 13. Credits for borrowed ideas
 

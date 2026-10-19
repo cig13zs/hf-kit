@@ -40,27 +40,27 @@ pHJIhxZEoxg's lift is 1.10 and 0NY2gAftzJE's bass median is 0.26. 0NY2gAftzJE wa
 the tempo fix on 2026-09-27: 136 BPM at confidence 1.44, lift unchanged at 0.78.
 
 ## Shared devices (all three: the house style)
-- **Few cuts, a moving camera.** 4.3-5.7 cuts/min and a 6.5-9.4s median shot (measured).
+- Few cuts, a moving camera. 4.3-5.7 cuts/min and a 6.5-9.4s median shot (measured).
   Inside a shot the camera pushes, pans and zooms macro-to-micro, and scenes morph into the
   next (seen in all three hook sheets). The hard-cut floor undercounts the dissolves and
   morphs most in the control (seen: two dissolves in its first 27s).
-- **Voice from the first frame.** First word at 0.0-0.56s and 154-166 wpm in the first 30s
+- Voice from the first frame. First word at 0.0-0.56s and 154-166 wpm in the first 30s
   (measured). No music intro, no logo sting.
-- **Flat vector on dark grounds with neon actors.** Deep purple and navy, with green, magenta,
+- Flat vector on dark grounds with neon actors. Deep purple and navy, with green, magenta,
   cyan and orange for whatever acts (seen in all three overviews). The control adds a bright
   sky palette above ground and goes purple underground.
-- **Pill labels on first appearance.** Bold white sans on a coloured rounded pill (seen:
+- Pill labels on first appearance. Bold white sans on a coloured rounded pill (seen:
   immune cells in 0NY2gAftzJE, "Script Writing" in _zfN9wnPvU0, "Stoma" in pHJIhxZEoxg).
-- **One spoken chapter card.** The VO says the title as the card appears: "Why viruses love
+- One spoken chapter card. The VO says the title as the card appears: "Why viruses love
   cancer" (line at 1:52.6), "The most corrosive lie" (5:58, card 6:02), "the underground
   empire" (5:15, card 5:21). All seen.
 - **The channel's bird characters** carry asides, the sponsor or the support ask (seen at
   5:34 and 6:19 in 0NY2gAftzJE, 0:25 in _zfN9wnPvU0, 9:46 in pHJIhxZEoxg).
-- **The same end card:** "Support Human-Made Art" on all three (seen). The slop video, whose
+- The same end card: "Support Human-Made Art" on all three (seen). The slop video, whose
   thesis it is, is the earliest of the three uploads (2025-10-07).
 - **No shake, glitch or whip** in any sampled cut pair (seen). The only fast transitions are
   a zoom-blur and a screen tunnel in _zfN9wnPvU0, once each.
-- **An identical mix:** −15.4 to −15.9 LUFS, LRA 2.2 LU, 0.18-0.26 silences/min, 96-99 onsets/min
+- An identical mix: −15.4 to −15.9 LUFS, LRA 2.2 LU, 0.18-0.26 silences/min, 96-99 onsets/min
   (all measured). See the sound profile below.
 
 ## Outlier against control (every causal claim is a hypothesis)
@@ -89,33 +89,33 @@ Hypotheses:
    lowest rate, so "a divisive topic drove it" does not hold across both outliers.
 
 ## Sound and music profile
-- **Level:** −15.4 to −15.9 LUFS integrated (measured), close to YouTube's −14 reference.
+- Level: −15.4 to −15.9 LUFS integrated (measured), close to YouTube's −14 reference.
   YouTube turns loud uploads down but does not raise quiet ones (knowledge chapter), so
   these play at almost full platform level (inferred).
-- **Range:** 2.2 LU in all three (measured), the flattest mix in the sample so far
+- Range: 2.2 LU in all three (measured), the flattest mix in the sample so far
   (documentary: 5.9-7.9 LU). Per-minute means stay within 0.5-0.8 LU for the whole body
   (measured in all three). The voice sits on a compressed bed with no loud or quiet
   sections (inferred). This matches the music chapter's animated-explainer row.
-- **Silence:** 0.18-0.26 per minute (measured), and almost none in the body. Each video has
+- Silence: 0.18-0.26 per minute (measured), and almost none in the body. Each video has
   one short pause at a turn: 0NY2gAftzJE 0.41s at 6:21, just after the NordVPN read ends;
   pHJIhxZEoxg 0.74s at 9:39.8, the handoff into the sponsor; _zfN9wnPvU0 a 2.3 LU dip at 8:18,
   before "How will we use AI?" (timings measured; the reading is inferred from transcripts).
   The other silences sit in the last 10-60s, under the end card.
-- **Ending:** _zfN9wnPvU0 and pHJIhxZEoxg fade about 31 LU over their last 14-16s under the end
+- Ending: _zfN9wnPvU0 and pHJIhxZEoxg fade about 31 LU over their last 14-16s under the end
   card; 0NY2gAftzJE holds −14 to −17.5 LUFS to 15:08 and drops to −49 within 2s (all measured).
   The last 10s window turns dark and low in both measured fades: bass share 0.88 and
   brightness 476 Hz (_zfN9wnPvU0), 0.89 and 106 Hz (pHJIhxZEoxg), against medians of 0.21-0.27
   and 1014-1203 Hz (measured). A bass-heavy music tail under the end card (inferred).
-- **Music bed:** [music] caption tags at 3.3-6.5/min in all three, starting in the first 5s
+- Music bed: [music] caption tags at 3.3-6.5/min in all three, starting in the first 5s
   (measured). A bed likely runs under all narration (inferred). Bass share medians of 0.21-0.27
   (measured) put a fuller low end under the voice than the storytime niche's 0.05 (inferred).
-- **Cutting to sound:** cuts land on onsets at 0.78× chance in the pilot, 1.10× in the control
+- Cutting to sound: cuts land on onsets at 0.78× chance in the pilot, 1.10× in the control
   and 1.35× in the slop video (measured). The niche does not consistently cut on beats. The edit follows the
   narration, and some scene changes carry a sound hit (inferred).
-- **Sound design:** 96-99 onsets per minute in all three (measured). That count includes
+- Sound design: 96-99 onsets per minute in all three (measured). That count includes
   speech, so it can't be split into SFX. The knowledge chapter's 4-12 designed SFX per minute
   for explainers is a starting point, not confirmed here.
-- **Brightness:** medians 1014-1203 Hz (measured), a mid-bright mix (inferred).
+- Brightness: medians 1014-1203 Hz (measured), a mid-bright mix (inferred).
 
 ## Steal list
 | Technique | Measured range | Works when | Backfires when | HyperFrames recipe |

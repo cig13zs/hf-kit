@@ -60,11 +60,11 @@ colour, no visible grade (seen).
 - Music block: tempo estimate 107.7 BPM at confidence 1.26, brightness 1579 Hz, bass share 0.277, no caption [music] tags; cuts-on-onsets lift not computable (measured).
 
 ## 8. Retention mechanics: why
-- **Impossible state in frame 1.** The strangeness is visible at once. Job: resetting
+- Impossible state in frame 1. The strangeness is visible at once. Job: resetting
   attention.
-- **Push-in under the trunk.** Putting the camera, and the worker, under the danger builds
+- Push-in under the trunk. Putting the camera, and the worker, under the danger builds
   dread. Job: building tension.
-- **The fall on a rising sound curve.** Loudness climbs into the crash. Job: showing a
+- The fall on a rising sound curve. Loudness climbs into the crash. Job: showing a
   payoff, with sound doing the build.
 - What it lacks: no transformation on camera, no question to the viewer, no second beat.
 
@@ -73,9 +73,9 @@ Outliers: 5jhEoRZXhjE (44.3×, a famous mural whose ladder and balloon become re
 X0wxLr5W2X8 (14.05×, a cake-or-fake guessing game). All three share zero cuts, a handheld
 single-take look, no captions over the effect, and the creator performing on camera. What
 the outliers do that this one doesn't, all hypotheses:
-- **A transformation on camera.** Flat becomes real, or objects turn out to be something
+- A transformation on camera. Flat becomes real, or objects turn out to be something
   else; here the impossible thing is already there in frame 1.
-- **Borrowed attention:** a world-famous artwork, or a trend format the feed knows.
+- Borrowed attention: a world-famous artwork, or a trend format the feed knows.
 - **Two or three reveals** against one.
 - **A title that asks or claims** against a title that labels the trick an illusion.
 - **A calmer camera** (0.68-0.79 against 1.34, measured) that lets the trick read.

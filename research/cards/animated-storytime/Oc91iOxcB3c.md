@@ -58,12 +58,12 @@ second half has no plot. It runs as a list of character gags, each 20-60s long (
 transcript).
 
 ## 4. Editing style
-- **Cutting starts at once and stays even:** 20-24.8 cuts/min in every segment but the last
+- Cutting starts at once and stays even: 20-24.8 cuts/min in every segment but the last
   (measured). Median shot 2.0s.
 - **Punch-ins and reframes on drawings,** as a vlogger would cut a talking head: 6:47.1 →
   6:47.4 is the same drawing pushed in, 13:34.2 → 13:34.4 a push-in on the other cat, 8:51.8 →
   8:52.1 a reframe of the same desk scene (seen; 3 of 12 sampled cuts).
-- **Smash cuts to a reaction close-up:** a sparkling extreme close-up of her eyes at 4:01.5
+- Smash cuts to a reaction close-up: a sparkling extreme close-up of her eyes at 4:01.5
   (seen) as she starts to love cats.
 - **Cutaway gags** of 1-2s: a mushroom cloud on "insane" (8:37.6, line at 8:35), the cat alone
   in outer space on "her world is so small" (12:38.4, line at 12:35) (seen).
@@ -73,7 +73,7 @@ transcript).
 - Black line art on white. Rooms and flashbacks are tinted lavender-grey, a one-colour wash
   (seen at 0:04.5, 0:15.5, 2:54.8). The cat is the most colourful thing in the video: dark
   grey with orange patches and huge yellow-green eyes (seen at 7:01, 7:25).
-- **Real photos and video as proof:** a grid of real photos of the cat sleeping on her with a
+- Real photos and video as proof: a grid of real photos of the cat sleeping on her with a
   drawn face stuck on top (11:02.1, seen), a real clip (8:17, from the transcript), and real
   photos in the credits (15:51, seen). The drawn cat matches the real one, so the photos
   confirm the character (inferred).
@@ -88,31 +88,31 @@ transcript).
 - No whip, glitch, shake or speed ramp was seen.
 
 ## 7. Sound (measured only)
-- **Flat and voice-first:** LRA 2.2 LU and per-minute means within 0.4 LU from 0:00 to 15:00
+- Flat and voice-first: LRA 2.2 LU and per-minute means within 0.4 LU from 0:00 to 15:00
   (measured). Same flatness as Kurzgesagt, at the fastest speech in the niche (190 wpm).
-- **Very little bass:** the bass share median is 0.05, against 0.27 in the Kurzgesagt slop
+- Very little bass: the bass share median is 0.05, against 0.27 in the Kurzgesagt slop
   video (measured). With only one [music] caption tag, a light bed or none under most of the
   talk is likely (inferred).
-- **One gag drop:** the level falls about 10 LU to −26.6 at 0:46, where the only [music] tag
+- One gag drop: the level falls about 10 LU to −26.6 at 0:46, where the only [music] tag
   sits (0:45.5), during the "can I have some water" bit (measured; inferred to be the music
   cutting out for the gag).
 - **Three silences** in 16 minutes (measured): 2:52.8 (0.48s) as she realises she has no
   reaction; 4:43.7 (0.64s) inside the adoption plea, about 2s before "I'm weak willed and impulsive"; and the end.
 - **Cuts land on onsets 1.22× chance** (measured), a mild lean towards cutting on a sound.
-- **Loud outro:** 15:40-16:00 runs 2-4 LU over the body, under the merch plug and credits
+- Loud outro: 15:40-16:00 runs 2-4 LU over the body, under the merch plug and credits
   (measured).
 
 ## 8. Retention mechanics: why
-- **The title breaks the creator's known identity.** Only a returning viewer feels the
+- The title breaks the creator's known identity. Only a returning viewer feels the
   contradiction, which rewards the existing audience (inferred). Tension.
-- **The objections are voiced for the viewer.** She says what they are thinking in the first
+- The objections are voiced for the viewer. She says what they are thinking in the first
   23 seconds, then promises an explanation. This clarifies and opens the loop.
-- **Setbacks before the payoff.** The allergy, the lost kitten and the three-week wait each
+- Setbacks before the payoff. The allergy, the lost kitten and the three-week wait each
   delay the arrival, which lands at 8:00. Tension, then payoff.
-- **Both objections answered at the end.** The birds (13:51) and the allergy (14:38) close the
+- Both objections answered at the end. The birds (13:51) and the allergy (14:38) close the
   hook's loops. Payoff and trust (inferred).
-- **Real photos.** The drawn gags about the cat are backed by photos of the real cat. Proof.
-- **Gag-list second half.** Each bit is short and self-contained, which resets attention
+- Real photos. The drawn gags about the cat are backed by photos of the real cat. Proof.
+- Gag-list second half. Each bit is short and self-contained, which resets attention
   every 20-60s without a plot.
 
 ## 9. Outlier against control

@@ -40,15 +40,15 @@ sample is still missing.
 ## Shared devices: the house style (seen unless marked)
 - **The creator's face, always on screen,** against a bright green backdrop, full frame or
   in the top third.
-- **Social posts and app screenshots as the content.** Every video shows its source within
+- Social posts and app screenshots as the content. Every video shows its source within
   the first 2.2 seconds.
 - **Condensed bold uppercase captions,** white with a dark outline, 2-4 words, one word in a
   highlight colour (cyan or yellow).
 - **Wall-to-wall speech** from 0.0s at 215-305 wpm, with no silence over 0.4s (measured).
 - **12-15 seconds, one idea,** ending on the last informative line with no outro or call to
   action.
-- **Flat, compressed mix:** LRA 1.0-2.4 LU (measured).
-- **No VFX.** No zooms, whips, shakes, stickers or transitions beyond hard swaps.
+- Flat, compressed mix: LRA 1.0-2.4 LU (measured).
+- No VFX. No zooms, whips, shakes, stickers or transitions beyond hard swaps.
 
 ## Outlier against control (every causal claim is a hypothesis)
 | Device | Outliers | Control |
@@ -61,23 +61,23 @@ sample is still missing.
 | wpm | 305 and 215 | 264 |
 | Likes per view | 1.7% and 2.1% | 2.4% |
 
-- **H1: a concrete claim in sentence one beats a teaser.** The only first-line difference
+- H1: a concrete claim in sentence one beats a teaser. The only first-line difference
   that tracks views.
-- **H2: breadth of stake.** The outliers' topics touch most of the audience; the control's
+- H2: breadth of stake. The outliers' topics touch most of the audience; the control's
   touches a paying minority.
-- **H3: show the result.** Both outliers put a payoff image on screen; the control shows
+- H3: show the result. Both outliers put a payoff image on screen; the control shows
   promotional art.
 - Pace, loudness and layout don't separate them: the control is the fastest-cut video.
 - The outliers' lower likes per view suggests their extra views came from beyond the core
   audience (inferred).
 
 ## Sound and music profile
-- **Measured:** −12.1 to −14.9 LUFS; LRA 1.0-2.4 LU, the flattest mixes in this batch; zero
+- Measured: −12.1 to −14.9 LUFS; LRA 1.0-2.4 LU, the flattest mixes in this batch; zero
   silences; onsets 90-130/min.
-- **Measured pattern:** onsets rise with speech rate in all three (215 wpm → 90, 264 → 104,
+- Measured pattern: onsets rise with speech rate in all three (215 wpm → 90, 264 → 104,
   305 → 130 onsets/min). With 1-4 cuts per video, the onsets aren't cut hits. Speech
   syllables are the likeliest driver (inferred). Three points make a hint, not a law.
-- **Inferred:** a voice-first mix with either no bed or a very low one. The knowledge
+- Inferred: a voice-first mix with either no bed or a very low one. The knowledge
   chapters' gaming-Shorts row (hype or phonk, drop on the highlight) doesn't apply to this
   talk format. The podcast-clip row fits better: speech-led, bed absent or low
   (`knowledge/music-and-mood.md` §5).

@@ -102,19 +102,19 @@ and the last story image is the grass with the line in it, the opening image ret
   is the only "violent" graphic, and it depicts the conflict instead of being a transition.
 
 ## 7. Sound (measured, or inferred from transcript)
-- **A flat, continuous bed under the voice.** The body holds −19.7 to −16.0 LUFS for 90% of
+- A flat, continuous bed under the voice. The body holds −19.7 to −16.0 LUFS for 90% of
   its 2-second windows (measured). There are no silences in the body at all: the first of
   only two silences comes at 7:00 (measured). The calm is steady level, not quiet.
-- **Bumps on conflict beats.** Windows 2.5-4 LU above the body median sit at 0:20-0:26
+- Bumps on conflict beats. Windows 2.5-4 LU above the body median sit at 0:20-0:26
   (riot and title), 1:32-1:34 (the temple-oath trick), 2:30-2:32 (the law of retaliation) and
   3:26-3:30 (the cheek slap) (measured timings; subjects from the transcript). Bass share
   rises at the same spots: 0.31-0.48 at 1:20-1:40 and 0.38 at 2:20, against a median of 0.16
   (measured). Low-end hits or swells under the conflict images are therefore likely
   (inferred; audio was not listened to). A louder read could also raise the level, but not the bass share.
-- **Silence for weight after the thesis.** The last line ends near 6:55. The loudness
+- Silence for weight after the thesis. The last line ends near 6:55. The loudness
   falls to −41.7 LUFS at 6:58, with a 0.51s silence at 7:00, over the held grass shot
   (measured). It is the only music-out moment in the video.
-- **The exhale tail.** 7:00-8:01 averages −24.8 LUFS, about 7 LU under the body, with
+- The exhale tail. 7:00-8:01 averages −24.8 LUFS, about 7 LU under the body, with
   [music] caption tags at 7:00.7 and 7:47.7 (measured). Brightness drops to 469-545 Hz at
   7:10-7:30, against a median of 1106 Hz, so the outro cue is darker and lower in the
   spectrum than the body (measured; the instrument is unknown). One narrated series bridge
@@ -124,22 +124,22 @@ and the last story image is the grass with the line in it, the opening image ret
   to music (inferred).
 
 ## 8. Retention mechanics: why
-- **A universal problem in the first second.** "Conflict" before any Bible content means
+- A universal problem in the first second. "Conflict" before any Bible content means
   a viewer outside the series has a reason to stay. This is the job of tension, and
   compared with the control it is the clearest difference (section 9).
-- **A decelerating hook.** Shots grow from 2.3s to 11s into the title. The montage gives
+- A decelerating hook. Shots grow from 2.3s to 11s into the title. The montage gives
   proof that conflict is everywhere, then slows so that the promise line lands on a still,
   wide image. This is the job of setting the rhythm, and it teaches the viewer the pace to
   expect.
-- **A repeating case-study formula.** "You have heard that it was said" three times gives
+- A repeating case-study formula. "You have heard that it was said" three times gives
   the viewer a map. This is the job of clarity, and it makes the long, low-cut line-art
   stretches feel safe instead of slow (inferred).
-- **An objection voice every 45 seconds.** It does the viewer's doubting for them, so it
+- An objection voice every 45 seconds. It does the viewer's doubting for them, so it
   resets attention without a cut, sound hit or graphic (inferred). It is how a 72-second
   unbroken shot keeps moving.
-- **Two worlds for two jobs.** 3D history grounds the text in a real place; line art
+- Two worlds for two jobs. 3D history grounds the text in a real place; line art
   abstracts the principle. The switch itself works as a chapter marker (inferred).
-- **Near-silence on a callback image.** The only music-out comes after the thesis line, on
+- Near-silence on a callback image. The only music-out comes after the thesis line, on
   an image that rhymes with the first frame. It gives the payoff weight.
 - What the slow sections know: at 157 wpm the words carry the density, so the picture can
   hold. What the fast hook knows: the first 25 seconds must show that the problem is real

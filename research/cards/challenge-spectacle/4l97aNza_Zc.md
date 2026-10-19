@@ -54,27 +54,27 @@ or 30 ft offers, down to "3 ft" on day 27, seen). Re-hooks are check-in days eve
 with an offer. The mystery door opened at 0:58 is the long open loop (seen).
 
 ## 4. Editing style
-- **Reality-TV grammar:** fly-on-the-wall coverage from fixed cameras, overhead night shots
+- Reality-TV grammar: fly-on-the-wall coverage from fixed cameras, overhead night shots
   (6:01), a night exterior (7:52), and to-camera confessionals against plain backdrops (2:19,
   3:14, 30:07) (all seen).
-- **Slower open, steady body.** 16 cuts/min in the first 15 seconds (flashes and graphics
+- Slower open, steady body. 16 cuts/min in the first 15 seconds (flashes and graphics
   instead of cuts), then 18-41 per minute (measured). Visual energy is the lowest of the three
   challenge videos (0.73-1.83), because two people in one room move less than cars (inferred).
-- **Speech carries the density:** 183 wpm, the fastest of the three (measured), with many
+- Speech carries the density: 183 wpm, the fastest of the three (measured), with many
   overlapping speakers (">>" turns in the transcript, seen).
 - **A black-and-white flashback** of the lie-detector answers as the timer runs out (35:40, seen;
   the transcript cues it at 35:30).
 - The last minute cuts fastest (39-41 per minute, measured): the release and celebration.
 
 ## 5. Graphics and animation
-- **A two-colour identity system.** Suzie is pink, Josh is cyan: clothes, neon name tags, bed
+- A two-colour identity system. Suzie is pink, Josh is cyan: clothes, neon name tags, bed
   sides, the split lockers with a lightning-bolt seam (cut pairs 30:57 and 34:18), and the name
   plates on the cash wall (all seen). The viewer never needs a label to know whose side is whose.
 - **Neon-sign type** for names and "EXES", with a glow (0:01.5-0:07.5, seen).
-- **Gradient 3D-look title type:** "30 DAYS" in pink-to-blue (0:08.5-0:10, seen).
-- **Money as set dressing:** the cash wall with a "$250,000" sign (seen throughout), price cards
+- Gradient 3D-look title type: "30 DAYS" in pink-to-blue (0:08.5-0:10, seen).
+- Money as set dressing: the cash wall with a "$250,000" sign (seen throughout), price cards
   under platters ("−$25,000", 18:59, seen), sponsor products as props (18:04, 19:55, seen).
-- **One punch caption per beat:** "HE'S SALTY" (0:21), "I FEEL LIKE WE SHOULD" (cut pair 3:05.8),
+- One punch caption per beat: "HE'S SALTY" (0:21), "I FEEL LIKE WE SHOULD" (cut pair 3:05.8),
   white capitals with a dark outline (seen).
 
 ## 6. VFX and transitions
@@ -84,30 +84,30 @@ with an offer. The mystery door opened at 0:58 is the long open loop (seen).
 - Otherwise hard cuts (seen in all cut pairs).
 
 ## 7. Sound (measured, or inferred from transcript)
-- **Loud and continuous:** −8.1 LUFS, LRA 5.3 LU, one silence in 37 minutes (measured).
-- **The lie detector changes the colour of the mix.** In 25:00-28:00 the loudness falls to
+- Loud and continuous: −8.1 LUFS, LRA 5.3 LU, one silence in 37 minutes (measured).
+- The lie detector changes the colour of the mix. In 25:00-28:00 the loudness falls to
   −10.9 to −11.5 per minute, about 3 LU under the rest; brightness falls from a median of 1382
 Hz to 942-1175 Hz; and bass share rises to 0.32-0.34 (measured). A darker, lower, quieter bed
   under the interrogation (inferred). This is the one tension section scored differently.
-- **A music-only beat after the polygraph:** [music] tags at 27:58 and 28:09 and the quietest
+- A music-only beat after the polygraph: [music] tags at 27:58 and 28:09 and the quietest
   windows of the video at 28:12-28:14 (−24.1) (measured). The result lands and the voices stop
   (inferred from transcript).
-- **Peaks on money moments:** 36:36 (the release and the $125,000 split), 19:14 (the day-20
+- Peaks on money moments: 36:36 (the release and the $125,000 split), 19:14 (the day-20
   offers), 35:48 (the last chance to steal) (measured, transcript).
 - Cuts land on onsets at chance (lift 0.98, measured): mostly speech-led.
 
 ## 8. Retention mechanics: why
-- **Three hooks in one title, all paid in 10 seconds.** Exes, 30 days, $250,000. The job is
+- Three hooks in one title, all paid in 10 seconds. Exes, 30 days, $250,000. The job is
   showing the stakes before the viewer can scroll.
-- **Colour-coded sides.** Pink against cyan makes a two-person story readable on a phone at a
+- Colour-coded sides. Pink against cyan makes a two-person story readable on a phone at a
   glance. The job is clarity, and it doubles as the thumbnail and set palette (inferred).
-- **Shrinking chain, periodic offers.** Every five days the rules tighten or tempt. The job is
+- Shrinking chain, periodic offers. Every five days the rules tighten or tempt. The job is
   resetting attention on a schedule, like episodes of a reality show.
-- **The mystery door.** Named at 0:58 and pushed off. The job is an open loop for the long
+- The mystery door. Named at 0:58 and pushed off. The job is an open loop for the long
   middle.
-- **The lie detector and the steal twist.** Doubt about loyalty arrives at 25:00-30:34, when a
+- The lie detector and the steal twist. Doubt about loyalty arrives at 25:00-30:34, when a
   30-day format risks sagging. The job is building tension late (inferred).
-- **An emotional payoff, not a physical one.** The confession at 36:05 answers the question
+- An emotional payoff, not a physical one. The confession at 36:05 answers the question
   the title implied. The job is showing a payoff, and it gives commenters a story to react to.
 
 ## 9. Outlier against control

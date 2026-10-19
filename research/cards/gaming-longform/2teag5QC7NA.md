@@ -53,21 +53,21 @@ The game mode supplies the re-hooks: a scheduled event every 5-10 minutes (bot a
 Escalation runs from one death to everyone's death.
 
 ## 4. Editing style
-- **Fast for building, frozen for the quiz.** Minutes 1-2 cut at 15-16 per minute through wood
+- Fast for building, frozen for the quiz. Minutes 1-2 cut at 15-16 per minute through wood
   punching and house building; the quiz minutes (9, 19, 28, 33, 34, 40) have no cut at all and
   visual energy of 0.06-0.36 (measured). The question plays out in one held shot, as a game show
   would (inferred).
-- **Jump cuts through chores:** cut pairs 0:39.5 (snowfield to a close-up on a spruce log) and
+- Jump cuts through chores: cut pairs 0:39.5 (snowfield to a close-up on a spruce log) and
   5:34.9 (inside a hut to outside at another spot) remove the travel (seen).
-- **Menus again:** 6 of the 12 sampled cut pairs have an inventory screen on one side (seen), so
+- Menus again: 6 of the 12 sampled cut pairs have an inventory screen on one side (seen), so
   part of the count is in-game menus.
-- **Live commentary plus a cast.** Grian takes 244 of 600 labelled turns; the other 14 players take
+- Live commentary plus a cast. Grian takes 244 of 600 labelled turns; the other 14 players take
   the rest (measured from captions). He narrates to the viewer and plays with the cast at once.
 - **Speech is slower than Hermitcraft** (147 against 168 wpm, measured), with more room left for
   game events and other voices (inferred).
 
 ## 5. Graphics and animation
-- **One title card:** the hand-lettered series logo over a HUD-free camera move (seen 0:01.5-0:05.5).
+- One title card: the hand-lettered series logo over a HUD-free camera move (seen 0:01.5-0:05.5).
 - Everything else is the game's own interface: HUD, chat, the tab list of lives, a scoreboard
   sidebar, and the vote menu (seen 9:44.6, 18:54.8, 20:03.6, 33:48.9, 39:32.7).
 - The map itself is themed: candy-cane beds, snow, Christmas cottages (seen 8:35.8, 18:54.8,
@@ -80,32 +80,32 @@ Escalation runs from one death to everyone's death.
 - Hard cuts everywhere else. No zooms, whips, overlays or speed changes seen.
 
 ## 7. Sound (measured, or inferred from transcript)
-- **The widest range in this batch:** LRA 15.0 LU and −22.3 LUFS integrated (measured). Per-minute
+- The widest range in this batch: LRA 15.0 LU and −22.3 LUFS integrated (measured). Per-minute
   medians alone span −19.0 to −32.8, a 14 LU spread between minutes (measured).
-- **The most dead air in this batch:** 11.28 silences per minute, 15.3% of the runtime (measured).
-- **Explosion, then silence over the death screen:** 3:56 reads −14.0 LUFS; 4:00 reads −64.6, near
+- The most dead air in this batch: 11.28 silences per minute, 15.3% of the runtime (measured).
+- Explosion, then silence over the death screen: 3:56 reads −14.0 LUFS; 4:00 reads −64.6, near
   digital silence, with gaps of 3.5s at 3:58.6 and 2.5s at 4:03.6 while "You Died!" is on screen
   (measured, seen 4:00.7). A 50 LU drop in four seconds.
-- **Quiet before the events:** long silences cluster at 7:55-8:10 (four gaps of 1.65-2.95s,
+- Quiet before the events: long silences cluster at 7:55-8:10 (four gaps of 1.65-2.95s,
   dropping to −53.6) just before the thunder, bells and the bot's first arrival (measured, matched
   to transcript), and at 41:03-41:08 (2.4s and 3.3s, down to −47.1) 16 seconds before the loudest
   window at 41:24 (measured). Whether this is edited or the game's own lull can't be told (inferred).
-- **Music as an event cue, not a bed:** every [funky music] tag sits within a minute of a quiz-bot
+- Music as an event cue, not a bed: every [funky music] tag sits within a minute of a quiz-bot
   arrival (8:40-8:48, 18:59-19:07, 28:12-28:25, 33:06, 39:40-39:51), and the bells, ticking and creepy
   music announce other events (measured tag times, matched to transcript). These are likely server
   sounds heard in game (inferred).
 - Cuts do not follow audio onsets (lift 0.94, measured).
 
 ## 8. Retention mechanics: why
-- **An ironic promise.** "No surprises" over the title card tells the viewer to expect them. The
+- An ironic promise. "No surprises" over the title card tells the viewer to expect them. The
   job is building tension in the first six seconds.
-- **Scheduled surprises.** An event every 5-10 minutes, each with its own sound cue, gives a
+- Scheduled surprises. An event every 5-10 minutes, each with its own sound cue, gives a
   45-minute video a heartbeat the editor doesn't have to invent. The job is resetting attention.
-- **Hold still for the question.** No cuts and almost no motion while the quiz runs. The job is
+- Hold still for the question. No cuts and almost no motion while the quiz runs. The job is
   clarity: the viewer plays along with the question (inferred).
-- **Death gets silence.** The pipe bomb's payoff is a quiet death screen, a comic beat through
+- Death gets silence. The pipe bomb's payoff is a quiet death screen, a comic beat through
   contrast. The job is showing a payoff.
-- **A chaotic finale.** Everyone dies in the last five minutes, and the episode closes on "that was
+- A chaotic finale. Everyone dies in the last five minutes, and the episode closes on "that was
   manic". The job is building identity for a three-part special.
 
 ## 9. Outlier against control

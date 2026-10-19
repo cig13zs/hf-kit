@@ -53,19 +53,19 @@ portal) plus visits to other players' stories.
 
 ## 4. Editing style
 How an hour is cut out of "a good few hours" of play (transcript 42:53):
-- **Long group scenes kept whole.** The opening 3:26 has no detected cut (measured), and 9
+- Long group scenes kept whole. The opening 3:26 has no detected cut (measured), and 9
   minutes of the body have none (measured). Big shared moments play in real time.
-- **Jump cuts through travel and grind.** Cut pairs 3:26.2 and 48:58.3 show the same activity from
+- Jump cuts through travel and grind. Cut pairs 3:26.2 and 48:58.3 show the same activity from
   a new position a moment later (seen): the walk or dig in between is removed.
-- **Cuts hidden in inventory screens.** 10 of the 12 sampled cut pairs have an inventory,
+- Cuts hidden in inventory screens. 10 of the 12 sampled cut pairs have an inventory,
   crafting or chest screen on one side (seen). Some are in-game screens opening or closing, but
   several leave the menu into a different place (10:17.5 into a furnace room, 18:18.1 onto a
   bridge, 56:27.9 into a village) (seen). A menu makes a natural wipe for a time jump (inferred as
   deliberate). It also means the cut count here partly measures menus, not edits.
-- **Spoken signposts instead of graphics:** "day two", "skip ahead", "a little timelapse", "check
+- Spoken signposts instead of graphics: "day two", "skip ahead", "a little timelapse", "check
   on the dads" (transcript) do the work a title card would.
 - **One announced time-lapse** near the end, with music (58:28-59:01, tags and transcript gap).
-- **Live commentary, not a script.** The narration is recorded while playing, in first person and
+- Live commentary, not a script. The narration is recorded while playing, in first person and
   present tense ("There I am. So we're gonna-", 41:21), and it talks to viewers and players in the
   same breath (transcript). The register is a friend playing next to you.
 
@@ -79,35 +79,35 @@ Hard cuts only (seen). No zooms, whips, speed ramps or overlays in any sampled f
 time-lapse is the only speed change, known from the transcript (58:28), not from frames.
 
 ## 7. Sound (measured, or inferred from transcript)
-- **A wide, raw mix:** −19.3 LUFS integrated, LRA 14.1 LU (measured), about twice the
+- A wide, raw mix: −19.3 LUFS integrated, LRA 14.1 LU (measured), about twice the
   documentary niche's 5.9-7.9 LU. Nothing is levelled: quiet mining sits next to a room of people
   laughing (inferred).
-- **The loudest moment is the group laughing.** 9:56-10:04 reaches −7.1 LUFS, about 16.6 LU over
+- The loudest moment is the group laughing. 9:56-10:04 reaches −7.1 LUFS, about 16.6 LU over
   the −23.7 median, on a pun and the laughter around it (measured, matched to transcript
   9:48-10:11). Minute 10 is the loudest minute (−13.2).
-- **Dead air is allowed.** 614 silences, 12.7% of the runtime (measured), mostly quiet gameplay
+- Dead air is allowed. 614 silences, 12.7% of the runtime (measured), mostly quiet gameplay
   without talk (inferred). Long gaps sit at fishing and mining stretches (30:26, 5.05s; 30:35.9,
   4.57s) and at the day change (20:02.7, 3.33s) (measured, transcript).
-- **Music appears once, on purpose:** the only music tags mark the time-lapse, [music] at 58:39 to
+- Music appears once, on purpose: the only music tags mark the time-lapse, [music] at 58:39 to
   [music ends] at 58:58 (measured). Everywhere else the soundtrack is voices and the game.
-- **Laughter as the rhythm:** about 60 laughter tags in 62 minutes (measured from captions), from at
+- Laughter as the rhythm: about 60 laughter tags in 62 minutes (measured from captions), from at
   least 7 named players.
 - A bass spike to 0.83 and a −8.0 LUFS window at 28:20-28:30 line up with a countdown "Three, two,
   one go!" (28:16) and a scream (measured, transcript); a game event with heavy low end (inferred).
 
 ## 8. Retention mechanics: why
-- **Everyone in one room at the start.** The season opener gathers the whole cast, so the fan of any
+- Everyone in one room at the start. The season opener gathers the whole cast, so the fan of any
   player has a reason to stay (inferred). The job is building identity, for the server as much as
   the channel.
-- **Real time for the shared moments, jump cuts for the solo grind.** The job is setting the rhythm:
+- Real time for the shared moments, jump cuts for the solo grind. The job is setting the rhythm:
   people are the content, travel is not.
-- **Spoken signposts.** "Day two", "skip ahead" and "check on the dads" orient the viewer without
+- Spoken signposts. "Day two", "skip ahead" and "check on the dads" orient the viewer without
   any graphics. The job is clarity.
-- **Visits to other players.** The trip to the faster group at 42:36 adds a B-plot and a
+- Visits to other players. The trip to the faster group at 42:36 adds a B-plot and a
   comparison ("the guys have been basically speedrunning"). The job is resetting attention.
-- **A time-lapse held back for the end.** Music is absent for 58 minutes, so the one musical
+- A time-lapse held back for the end. Music is absent for 58 minutes, so the one musical
   moment reads as a payoff (inferred). The job is showing a payoff.
-- **Season tease.** The last minute sells the next 30 episodes. The job is building identity.
+- Season tease. The last minute sells the next 30 episodes. The job is building identity.
 
 ## 9. Outlier against control
 The control is "Hermitcraft 11: Episode 27 - DECKED OUT RETURNS!" (UjjRGyre3RY, 0.97×): a 20-minute

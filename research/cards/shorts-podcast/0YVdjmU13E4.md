@@ -67,21 +67,21 @@ full episode (inferred intent).
   segment, measured).
 - Three sources interleave: guest angles (medium, close, side), host reaction and question
   shots, and stylised b-roll (seen).
-- **L-cuts onto the host:** the guest's words run over the host's face, captioned in the
+- L-cuts onto the host: the guest's words run over the host's face, captioned in the
   guest's white (seen at 0:04.0 and 0:28.0).
-- **B-roll over the voice:** during b-roll the captions shrink to small sentence case, so
+- B-roll over the voice: during b-roll the captions shrink to small sentence case, so
   the image leads (seen at 0:07-0:14, 0:23-0:24.5, 0:47-0:50).
 - Many cuts fall on the kinetic type's key word; the "5" and "NOT" cards change with the
   shot (seen). Cuts land on audio onsets a little more often than chance (lift 1.21, measured).
 
 ## 5. Graphics and animation
-- **Kinetic typography, the signature.** Mixed faces in one stack: heavy uppercase sans, a
+- Kinetic typography, the signature. Mixed faces in one stack: heavy uppercase sans, a
   condensed serif for words like "RESEARCH", italic and script accents ("ask"), with sizes
   set by importance (a giant "5", a giant "3") (seen).
-- **Colour code:** red for the dark or danger word ("dangerous", "lying", "UN" in
+- Colour code: red for the dark or danger word ("dangerous", "lying", "UN" in
   "uncaring", "psychopathy"); yellow for everything the host says; white for the guest (seen).
 - Text sits mid-frame to lower-middle, often left-aligned against the speaker (seen).
-- **Look:** low-key and desaturated with red accents; b-roll in black and white with CRT
+- Look: low-key and desaturated with red accents; b-roll in black and white with CRT
   scanlines, sometimes tinted red; one glitchy name card (seen).
 - Props made for the edit: labelled blocks on a brain model, show-branded dating cards (seen).
 
@@ -102,28 +102,28 @@ full episode (inferred intent).
   continuous bed fill every gap (inferred; either works).
 - LRA 3.6 LU; the 2-second curve stays in −19.7 to −25.3 with no build (measured).
 - Onsets 93.8/min against 30 cuts/min (measured).
-- **Music is present.** The captions carry [music] tags 6 times (measured). Five of the
+- Music is present. The captions carry [music] tags 6 times (measured). Five of the
   six fall within about 2 seconds of a stylised insert or the name card (5.2s before the
   villain b-roll, 13.8s on the eye b-roll, 33.0s at the name card, 66.8 and 70.6s on the
   face montage; frames seen). The bass share peaks in the same windows, 30-40s and 60-70s
   (measured). Reading: music or low hits surface under the inserts (inferred).
-- **Cuts lean slightly onto sound events:** lift 1.21 over chance (measured). That is a
+- Cuts lean slightly onto sound events: lift 1.21 over chance (measured). That is a
   mild tendency, not beat-cutting.
 - Tempo 143.6 BPM with a minute-to-minute swing from 92 to 136 (measured): too unstable
   to use as a cutting grid.
 
 ## 8. Retention mechanics: why
-- **Answer in 3.5 seconds.** The title's number is paid at once, which earns trust for the
+- Answer in 3.5 seconds. The title's number is paid at once, which earns trust for the
   next 100 seconds. Job: showing a payoff early.
-- **Myth-bust twice.** The common belief against the research finding gives each
+- Myth-bust twice. The common belief against the research finding gives each
   section a small reversal. Jobs: building tension and delivering proof.
-- **Kinetic type with red danger words.** The key word of every line is visible even with
+- Kinetic type with red danger words. The key word of every line is visible even with
   the sound off. Job: clarifying.
-- **Stylised b-roll every few lines.** Each insert changes texture and colour, not just the
+- Stylised b-roll every few lines. Each insert changes texture and colour, not just the
   angle. Job: resetting attention.
-- **Host questions in yellow every 15-20 seconds.** Each one is a new chapter opener. Job:
+- Host questions in yellow every 15-20 seconds. Each one is a new chapter opener. Job:
   resetting attention.
-- **Three open loops and a mid-sentence ending.** The viewer leaves with unanswered
+- Three open loops and a mid-sentence ending. The viewer leaves with unanswered
   questions and a "Watch Now" card. Job: building tension that points outside the Short
   (inferred intent: drive episode views).
 
@@ -134,7 +134,7 @@ hypotheses:
 - **Twice the cut rate,** held flat: 30.3 against 14.3/min (measured).
 - **Designed kinetic type and stylised b-roll** against plain word captions and a news clip.
 - **Title answered at 3.5s** against a topic set up over a public figure's clip.
-- **No dead air:** 0 silences against 12.9/min, and visual energy stays at 1.64-1.68 while
+- No dead air: 0 silences against 12.9/min, and visual energy stays at 1.64-1.68 while
   the control's falls to 0.64 in its last 24 seconds (measured).
 - **Open loops at the end** against a closed statement.
 - **A personal-use topic** (spotting dangerous people) against political news.

@@ -47,53 +47,53 @@ count in Q7Pg.
 
 ## Shared devices (the house style)
 All three do these (seen or measured in each card):
-- **Two voices.** One explains, the other asks or reacts.
-- **One illustrated world per video, with a disciplined palette:**
+- Two voices. One explains, the other asks or reacts.
+- One illustrated world per video, with a disciplined palette:
   - 3D paper-craft history plus neon line-art teaching (3EkD);
   - flat 2D sunset painting (b54d);
   - a beige paper collage with a green accent (Q7Pg).
-- **Motion inside the frame instead of cuts.** Runs of 40-139s without a hard cut, while
+- Motion inside the frame instead of cuts. Runs of 40-139s without a hard cut, while
   visual energy stays at 0.5-1.5 a minute (measured). Camera moves, morphs and elements
   entering and leaving the frame do the work of cuts.
-- **Soft transitions only.** Dissolves, fades to white or black, one page turn. No whip,
+- Soft transitions only. Dissolves, fades to white or black, one page turn. No whip,
   glitch, shake, flash or zoom transition appeared in any of the three sheets (seen).
-- **A continuous bed and a flat body.** The body loudness spread is 3.1-3.7 LU. There is no
+- A continuous bed and a flat body. The body loudness spread is 3.1-3.7 LU. There is no
   silence in the body: across all three, one 0.46s silence before the ending (Q7Pg 1:51)
   (measured).
-- **The exhale tail.** After the last line, 26-35s of music-only credits and logo sits
+- The exhale tail. After the last line, 26-35s of music-only credits and logo sits
   6.8-10.4 LU under the body, ending in a 0.7-6.1s silence (measured).
-- **The cut rate rises in the application section.** 3EkD runs 12 cuts/min in 6:01-7:00,
+- The cut rate rises in the application section. 3EkD runs 12 cuts/min in 6:01-7:00,
   b54d about 10/min in 4:08-4:49, and Q7Pg clusters its cuts in 3:42-4:47 (measured). The
   last teaching section, where it becomes "you", is the busiest picture.
-- **Series framing.** A series title or badge on screen, then credits and a logo or
+- Series framing. A series title or badge on screen, then credits and a logo or
   series-tile end screen (seen).
-- **Quieter than YouTube's reference.** −16.1 to −18.0 LUFS integrated (measured). YouTube
+- Quieter than YouTube's reference. −16.1 to −18.0 LUFS integrated (measured). YouTube
   turns loud uploads down but not quiet ones up, so these play 2-4 dB under a −14 LUFS
   upload (inferred from `knowledge/music-and-mood.md` 4.3).
 
 ## Outlier against control
 Every line is a hypothesis. Views don't prove the edit caused them, and the outliers are
 11 and 28 months old against the control's 4.5. Paid promotion was not checked.
-- **A problem or question before the brand.**
+- A problem or question before the brand.
   - The outliers speak within 0.75s ("conflict in relationships is unavoidable"; the Exodus
     with a "But" at 0:08). They ask or promise by 0:16-0:27, and only then show the series
     title (0:25.5-0:26).
   - The control opens with 8.6s of wordless series intro, then a recap of earlier episodes.
-- **Dense, scripted dialogue.**
+- Dense, scripted dialogue.
   - Outliers: 151-157 wpm, 3-4 filler words, 2.65-3.96 speech gaps a minute.
   - Control: 126 wpm, 17 filler words, 11.75 gaps a minute.
 
   The low cut rate is the same in all three. What differs is whether the words carry the pace.
-- **An objection voice as the re-hook.** 3EkD voices the viewer's doubt about every 45s,
+- An objection voice as the re-hook. 3EkD voices the viewer's doubt about every 45s,
   and b54d asks "But why?", "Preparation?" and "Why so little?". The control asks two
   questions in 5 minutes.
-- **Cuts follow meaning.** The outliers cut in speech pauses at chance rate (lift 0.89-1.04):
+- Cuts follow meaning. The outliers cut in speech pauses at chance rate (lift 0.89-1.04):
   the voice runs over the cut and the image changes on the noun. The control's cuts wait for
   pauses (lift 1.33).
-- **Text stays off screen.** 3-5% against 12%. The outliers let narration carry the
+- Text stays off screen. 3-5% against 12%. The outliers let narration carry the
   scripture. The control puts verses on screen. That has clarity value, but at phone size it
   may split attention (inferred).
-- **One breath at the hinge.**
+- One breath at the hinge.
   - 3EkD: near-silence at −41.7 LUFS right after the thesis (6:58).
   - b54d: a −5 LU dip with a 2.0s speech gap at the resurrection turn (5:02).
   - The control's dips sit around a page turn, not a story hinge (measured, with the story
@@ -117,21 +117,21 @@ Every line is a hypothesis. Views don't prove the edit caused them, and the outl
 | The chapter's "silence and space are the design" does **not** match these outliers: their body has no silence and runs 151-157 wpm. The space is in the picture (long runs, a shot floor) and in the tail | measured contradiction to a practice claim |
 
 ## What slow, low-cut editing does well here
-- **Pacing.** It reads as calm because it is predictable. The outliers
+- Pacing. It reads as calm because it is predictable. The outliers
   keep a shot floor of 3.2-5.0s (p10) and a median of 5.8-6.8s. At about 150 wpm each shot
   carries 12-15 words (derived), and the cut rate hardly moves (4.4-5.5/min from minute 1 to
   the application). Energy is spent twice:
   - in the hook (20 cuts/min, or one unbroken 40-second move);
   - in the application section (10-12 cuts/min).
-- **Silence.** It is used once or twice per video, and only at the payoff: a near-silent
+- Silence. It is used once or twice per video, and only at the payoff: a near-silent
   beat after the thesis, a 2-second breath at the turn, then the 26-35s tail. Silence in
   the middle of teaching was never measured. The rarity is the point (inferred).
-- **Music role.** A constant bed held within about 3.5 LU. It surfaces only where the voice
+- Music role. A constant bed held within about 3.5 LU. It surfaces only where the voice
   stops: the one breath (b54d 5:01) and the tail, where it turns darker (brightness
   roughly halves). It never carries the structure. The script's objections and the colour
   worlds do that. It moves 2.5-4 LU on dramatic beats and thickens in the low end under the
   opening and the fall (measured). It gives way to near-silence once.
-- **Text treatment.** Almost none: one series title card at 0:25-0:30, held 3-4s, fading
+- Text treatment. Almost none: one series title card at 0:25-0:30, held 3-4s, fading
   in (b54d: thin, widely tracked white capitals, then a fade to white; 3EkD: hand-cut display
   capitals with a red accent). No captions, no lower thirds, no verse cards in the
   outliers. The control's verse cards are good design, but they arrive in the lower performer.

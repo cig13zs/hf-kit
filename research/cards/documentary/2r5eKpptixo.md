@@ -61,10 +61,10 @@ real question (why people believe) instead of the literal one (inferred).
 
 ## 4. Editing style
 Two modes, split near the middle (seen in the per-minute cut counts and the overview):
-- **Archive mode, 0:00-8:00.** 19-37 cuts per minute to 6:00, then 13-16 of old footage, photos and documents.
+- Archive mode, 0:00-8:00. 19-37 cuts per minute to 6:00, then 13-16 of old footage, photos and documents.
   The narration runs over it as voice-over, and the cuts fall between phrases rather than on
   beats (music lift 1.01, measured).
-- **Host mode, from ≈8:17, dominant after 13:00.** A medium shot of the host in a dark room lit
+- Host mode, from ≈8:17, dominant after 13:00. A medium shot of the host in a dark room lit
   by a warm practical lamp (seen at 13:47, 15:12, 18:44, 21:34, 22:58, 24:23, 25:06, 26:30,
   27:13). Cuts drop to 2-19 per minute, and visual energy to 0.4-1.5. Archive cutaways still
   interrupt the host every few lines (cut pairs 16:07, 19:24, 23:11, seen).
@@ -72,10 +72,10 @@ Two modes, split near the middle (seen in the per-minute cut counts and the over
   a cut, a jump cut on a still that works as a punch-in (seen).
 
 ## 5. Graphics and animation
-- **Documents as evidence.** Typed pages in serif or typewriter faces, with a slow move across
+- Documents as evidence. Typed pages in serif or typewriter faces, with a slow move across
   the page and a red highlight bar (or yellow at 8:07 and 11:42) on the one phrase that matters
   (seen 0:20-0:22.5, 1:00, 8:07, 10:15, 16:07, 19:24). This is the video's signature device.
-- **Film-gate look on archive.** Rounded dark vignette edges on most archive footage, as if
+- Film-gate look on archive. Rounded dark vignette edges on most archive footage, as if
   projected (seen throughout the hook and overview).
 - **Framed photos on black** with small serif name labels (Hoover and LBJ at 0:26 and 8:50, seen).
 - **Yellow subtitles** for archive audio, white small-caps lower thirds for interviews (seen
@@ -93,19 +93,19 @@ inferred as deliberate). No whip, glitch, zoom-through or shake was seen. Slow p
 documents and stills carry the motion (inferred from consecutive hook frames).
 
 ## 7. Sound (measured, or inferred from transcript)
-- **Quiet master, moderate range:** −18.0 LUFS integrated, 4 LU under the −14 YouTube reference,
+- Quiet master, moderate range: −18.0 LUFS integrated, 4 LU under the −14 YouTube reference,
   LRA 5.9 LU (measured). YouTube does not turn quiet uploads up (knowledge chapter), so this plays
   back quieter than most of the platform (inferred).
-- **Archive is the loudest layer.** The three loudest 2s windows, 4:18-4:20, 7:34-7:36 and
+- Archive is the loudest layer. The three loudest 2s windows, 4:18-4:20, 7:34-7:36 and
   18:20-18:24, sit 7-8 LU above the median and line up with archive news audio: the shooting
   bulletin, Oswald being shot, and the MLK bulletin (measured, matched to the transcript).
-- **A dip before the hit.** The short-term loudness falls to −28.8 at 4:12, eight seconds
+- A dip before the hit. The short-term loudness falls to −28.8 at 4:12, eight seconds
   before the loudest window at 4:20 (measured). This is the drop-before-reveal pattern from the
   sound chapter (inferred).
-- **Silence as a comic beat:** two silences at 11:13-11:14 follow the single-bullet walkthrough
+- Silence as a comic beat: two silences at 11:13-11:14 follow the single-bullet walkthrough
   and "Whoa. Okay, it's quite the journey for one bullet." (measured, transcript). Four short
   silences at 15:34-15:51 sit around the "Here's the problem though" turn (measured).
-- **Music follows the story.** The cut-on-onset lift is 1.01, which is chance
+- Music follows the story. The cut-on-onset lift is 1.01, which is chance
   (measured). The 37 [music] caption tags cluster at 0:20-5:37, 8:51-10:10 and 20:56-27:55,
   with none between 10:10 and 20:56 (measured). The long evidence middle is voice-led, with any
   bed kept under the words (inferred).
@@ -114,19 +114,19 @@ documents and stills carry the motion (inferred from consecutive hook frames).
   during the opening drama.
 
 ## 8. Retention mechanics: why
-- **Proof first, in the hook.** Highlighted phrases from real documents in the first 20 seconds
+- Proof first, in the hook. Highlighted phrases from real documents in the first 20 seconds
   tell the viewer this is sourced. The job is delivering proof, and it earns
   trust before the host even appears.
-- **Fast archive, slow host.** The first 6 minutes cut at 19-37 per minute to cover 1963 at
+- Fast archive, slow host. The first 6 minutes cut at 19-37 per minute to cover 1963 at
   speed. The second half slows to the host's face at 2-19 per minute because it now argues
   rather than tells. The job is setting the rhythm: speed for events, stillness for judgment.
-- **One phrase per document.** The highlight bar tells the eye which three words to read on a
+- One phrase per document. The highlight bar tells the eye which three words to read on a
   page of 200. The job is clarity.
-- **Questions as chapter joints.** "why?" at 13:31 and 21:07 and "here's the craziest part" at
+- Questions as chapter joints. "why?" at 13:31 and 21:07 and "here's the craziest part" at
   24:28 each reopen the loop. The job is resetting attention.
-- **Loud archive, quiet voice.** The past literally sounds louder than the present. The job is
+- Loud archive, quiet voice. The past literally sounds louder than the present. The job is
   building tension (inferred).
-- **An honest non-answer.** The verdict (no solid evidence, but secrecy caused the doubt) gives
+- An honest non-answer. The verdict (no solid evidence, but secrecy caused the doubt) gives
   commenters a position to argue with (inferred: 30k comments). The job is showing a payoff
   that matches the title's real promise.
 

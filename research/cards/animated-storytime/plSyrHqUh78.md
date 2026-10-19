@@ -61,13 +61,13 @@ deaths land in the final three minutes. Each gym is framed as a threat before th
 the deaths themselves, about one every 1-3 minutes (seen in the transcript).
 
 ## 4. Editing style
-- **Fast, even cutting:** 18.5-23.3 cuts/min in every segment after 15s, median shot 1.88s
+- Fast, even cutting: 18.5-23.3 cuts/min in every segment after 15s, median shot 1.88s
   (measured). It is a talking-head rhythm applied to drawings.
-- **Event, then reaction.** Cuts alternate between the game event (a recreated battle screen,
+- Event, then reaction. Cuts alternate between the game event (a recreated battle screen,
   a full-bleed action frame) and Jaiden's face: a deadpan close-up at 4:13.9, a side-eye to
   camera at 13:35 (seen). In the cut pair at 10:57.7 → 10:57.9 she looks, then the cut shows
   what she looks at (seen).
-- **Holds on grief, snaps on jokes.** Most silences sit on deaths and the cut after them is a
+- Holds on grief, snaps on jokes. Most silences sit on deaths and the cut after them is a
   joke (see section 7).
 - The last minute drops to 10 cuts/min under the credits (measured).
 
@@ -76,7 +76,7 @@ the deaths themselves, about one every 1-3 minutes (seen in the transcript).
   bandana (seen), so the creatures and the hero pop off an empty ground (inferred).
 - **Recreated game UI** inside a lavender frame: HP bars, level tags and the text box, with a
   pixel-style font (seen at 3:20, 5:34, 7:21, 11:21, 13:08). The deaths happen on this UI.
-- **Hand-lettered type:** the NUZLOCKE sign, "TIME TO WORK!", "R.I.P." in giant grey serif
+- Hand-lettered type: the NUZLOCKE sign, "TIME TO WORK!", "R.I.P." in giant grey serif
   over the frozen battle (3:20.4), whiteboards with a damage formula (12:41.7) and "SHEER COLD
   = DEATH / one hit KO / 30% chance" (14:55.3), and a sketch annotated "HEAD WINGS OF DEATH"
   (9:07.9). All seen.
@@ -91,7 +91,7 @@ the deaths themselves, about one every 1-3 minutes (seen in the transcript).
 - No whip, glitch, shake or zoom transition appeared in any sampled frame (seen).
 
 ## 7. Sound (measured only)
-- **Silence marks deaths and reversals.** 27 silences, 1.52/min (measured), about eight times
+- Silence marks deaths and reversals. 27 silences, 1.52/min (measured), about eight times
   the channel's cat video. Their timing against the transcript:
   - 3:20.6, 1.23s: on Chomps' death and the R.I.P. card (line at 3:19.4).
   - 4:03-4:15, five short silences, with the level falling to −42.9 LUFS at 4:12: the Hush
@@ -103,28 +103,28 @@ the deaths themselves, about one every 1-3 minutes (seen in the transcript).
   - 9:25.8, 1.21s: between Zip Zap Zop's goodbye and "somehow zip zap zop lived".
   - 17:03.6: just before "we did it" (17:04.5).
   (Timings measured; each reading is inferred from the transcript.)
-- **Wider range than the cat video:** LRA 4.1 LU against 2.2 (measured).
-- **Credits bed:** from 17:20 the level sits at −25 to −31 LUFS for 30s with no speech in the
+- Wider range than the cat video: LRA 4.1 LU against 2.2 (measured).
+- Credits bed: from 17:20 the level sits at −25 to −31 LUFS for 30s with no speech in the
   transcript (measured), so a quieter music-only outro (inferred). A [music] tag sits at 17:20.
-- **Thin low end:** bass share median 0.05 (measured). It rises to 0.14-0.25 in the windows
+- Thin low end: bass share median 0.05 (measured). It rises to 0.14-0.25 in the windows
   where the voice drops out (2:30-2:44, 3:20-3:30, 4:10) (measured), so music or effects carry
   the low end mainly when she stops talking (inferred). Only 2 [music] tags in 17 minutes.
 - Onsets 86/min (measured).
 
 ## 8. Retention mechanics: why
-- **Rules first.** Permadeath is explained in 16 seconds, so every later fight can cost
+- Rules first. Permadeath is explained in 16 seconds, so every later fight can cost
   something. This is the job of clarity, and it sets up tension for 17 minutes.
-- **The nickname rule builds the attachment the video spends.** Named characters with jokes
+- The nickname rule builds the attachment the video spends. Named characters with jokes
   attached (Corn, Onion, Zip Zap Zop, Chad) make each death land (inferred). Tension, then payoff.
-- **Losses as re-hooks.** A death every 1-3 minutes resets attention and raises the question
+- Losses as re-hooks. A death every 1-3 minutes resets attention and raises the question
   of who is next.
-- **Grief, pause, joke.** A beat of silence gives the loss weight, and the joke releases it
+- Grief, pause, joke. A beat of silence gives the loss weight, and the joke releases it
   (6:46-6:47). This sets the rhythm between feeling and comedy.
-- **Whiteboards when a rule decides the fight.** The viewer sees the unfairness before the
+- Whiteboards when a rule decides the fight. The viewer sees the unfairness before the
   death lands (12:41, 14:55). Clarity.
-- **A fake-out.** Zip Zap Zop's goodbye and survival (9:18-9:29) breaks the pattern of deaths
+- A fake-out. Zip Zap Zop's goodbye and survival (9:18-9:29) breaks the pattern of deaths
   once. Tension.
-- **The roll call.** Every fallen name comes back in the final blow (16:50-16:59). This pays
+- The roll call. Every fallen name comes back in the final blow (16:50-16:59). This pays
   off the attachment and builds identity for the team.
 
 ## 9. Outlier against control

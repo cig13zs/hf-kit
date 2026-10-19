@@ -50,7 +50,7 @@ Three inventions are built in parallel and paid off in sequence. The emotional t
 illness) comes at 5:00, after the first engineering failure.
 
 ## 4. Editing style
-- **Fast throughout.** A 1.16s median shot and 25-61 cuts per minute (measured). The second
+- Fast throughout. A 1.16s median shot and 25-61 cuts per minute (measured). The second
   half is faster and more energetic than the first (visual energy 3.0-5.0 after 11:00,
   measured), as footage shifts from workshop tests to kids riding.
 - **Test-fail-fix loops** use slow-motion replays (seen at cut pair 1:40, the tire swing) and
@@ -75,9 +75,9 @@ transitions were seen.
 ## 7. Sound (measured, or inferred from transcript)
 - −13.8 LUFS integrated, close to the YouTube reference, with a moderate 6.7 LU range
   (measured).
-- **The hook is the loudest moment:** the 2s window at 0:16 (−5.8) sits in the opening party
+- The hook is the loudest moment: the 2s window at 0:16 (−5.8) sits in the opening party
   montage (measured). The other −5.8 peak is at 15:14, between the tire-swing ride (14:28) and sledding (15:33) (measured, transcript).
-- **A dip before the kid's reveal:** −22 to −26 LUFS at 10:04-10:06, as the host says his
+- A dip before the kid's reveal: −22 to −26 LUFS at 10:04-10:06, as the host says his
   heart is about to "beat out of my chest" (measured, transcript). This is a hush before the
   surprise.
 - **A 10s near-silence** at 8:34-8:44 (down to −48.5) follows "With that uninspiring kickoff"
@@ -92,15 +92,15 @@ transitions were seen.
   (inferred).
 
 ## 8. Retention mechanics: why
-- **Payoff montage first.** Fifteen seconds of kids on the finished rides tells the viewer the
+- Payoff montage first. Fifteen seconds of kids on the finished rides tells the viewer the
   builds work. The job is showing a payoff.
-- **Test, fail, fix.** The dummy loses his pants twice, a slow-mo replay shows why, the fix
+- Test, fail, fix. The dummy loses his pants twice, a slow-mo replay shows why, the fix
   works. The job is clarity through failure, and it resets attention every 30-60s.
-- **The deserving kid.** The illness story gives the party emotional stakes. The job is
+- The deserving kid. The illness story gives the party emotional stakes. The job is
   building tension, though it arrives five minutes in (inferred: after some viewers leave).
-- **Three builds in parallel.** Swing, snow and coaster are each set up, then paid off one by
+- Three builds in parallel. Swing, snow and coaster are each set up, then paid off one by
   one in the last seven minutes. The job is setting the rhythm.
-- **The crossover.** A cartoon character as the client is the brand gag. The job is building
+- The crossover. A cartoon character as the client is the brand gag. The job is building
   identity, and it borrows an audience (inferred).
 
 ## 9. Outlier against control

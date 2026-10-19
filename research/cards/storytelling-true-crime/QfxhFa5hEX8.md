@@ -60,14 +60,14 @@ years later" (28:31) (transcript). The ending pays off twice: the killer, then a
 ## 4. Editing style
 - **One locked medium shot of the host** carries the video: 34 of the 40 overview frames are the
   host, 4 are photos or footage and 2 are black (seen; my count). Median shot 7.9s (measured).
-- **Cuts only to evidence.** Every sampled cut moves between the host and an insert (photo,
+- Cuts only to evidence. Every sampled cut moves between the host and an insert (photo,
   document, labelled footage) or from one insert to the next; none goes host to host (seen in all
   12 cut pairs). Inserts cluster where proof arrives: minute 26, when the
   skeleton, uniform and wallet are described, has 10 cuts (measured) and "REAL FOOTAGE" of the scene
   (cut pairs 26:13, 27:06, seen).
 - **No punch-ins or jump cuts on the host** in any sampled pair (seen). The host's gestures are the
   motion: visual energy stays at 0.22-0.4 in most minutes (measured).
-- **J/L cuts can't be read here:** captions run continuously across inserts, so the voice is a
+- J/L cuts can't be read here: captions run continuously across inserts, so the voice is a
   constant layer under every picture change (seen in transcript timing).
 
 ## 5. Graphics and animation
@@ -76,17 +76,17 @@ years later" (28:31) (transcript). The ending pays off twice: the killer, then a
   (11:38-14:13), a warm living room (16:49-17:40), a sheriff's office (18:32-19:24, 28:53), a mountain
   road (20:16-23:43), red-rock desert (24:34-28:01) (seen). A heavy dark vignette sits over every
   composite (seen).
-- **Polaroid inserts:** a photo in a white instant-print frame, slightly tilted, with a
+- Polaroid inserts: a photo in a white instant-print frame, slightly tilted, with a
   handwritten caption, on a dark scratched and dusty texture (seen 2:26.6, 15:57.4, 19:15.7,
   24:04.9, 25:26.6).
-- **Honesty labels:** small typewriter caps at top centre, "REAL FOOTAGE OF ..." or "(NOT) REAL
+- Honesty labels: small typewriter caps at top centre, "REAL FOOTAGE OF ..." or "(NOT) REAL
   FOOTAGE OF ...", with "NOT" set apart (seen 7:14.1, 15:50.8, 26:13, 27:06.3, 29:45.4; read from
   low-resolution crops).
 - No lower thirds, no kinetic text, no maps (seen).
 
 ## 6. VFX and transitions
 - **Green-screen composite** is the one constant effect (seen throughout).
-- **Pale burst behind a photo:** cut pair 10:55.1 shows a tilted print over a bright, torn-looking
+- Pale burst behind a photo: cut pair 10:55.1 shows a tilted print over a bright, torn-looking
   white wash, suggesting a flash or burn transition into the chapter's first photo (seen; one
   instance).
 - **Black frames with silence** at the intro sting and the first chapter break (1:17.6, 10:46.9,
@@ -94,40 +94,40 @@ years later" (28:31) (transcript). The ending pays off twice: the killer, then a
 - No whips, zooms, shakes or glitches (seen).
 
 ## 7. Sound (measured, or inferred from transcript)
-- **At platform level with moderate range:** −16.4 LUFS, LRA 5.0 LU (measured).
-- **Many short breaths, a few long silences.** 163 silences, mostly 0.4-1.0s (measured), which
+- At platform level with moderate range: −16.4 LUFS, LRA 5.0 LU (measured).
+- Many short breaths, a few long silences. 163 silences, mostly 0.4-1.0s (measured), which
   reads as pauses between sentences on a dry voice (inferred). Four long ones sit exactly on
   structural joints: 1:17 (2.9s, end of the intro), 10:43.9 (6.2s) and 23:53.6 (6.0s) after
   cliffhangers, and 34:13.1 (3.1s) after the last unsolved line (measured, matched to transcript).
   The two chapter breaks drop to −61 and −65 LUFS, which is near digital silence (measured).
-- **Short pauses on story beats:** 1.75s at 5:31 as he walks out to the car, 1.6s at the 12-year
+- Short pauses on story beats: 1.75s at 5:31 as he walks out to the car, 1.6s at the 12-year
   jump (measured, transcript).
 - **No pauses at all in minutes 30 and 31,** the killer reconstruction, which also holds a loudest
   window (30:28, −12.4) (measured). Something fills every gap there, a bed or an unbroken delivery
   (inferred).
-- **The reveal is the loudest moment:** 32:22 (−12.3) right after the name at 31:55 (measured),
+- The reveal is the loudest moment: 32:22 (−12.3) right after the name at 31:55 (measured),
   and the bass share peaks at 0.50 at 31:30 (measured).
-- **Little music evidence:** 7 [music] tags (0.2/min) against 1.3-1.5/min in the channel's other
+- Little music evidence: 7 [music] tags (0.2/min) against 1.3-1.5/min in the channel's other
   two videos, and no clear tempo (measured). This telling is mostly voice (inferred).
 - Cuts to inserts land on audio onsets a little above chance, lift 1.22 (measured), which would fit
   a soft hit or whoosh on each photo (inferred).
 
 ## 8. Retention mechanics: why
-- **A bill in a mailbox.** A small, ordinary object carries the whole mystery in 20 seconds. The
+- A bill in a mailbox. A small, ordinary object carries the whole mystery in 20 seconds. The
   job is building tension, and it is cheap to picture.
-- **Pitch after the loop opens.** The subscribe pitch comes at 0:29, after the secret is teased,
+- Pitch after the loop opens. The subscribe pitch comes at 0:29, after the secret is teased,
   and the prank joke changes every video (seen across all three transcripts). The job is identity:
   the regular viewer waits for the joke.
-- **Cliffhanger, then six seconds of nothing.** Both chapter breaks end on an open question and a
+- Cliffhanger, then six seconds of nothing. Both chapter breaks end on an open question and a
   near-silent gap. If a mid-roll ad sits there, the viewer carries the question through it
   (inferred; ad placement not visible in the download).
-- **The backdrop is the chapter marker.** A new place behind the host tells the viewer where the
+- The backdrop is the chapter marker. A new place behind the host tells the viewer where the
   story is without a caption. The job is clarity.
 - **Withholding the killer's name** through a 2:20 reconstruction told from his side. The job is
   building tension right before the payoff.
-- **Labelled reenactments.** "(NOT) REAL FOOTAGE" keeps stock footage from reading as evidence. The
+- Labelled reenactments. "(NOT) REAL FOOTAGE" keeps stock footage from reading as evidence. The
   job is trust, which a true-crime brand depends on (inferred).
-- **Slow is the point.** 3.3 cuts/min over 34 minutes works because the voice is fast (188 wpm) and
+- Slow is the point. 3.3 cuts/min over 34 minutes works because the voice is fast (188 wpm) and
   the host's gestures never stop. What the slow videos know: the story is the edit.
 
 ## 9. Outlier against control

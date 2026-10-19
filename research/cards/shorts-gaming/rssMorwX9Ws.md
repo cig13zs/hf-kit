@@ -49,9 +49,9 @@ never leaves, so the creator's presence is continuous. The words are the edit: 6
 12 seconds.
 
 ## 5. Graphics and animation
-- **Stacked template:** face in the top third, red rounded banner with white bold uppercase
+- Stacked template: face in the top third, red rounded banner with white bold uppercase
   topic text (about 35% of frame height), screen content below, captions near 88% height (seen).
-- **Captions:** condensed bold uppercase (a Bebas-like display face; inferred), white with a
+- Captions: condensed bold uppercase (a Bebas-like display face; inferred), white with a
   thin dark outline, 2-4 words, the active word in cyan (seen).
 - Screen recordings and screenshots, with a visible cursor (seen, 0:03.5, 0:09.4).
 - No gameplay footage at all (seen in all 40 overview frames).
@@ -72,16 +72,16 @@ graphics. The restraint suits a 12-second instruction.
 - Music block: tempo estimate 95.7 BPM at confidence 1.9, brightness 946 Hz, bass share 0.048, no caption [music] tags; cuts-on-onsets lift not computed (measured).
 
 ## 8. Retention mechanics: why
-- **The first line repeats the title.** The viewer who stops scrolling gets what the title
+- The first line repeats the title. The viewer who stops scrolling gets what the title
   promised in the first sentence. Job: clarifying.
-- **Proof before steps.** The post in the first 2 seconds says the trick is real. Job:
+- Proof before steps. The post in the first 2 seconds says the trick is real. Job:
   delivering proof.
-- **Result shown at 7s.** The old logo on screen is the payoff, not a description of it.
+- Result shown at 7s. The old logo on screen is the payoff, not a description of it.
   Job: showing a payoff.
-- **Objection answered last.** The paid-tier worry is the last thing a viewer might hold
+- Objection answered last. The paid-tier worry is the last thing a viewer might hold
   against trying it. Job: clarifying; it may also trigger comments (inferred; this video's
   comments are 0.27% of views, measured).
-- **305 wpm.** No breath, no dead frame. Job: setting the rhythm. Pace here is a choice for
+- 305 wpm. No breath, no dead frame. Job: setting the rhythm. Pace here is a choice for
   a viewer who wants the steps, not the creator.
 
 ## 9. Outlier against control

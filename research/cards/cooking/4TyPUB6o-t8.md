@@ -54,7 +54,7 @@ same shape (inferred from the structure).
 ## 4. Editing style
 - **A steady 26-29 cuts a minute from 0:15 to the end** (measured). The rhythm never changes
   across 42 minutes.
-- **Jump cuts on phrase boundaries.** 32% of cuts land in caption gaps that make up 21% of
+- Jump cuts on phrase boundaries. 32% of cuts land in caption gaps that make up 21% of
   the speech span, a lift of 1.50 (measured, approximate caption timings).
 - **Coverage** (seen): medium two-shots of the two hosts at the counter, product inserts, food
   macro, blindfold tastings (3:40, 10:26, 28:49, 31:58), and hero shots of products alone on
@@ -63,12 +63,12 @@ same shape (inferred from the structure).
 
 ## 5. Graphics and animation
 The most graphics in this niche's sample (seen):
-- **Colour-coded price tags:** green for the cheap item (top-left), maroon for the expensive
+- Colour-coded price tags: green for the cheap item (top-left), maroon for the expensive
   one (top-right), each with a small product name above the price. The prices count up
   ("$1" → "$15.9" → "$15.99").
 - **A rolling spend counter** in huge green numerals over a money throw (0:15.5-0:20).
 - **A section card**, "TOASTERS", in white bold sans capitals (0:22.5).
-- **Verdict pills:** a maroon "Not worth it" and a green "Worth It" over the product hero shot
+- Verdict pills: a maroon "Not worth it" and a green "Worth It" over the product hero shot
   (3:57.9), and "EXPENSIVE WINS" in white capitals with a red X and a green check over two
   blenders (34:49.5).
 - "#1" labels for blind samples (10:25-10:26), and a white arrow pointing at a button (1:34).
@@ -81,29 +81,29 @@ The most graphics in this niche's sample (seen):
 - Count-up and pop-in on the graphics (seen as intermediate values across frames).
 
 ## 7. Sound (measured, or inferred from transcript)
-- **More silence than the outliers:** 0.67 a minute against 0.14-0.26 (measured). The long
+- More silence than the outliers: 0.67 a minute against 0.14-0.26 (measured). The long
   ones are devices:
   - 15:53-15:56 holds silences of 1.69s and 2.29s and a −48.5 dip right after "after
     waiting 17 minutes,", a time-skip beat (measured, transcript).
   - 19:12 is a 2.57s silence after "that's a bad sign", a comic beat.
   - 38:36 is a 2.03s silence before a gag that leads into a plug.
-- **Music exposed often.** 97 [music] tags (2.31 a minute) spread through the video, against
+- Music exposed often. 97 [music] tags (2.31 a minute) spread through the video, against
   0.14-0.18 a minute in the outliers (measured). Music is heard without speech over it many
   times. The hero product shots and time skips are the likely places (inferred).
-- **Banter is audible in the tags:** 13 [laughter], 3 [snorts], 2 [screaming] (measured).
+- Banter is audible in the tags: 13 [laughter], 3 [snorts], 2 [screaming] (measured).
   The two-host chemistry is part of the format.
-- **A quiet, dark master.** −19.9 LUFS integrated (measured), 6 dB under YouTube's reference.
+- A quiet, dark master. −19.9 LUFS integrated (measured), 6 dB under YouTube's reference.
   Median brightness is 786 Hz, bass share 0.24 (measured), consistent with a warm bed under
   the talk (inferred).
 - No music sync: cuts land on onsets at chance (lift 1.05, measured).
 
 ## 8. Retention mechanics: why
-- **Clear stakes up front.** One question plus a $15,000 counter and a money throw. This is
+- Clear stakes up front. One question plus a $15,000 counter and a money throw. This is
   the job of tension, and it matches the outliers' "worth it?" question.
-- **Verdict pills close every round.** A skimmer can take away each result. This clarifies,
+- Verdict pills close every round. A skimmer can take away each result. This clarifies,
   and it shows a payoff every 3 minutes.
-- **Blind tests.** Blindfolds make the comparison fair on camera. This is the job of proof.
-- **Two-host banter.** Laughter every few minutes carries the studio format. This builds
+- Blind tests. Blindfolds make the comparison fair on camera. This is the job of proof.
+- Two-host banter. Laughter every few minutes carries the studio format. This builds
   identity.
 - **What it lacks against the outliers** (hypotheses):
   - no journey or place;
@@ -118,15 +118,15 @@ The most graphics in this niche's sample (seen):
 ## 9. Outlier against control
 This is the control. What the two outliers (3pgUFPtqJu4, AJiGaXRsFNU) do that this video
 does not, all hypotheses:
-- **Go somewhere.** A caviar farm, Japan. Access and place instead of the studio.
-- **Escalate toward one ending.** The level 1-4 taste ladder; a tier board with a champion.
+- Go somewhere. A caviar farm, Japan. Access and place instead of the studio.
+- Escalate toward one ending. The level 1-4 taste ladder; a tier board with a champion.
   Here there are 13 parallel rounds.
 - **Montage hooks** at 32-60 cuts a minute in 0-15s, against 4 here.
-- **Show the ending in the hook.** The level preview (3pgU) or the empty tier board (AJiG).
+- Show the ending in the hook. The level preview (3pgU) or the empty tier board (AJiG).
 - **Run 22-23 minutes** against 42.
-- **Leave less air.** 0.14-0.26 silences a minute against 0.67. Music is exposed less often:
+- Leave less air. 0.14-0.26 silences a minute against 0.67. Music is exposed less often:
   0.14-0.18 tags a minute against 2.31.
-- **Shared, so probably not the cause:**
+- Shared, so probably not the cause:
   - about 30 cuts a minute in the body;
   - about 230 wpm;
   - jump cuts on phrase boundaries (lift 1.43-1.56);

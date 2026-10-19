@@ -53,17 +53,17 @@ scientific explanation. Each story ends on a twist, then a hard gap before the n
 Story 4 is also the loudest stretch of the video (see 7).
 
 ## 4. Editing style
-- **The host carries it:** 29 of the 40 overview frames are the host, 10 are inserts, 1 is black
+- The host carries it: 29 of the 40 overview frames are the host, 10 are inserts, 1 is black
   (seen; my count). Median shot 12.25s, p90 88s (measured): some host shots run well over a minute.
-- **Cuts cluster at proof and place:** tsunami footage (12:19, 14:52, 17:25), CCTV of a taxi (cut
+- Cuts cluster at proof and place: tsunami footage (12:19, 14:52, 17:25), CCTV of a taxi (cut
   pair 17:44.8), the photo (22:10.8), the old portrait (24:10.8), fog footage (25:03.8, 26:25.4)
   (seen). Visual energy peaks in minutes 14 and 17 (measured).
-- **Cuts land on audio onsets well above chance:** lift 1.57, the highest in this batch of three
+- Cuts land on audio onsets well above chance: lift 1.57, the highest in this batch of three
   niches (measured). Inserts may enter on a sound hit or a music accent (inferred; no audio heard).
 - No punch-ins or jump cuts on the host (seen in every cut pair).
 
 ## 5. Graphics and animation
-- **One green-screen backdrop per story:** brick wall for the cold open and the sponsor, a sunny
+- One green-screen backdrop per story: brick wall for the cold open and the sponsor, a sunny
   colonial street for story 1 (1:16-9:46), a night harbour city for story 2 (13:10-16:34), a grey lake
   with a bare tree for story 3 (19:06-22:30), snowy peaks under cloud for story 4 (25:54-32:42)
   (seen). A dark vignette sits over every composite (seen).
@@ -74,7 +74,7 @@ Story 4 is also the loudest stretch of the video (see 7).
   TSUNAMI)", "(REAL PHOTO OF NORMAN COLLIE)", "(NOT A REAL PHOTO OF ROGER)", "(NOT A REAL PHOTO FROM
   NORMAN'S HIKE)" and more (seen 2:07.4, 12:19.1, 14:52.1, 17:25, 18:16, 23:21.8, 24:12.8, 25:03.8,
   30:09.6, 33:33.5; read from low-resolution crops).
-- **Sponsor frame:** the host with the sponsor's logo top right and a two-line caption bar with the
+- Sponsor frame: the host with the sponsor's logo top right and a two-line caption bar with the
   URL and offer (seen 11:28.2).
 
 ## 6. VFX and transitions
@@ -85,33 +85,33 @@ Story 4 is also the loudest stretch of the video (see 7).
 - One black frame at the sponsor break (10:37.2, seen). No whips, zooms, shakes or glitches (seen).
 
 ## 7. Sound (measured, or inferred from transcript)
-- **Platform level, wider range than its sibling outlier:** −16.8 LUFS, LRA 8.2 LU against 5.0 in
+- Platform level, wider range than its sibling outlier: −16.8 LUFS, LRA 8.2 LU against 5.0 in
   QfxhFa5hEX8 (measured).
-- **Few silences, a lot of music tags.** 24 silences (0.71/min) against 163 in QfxhFa5hEX8, and 51
+- Few silences, a lot of music tags. 24 silences (0.71/min) against 163 in QfxhFa5hEX8, and 51
   [music] tags against 7 (measured). A bed under the voice would fill the breath gaps (inferred).
-- **Silences sit on joints and on the moment before a reveal.** The long ones end story 1 (10:36,
+- Silences sit on joints and on the moment before a reveal. The long ones end story 1 (10:36,
   3.1s), story 3 (23:35.9, 2.7s) and the video (33:36.1, 2.9s) (measured). Short clusters fall on
   tension beats: 14:24-14:34, as the passenger's answer stuns the driver, and 20:41-20:52, as the
   couple spot something in the photo (measured, matched to transcript).
-- **Story 4 is mixed hotter.** Minutes 24-30 run at −13.8 to −17.0 against −17.1 to −21.8 before
+- Story 4 is mixed hotter. Minutes 24-30 run at −13.8 to −17.0 against −17.1 to −21.8 before
   (measured), and the loudest windows (30:10-30:22) land on the chase down the mountain
   (transcript 29:53-30:27). Whether the voice, a bed or both got louder can't be told (inferred).
-- **Music between stories:** the transcript shows about 20s of [music] with no words at
+- Music between stories: the transcript shows about 20s of [music] with no words at
   0:42-1:02 and 17:38-17:57 (transcript), bumpers between segments (inferred).
-- **Outro bed:** bass share peaks at 0.76 at 33:30 (measured), under the outro.
+- Outro bed: bass share peaks at 0.76 at 33:30 (measured), under the outro.
 
 ## 8. Retention mechanics: why
-- **Four previews in 11 seconds.** The viewer sees one image from each story before the first
+- Four previews in 11 seconds. The viewer sees one image from each story before the first
   begins. The job is building tension and setting expectations: there are four payoffs, so stay.
-- **Proof as the anthology's spine.** Each story ends on its evidence, and the evidence gets
+- Proof as the anthology's spine. Each story ends on its evidence, and the evidence gets
   stronger each time (witness, data, a photo, many photos plus science). The job is escalation.
-- **Sponsor after the first twist.** The read starts right after story 1's reveal and a 3.1s gap, when the
+- Sponsor after the first twist. The read starts right after story 1's reveal and a 3.1s gap, when the
   viewer has been paid off and has three stories still promised (inferred: lower ad drop-off).
-- **The backdrop tells you which story you're in.** The job is clarity across a 34-minute
+- The backdrop tells you which story you're in. The job is clarity across a 34-minute
   anthology.
-- **Labels for reenactments.** "(NOT A REAL PHOTO ...)" on the illustrative images keeps the
+- Labels for reenactments. "(NOT A REAL PHOTO ...)" on the illustrative images keeps the
   "literal proof" promise honest. The job is trust.
-- **A louder last story.** The mix rises for the final story's chase (measured), a late energy lift
+- A louder last story. The mix rises for the final story's chase (measured), a late energy lift
   where a long video usually sags (inferred).
 
 ## 9. Outlier against control

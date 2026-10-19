@@ -35,8 +35,8 @@ Shorts sample. Upload ages differ (2 months, 19 days, 8 days), so some of the ga
 | Likes per view | 1.8% (-svLMqHJGaU) | 3.1% (8Ho3a4bkkV8) |
 
 ## Shared devices: the house style (seen unless marked)
-- **Dark studio set:** charcoal walls, warm bookshelf practicals, guests at a table.
-- **A question card in the first seconds:** white box, black heavy uppercase, two lines,
+- Dark studio set: charcoal walls, warm bookshelf practicals, guests at a table.
+- A question card in the first seconds: white box, black heavy uppercase, two lines,
   at the seam of a stacked split (outliers) or over the host (control).
 - **Speaker-coloured word captions,** host always yellow, 1-5 words per card, no box.
 - **Speech from frame 1** at 204-236 wpm (measured).
@@ -56,30 +56,30 @@ Shorts sample. Upload ages differ (2 months, 19 days, 8 days), so some of the ga
 | Cuts/min | 13.5 and 30.3 | 14.3 |
 | Loudness | −14.1 and −21.7 LUFS | −16.4 LUFS |
 
-- **H1: personal-use topics travel.** Both outliers answer a question the viewer could use
+- H1: personal-use topics travel. Both outliers answer a question the viewer could use
   tomorrow; the control asks the viewer to care about a politician's remark.
-- **H2: no dead air after the hook.** The clearest measured split. The outliers remove
+- H2: no dead air after the hook. The clearest measured split. The outliers remove
   pauses after the opening; the control keeps 16 in its monologue and its picture goes still.
-- **H3: cut on the word.** Both outliers cut on audio onsets above chance; the control
+- H3: cut on the word. Both outliers cut on audio onsets above chance; the control
   cuts below chance, in the gaps.
-- **H4: authority early.** A credential in frame 1 (or a mid-video reveal with a name card)
+- H4: authority early. A credential in frame 1 (or a mid-video reveal with a name card)
   against tags too small to read.
-- **What doesn't separate them:** cut rate (8Ho3a4bkkV8 cuts no faster than the control)
+- What doesn't separate them: cut rate (8Ho3a4bkkV8 cuts no faster than the control)
   and loudness (the quietest video is an outlier). Two different styles win here: a single
   held story (8Ho3a4bkkV8) and a designed trailer with kinetic type and b-roll
   (0YVdjmU13E4). What they share is the absence of sag, not a pace.
 
 ## Sound and music profile
-- **Measured:** loudness varies by 7.6 LU across three uploads (−14.1 to −21.7 LUFS), so
+- Measured: loudness varies by 7.6 LU across three uploads (−14.1 to −21.7 LUFS), so
   the channel doesn't master its Shorts to one target (inferred). LRA 3.6-5.8 LU, wider
   than the facts and gaming Shorts (1.0-2.4): conversation keeps its natural dynamics.
-- **Measured:** silences range from none to 12.9/min, and that is the audio metric that
+- Measured: silences range from none to 12.9/min, and that is the audio metric that
   tracks the outlier split (H2).
-- **Measured:** only 0YVdjmU13E4 carries [music] caption tags (6), and five of them sit
+- Measured: only 0YVdjmU13E4 carries [music] caption tags (6), and five of them sit
   within about 2 seconds of a stylised b-roll insert or the name card; its bass share peaks
   in those windows (0.29-0.30). Music surfaces under the inserts, not under the talk
   (inferred).
-- **Inferred:** the other two show no sign of a bed (no tags, no stable tempo). That matches
+- Inferred: the other two show no sign of a bed (no tags, no stable tempo). That matches
   the chapter's podcast-clip row: speech-led, bed absent or very low, no emotional scoring
   that the speaker isn't showing (`knowledge/music-and-mood.md` §5).
 - **Tempo** readings (136, 143.6, none) are weak under constant speech; don't cut to them.

@@ -47,14 +47,14 @@ from 32:09 (seen 32:09.9, 32:45.9, 33:17.1, 33:55.7, 34:19.7), and after a black
 the sheeted figure is sitting in his chair (34:49.0, seen).
 
 ## 4. Editing style
-- **Two cameras, nothing else.** 11 of the 12 sampled cuts switch between the wide and the side
+- Two cameras, nothing else. 11 of the 12 sampled cuts switch between the wide and the side
   medium close-up; the twelfth comes out of the black frame at 34:48.8 (seen). No b-roll, no
   photos, no labels.
-- **Very long holds:** median shot 20s, p90 143s (measured), and the true count is higher than 37
+- Very long holds: median shot 20s, p90 143s (measured), and the true count is higher than 37
   (see the table).
-- **Angle changes on emphasis, not on a timer.** Cut pairs 15:29.5 and 16:53.1 switch angle while
+- Angle changes on emphasis, not on a timer. Cut pairs 15:29.5 and 16:53.1 switch angle while
   his arms are thrown wide (seen), in the basement loop and the run for the door (transcript 16:43).
-- **The ending breaks pattern:** 6 cuts in minute 34 against 0-3 elsewhere (measured), for the
+- The ending breaks pattern: 6 cuts in minute 34 against 0-3 elsewhere (measured), for the
   ghost gag.
 
 ## 5. Graphics and animation
@@ -70,27 +70,27 @@ set (seen), which ties the two formats together.
 - No transitions besides hard cuts (seen).
 
 ## 7. Sound (measured, or inferred from transcript)
-- **Platform level, moderate range:** −16.9 LUFS, LRA 7.2 LU (measured).
-- **Silences and music tags trade places.** Minutes 1-3 hold 26 silences and no [music] tags;
+- Platform level, moderate range: −16.9 LUFS, LRA 7.2 LU (measured).
+- Silences and music tags trade places. Minutes 1-3 hold 26 silences and no [music] tags;
   minutes 5-10 hold 10 tags and no silences at all (measured). Silence clusters return at
   minutes 18, 26-27 and 30-31 (measured). A bed that comes and goes would produce exactly this
   (inferred): silence count works as a rough proxy for whether music is under the voice.
-- **Tags mid-sentence:** the captions drop `>> [music] >>` inside sentences at key lines, such as
+- Tags mid-sentence: the captions drop `>> [music] >>` inside sentences at key lines, such as
   just before "Who is Pan?" (21:24-21:28) (transcript), which suggests stings or swells between
   phrases (inferred).
-- **The loudest moment is acting, not music:** 16:44-16:50 (−10.7) lines up with the host shouting
+- The loudest moment is acting, not music: 16:44-16:50 (−10.7) lines up with the host shouting
   a character's "We have to run!" (transcript 16:43) (measured, matched).
-- **Silence marks the story break and the end:** 2.55s at 26:17.5 and 2.59s at 34:54 (measured),
+- Silence marks the story break and the end: 2.55s at 26:17.5 and 2.59s at 34:54 (measured),
   both after the last line of a story.
 
 ## 8. Retention mechanics: why
-- **Atmosphere as the hook.** The fire and the night set a mood before any mystery. For regular
+- Atmosphere as the hook. The fire and the night set a mood before any mystery. For regular
   viewers this is a comfort format (inferred). The job is building identity.
-- **Acted dialogue.** The host performs the characters' lines at full voice, and the loudest
+- Acted dialogue. The host performs the characters' lines at full voice, and the loudest
   window of the video is one of them. The job is building tension without any pictures.
-- **A long single story.** Story 1 takes 25 minutes and its twist arrives at 60%. The job is
+- A long single story. Story 1 takes 25 minutes and its twist arrives at 60%. The job is
   immersion, and it depends entirely on the voice.
-- **The sheeted-figure gag.** A slow visual joke across the last three minutes rewards viewers who
+- The sheeted-figure gag. A slow visual joke across the last three minutes rewards viewers who
   watch rather than listen (inferred). The job is showing a payoff for staying to the end.
 
 ## 9. Outlier against control

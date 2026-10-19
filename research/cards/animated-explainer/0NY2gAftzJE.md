@@ -46,7 +46,7 @@ from cutting.
 
 ## 5. Graphics and animation
 - Flat vector art. Deep purple and magenta grounds with lime-green, yellow and orange actors (seen).
-- **Colour-coded actors:** virus is green, cancer is magenta or blue, the immune system is orange or red, each
+- Colour-coded actors: virus is green, cancer is magenta or blue, the immune system is orange or red, each
   with a rounded pill label in bold white sans on first appearance (3:37, 4:32, seen).
 - UI metaphors stage abstract ideas: app windows (credibility), trading cards for virus
   strains ("WEAK and PATHETIC", a joke at 7:25), a comment wall (public reaction), a video
@@ -59,25 +59,25 @@ Particle swarms with glow on the green actors (seen), circular "microscope" fram
 frames). No glitch, whip or shake transitions were seen. Restraint is the point.
 
 ## 7. Sound (measured only)
-- **Flat loudness (LRA 2.2 LU):** the narration sits on a constant bed.
+- Flat loudness (LRA 2.2 LU): the narration sits on a constant bed.
 - **Almost no silence** until the ending, where 3 of the 4 silences fall in the last
   minute. They mark the ending and the music-only offer (inferred from their timing
   against the transcript).
-- **Onsets at 98/min:** dense sound design under the voice (inferred; a proxy).
+- Onsets at 98/min: dense sound design under the voice (inferred; a proxy).
 - **[music] markers** in the captions: 73 tags (4.79/min), first at 0:00, 0:10.5,
   0:17.1 and 0:36.6 (measured). At that rate the captioner marks music nearly throughout, so the tags
   show a continuous bed, not stings at section turns (inferred).
 
 ## 8. Retention mechanics: why
-- **Story frame on a science topic.** One named person with stakes turns an explainer
+- Story frame on a science topic. One named person with stakes turns an explainer
   into a narrative with an outcome to wait for. This is the job of tension.
-- **No cut for 23 seconds.** One unbroken move keeps the viewer inside the image while
+- No cut for 23 seconds. One unbroken move keeps the viewer inside the image while
   the stakes are stated. This is the job of clarity. A cut there would compete with the words.
-- **Colour-coding.** The viewer tracks three actors without reading labels after the first
+- Colour-coding. The viewer tracks three actors without reading labels after the first
   pass. This is also clarity.
-- **The ethics turn at 11:14.** It gives commenters a side to take, which invites
+- The ethics turn at 11:14. It gives commenters a side to take, which invites
   engagement (inferred), and it sets up the payoff.
-- **Mascot sponsor bridge.** The villain theme ("scam") continues into the ad read, so the
+- Mascot sponsor bridge. The villain theme ("scam") continues into the ad read, so the
   ad feels like part of the world (inferred: less drop-off at the ad).
 
 ## 9. Outlier against control

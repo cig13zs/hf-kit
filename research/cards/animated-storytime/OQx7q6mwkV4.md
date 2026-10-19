@@ -55,17 +55,17 @@ dragonborn with her hair, inferred from the design at 1:59 and 7:18), but after 
 follows a party of invented characters, not her.
 
 ## 4. Editing style
-- **Same rhythm as the outliers:** 22.0 cuts/min, median 1.88s (measured). It slows to 15.5
+- Same rhythm as the outliers: 22.0 cuts/min, median 1.88s (measured). It slows to 15.5
   in 1-3 min (the tavern dialogue) and peaks in the body at 24.3 (fights).
-- **Punch-ins on a talking face:** the riddle door's face at 4:55.1 → 4:55.4 and 7:06.0 → 7:06.2
+- Punch-ins on a talking face: the riddle door's face at 4:55.1 → 4:55.4 and 7:06.0 → 7:06.2
   (seen).
-- **Action grammar in fights:** an impact-burst frame (8:28.9 → 8:29.1), a cut to black when a
+- Action grammar in fights: an impact-burst frame (8:28.9 → 8:29.1), a cut to black when a
   character loses their mind (8:57.4), orange and yellow speed-line frames (11:23.0, 14:17.6)
   (all seen). Minute 8 scores the highest visual energy in the niche (5.02, measured).
 - The last minute drops to 6 cuts/min under the thanks and credits (measured).
 
 ## 5. Graphics and animation
-- **Two art styles.** Jaiden's frame story is black line art on white. The fantasy uses fuller
+- Two art styles. Jaiden's frame story is black line art on white. The fantasy uses fuller
   colour, painted backgrounds and a new cast of animal-people: a zebra, a cat bard, a
   dragonborn (seen). The finale sits in a saturated gold room (12:37-17:03, seen).
 - The riddle door is a large carved face that talks (5:05-7:06, seen).
@@ -79,30 +79,30 @@ follows a party of invented characters, not her.
 - No whip, glitch or zoom transition was seen.
 
 ## 7. Sound (measured only)
-- **Loud and dynamic:** −12.9 LUFS integrated and LRA 6.8 LU (measured). That is 2.3-3 LU louder
+- Loud and dynamic: −12.9 LUFS integrated and LRA 6.8 LU (measured). That is 2.3-3 LU louder
   than the two outliers and three times the cat video's range. Short-term peaks reach −6.5
   LUFS at 16:12, under "you're my personal hell" (line 16:05-16:16), a shouted line (inferred).
-- **Dynamics without silence.** Only 2 silences over 0.4s (0.11/min), but the level drops
+- Dynamics without silence. Only 2 silences over 0.4s (0.11/min), but the level drops
   8-22 LU under the −13.4 short-term median about nine times (measured). Examples: −22.5 at
   2:34 while the tavern waits for a predicted accident; −26.2 at 4:52 as the riddle door
   appears; −21.6 at 15:14 during the fake embrace; and −35.4 at 16:24, the deepest, right after
   "you're fired". Three of these four sit within 2s of a [music] caption tag (2:32, 4:50,
   15:16), so the voices drop out and the music plays alone (inferred).
-- **A deep voice for the door:** bass share rises to 0.39-0.47 and brightness falls to
+- A deep voice for the door: bass share rises to 0.39-0.47 and brightness falls to
   363-412 Hz over 5:10-5:30, while the door speaks its riddles (measured; that it is a
   pitched-down voice is inferred).
 - **Cuts at chance against onsets** (lift 1.02, measured): the edit follows dialogue.
 - The closing thanks credit a separate person for the sound effects (17:36, transcript).
 
 ## 8. Retention mechanics: why
-- **Guest voices and jokes.** Each character brings a running bit: a sad middle manager, a
+- Guest voices and jokes. Each character brings a running bit: a sad middle manager, a
   grudge against a neighbour, "the peeler" (seen in the transcript). This builds rhythm and
   identity for the party.
-- **Callbacks as the ending.** The two grudges become one villain and the turtle becomes the
+- Callbacks as the ending. The two grudges become one villain and the turtle becomes the
   son. The ending pays off threads from the first four minutes.
-- **Fights raise the energy.** Speed lines, impact frames and the loudest peaks cluster in the
+- Fights raise the energy. Speed lines, impact frames and the loudest peaks cluster in the
   fights (minute 8, 16:12). This resets attention.
-- **A drop before the climax.** The −35.4 LUFS dip at 16:24 clears the air after the villain
+- A drop before the climax. The −35.4 LUFS dip at 16:24 clears the air after the villain
   falls, before the reunion. This builds tension, then shows the payoff.
 
 ## 9. Outlier against control

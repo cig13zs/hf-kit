@@ -56,7 +56,7 @@ in the transcript).
 ## 4. Editing style
 - Cuts mark topic changes; inside a topic the camera pushes or the scene morphs (seen).
   Median shot 8.3s, close to the pilot's 9.4s.
-- **One rhythmic burst:** cuts at 1:08.3, 1:09.6 and 1:10.7 under the line "grow and grow
+- One rhythmic burst: cuts at 1:08.3, 1:09.6 and 1:10.7 under the line "grow and grow
   and grow" (cut times measured; that each lands on a "grow" is inferred from the caption
   timing, which starts the line at 1:06.1).
 - **Dissolves carry time passing** (the growing tree at 0:22-0:27, seen). The hard-cut floor
@@ -66,7 +66,7 @@ in the transcript).
 - Flat vector, but the palette changes by place: bright sky blues and greens above ground,
   deep purple and violet underground, with roots and fungal threads in neon cyan, pink and
   orange (seen). The colour change tells the viewer which "empire" they are in (inferred).
-- **Systems metaphor held for 10 minutes:** crowns are industrial parks, leaf cells are
+- Systems metaphor held for 10 minutes: crowns are industrial parks, leaf cells are
   factories, root tips are command centres, fungi run trade posts (seen in the transcript).
   The art follows it: a city skyline for scale at 1:50, a cutaway block like a building
   section at 2:58 (seen).
@@ -84,28 +84,28 @@ in the transcript).
 - No shake, glitch, whip or zoom-blur was seen. Like the pilot, restraint is the default.
 
 ## 7. Sound (measured only)
-- **Flat bed:** LRA 2.2 LU; per-minute means within 0.6 LU for 11 minutes (measured).
-- **One pause at the sponsor turn:** a 0.74s silence at 9:39.8 and a dip to −18.4 LUFS at
+- Flat bed: LRA 2.2 LU; per-minute means within 0.6 LU for 11 minutes (measured).
+- One pause at the sponsor turn: a 0.74s silence at 9:39.8 and a dip to −18.4 LUFS at
   9:40 fall between "we have so much more to learn" and the fungi line that leads into the
   ad (measured; the reading is inferred from the transcript).
-- **Fade under the end card:** −19.1 at 11:04 to −46.6 at 11:20 (measured).
-- **Music under everything:** 74 [music] caption tags (6.5/min), the first at 0:05 and then
+- Fade under the end card: −19.1 at 11:04 to −46.6 at 11:20 (measured).
+- Music under everything: 74 [music] caption tags (6.5/min), the first at 0:05 and then
   every 4-15s (measured). A continuous bed is likely (inferred).
-- **Dark tail:** the 11:10 window has bass share 0.89 and brightness 106 Hz, against medians of
+- Dark tail: the 11:10 window has bass share 0.89 and brightness 106 Hz, against medians of
   0.21 and 1203 Hz (measured), the same low outro the slop video has (0.88 at 9:40).
 - **Cuts near chance against onsets** (lift 1.10, measured).
 - Onsets 99/min (measured), the same density as both outliers (96-98).
 
 ## 8. Retention mechanics: why
-- **Scale first.** 2,000 tonnes becomes 10 whales on screen in 8 seconds. This clarifies and
+- Scale first. 2,000 tonnes becomes 10 whales on screen in 8 seconds. This clarifies and
   gives the viewer a reason to care before the question.
-- **Title answered early.** "Eating thin air" at 0:31 pays the title almost at once, then
+- Title answered early. "Eating thin air" at 0:31 pays the title almost at once, then
   "only half of the story" keeps a second loop open for 5 minutes. This builds tension
   cheaply, but the second question is one the viewer did not come for (inferred).
-- **One metaphor system.** Factories, cities and trade make a new term easy to place. Clarity.
-- **Palette as a map.** Above ground is bright, underground is purple. This sets the
+- One metaphor system. Factories, cities and trade make a new term easy to place. Clarity.
+- Palette as a map. Above ground is bright, underground is purple. This sets the
   rhythm of the halves and resets attention at 5:21.
-- **Topic bridge into the ad.** Fungi as a "new kingdom" leads to problem solving and then
+- Topic bridge into the ad. Fungi as a "new kingdom" leads to problem solving and then
   to Brilliant, with the channel's bird scientist (seen 9:46-9:51). The ad feels like part of
   the world (inferred).
 

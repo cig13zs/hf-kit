@@ -61,7 +61,7 @@ action rather than the sentence (seen, cut sheet).
 - Semi-realistic 3D animation with exaggerated faces; saturated blue sea and sky (seen).
 - Captions: white bold rounded sans, sentence case, soft dark shadow, 2-4 words per card,
   centred at about 78% of frame height. No box and no active-word highlight (seen).
-- **Glow as pointer:** whatever the narration names gets a coloured glow or outline:
+- Glow as pointer: whatever the narration names gets a coloured glow or outline:
   yellow for the tools and fish, magenta wavy heat lines for the sun-drying line (0:11.5),
   orange on the hooked fish (0:19.0), a pink streak on the blow to the shark (0:23.5) (seen).
 - In-world branding: the channel name printed on the month card (seen, 0:29-0:31).
@@ -75,44 +75,44 @@ action rather than the sentence (seen, cut sheet).
 - No flash, glitch, shake or zoom-through was seen.
 
 ## 7. Sound (measured only)
-- **Loud and flat:** −10.9 LUFS integrated, about 3 LU above the −14 LUFS YouTube reference,
+- Loud and flat: −10.9 LUFS integrated, about 3 LU above the −14 LUFS YouTube reference,
   so playback is likely turned down (measured value; playback behaviour from
   `knowledge/sound-design.md`, inferred for Shorts). LRA 2.3 LU.
-- **No gaps:** 0 silences over 0.4s. Voice and bed never stop (measured).
+- No gaps: 0 silences over 0.4s. Voice and bed never stop (measured).
 - **Onsets 84.9/min** against 4 hard cuts: most transients are not cut sounds. They are
   foley hits or music (inferred; onsets are a proxy).
-- **Speech slows at the end:** 200 wpm in the first 30s, about 115 wpm in the last 11s
+- Speech slows at the end: 200 wpm in the first 30s, about 115 wpm in the last 11s
   (derived from measured counts). The summary and rescue get room to land (inferred).
-- **Music block:** bass share jumps to 0.34 in 20-30s, the window with the shark kill and
+- Music block: bass share jumps to 0.34 in 20-30s, the window with the shark kill and
   the burning ship, against 0.18-0.22 elsewhere (measured): low-end impacts or a heavier
   bed under the violence (inferred). The only caption [music] tag is at 36.5s, under
   "133 days" and the rescue (measured), which suggests music comes forward for the ending
   (inferred). Tempo 73.8 BPM at low confidence: don't cut to it.
 
 ## 8. Retention mechanics: why
-- **Hands already busy at 0:00.** The viewer watches a problem being solved before knowing
+- Hands already busy at 0:00. The viewer watches a problem being solved before knowing
   what the problem is. Job: building tension; there is no on-ramp to skip.
-- **The bait chain (0:04-0:16).** Each catch becomes the tool for the next, so every beat
+- The bait chain (0:04-0:16). Each catch becomes the tool for the next, so every beat
   promises the next one. Job: resetting attention every 2-4 seconds.
-- **Glow on the named noun.** Voice and picture point at the same thing while the camera
+- Glow on the named noun. Voice and picture point at the same thing while the camera
   keeps moving, so the viewer never hunts. Job: clarifying.
-- **Context held until 0:25.** The question of why he is alone at sea is answered after the action has
+- Context held until 0:25. The question of why he is alone at sea is answered after the action has
   earned attention. Job: showing a payoff mid-video, and resetting attention.
-- **Branded month card.** Months pass in one gag and the channel name rides on it. Jobs:
+- Branded month card. Months pass in one gag and the channel name rides on it. Jobs:
   clarifying and building identity.
-- **One-second caption cards.** Reading pace keeps the eyes working even when a shot holds.
+- One-second caption cards. Reading pace keeps the eyes working even when a shot holds.
   Job: setting the rhythm.
 
 ## 9. Outlier against control
 Control: "How Back To The Future Created Its Lightning" (nw6LtopYGlc, 0.98×). House style is
 shared: the same 3D look, caption style, loud flat mix (−11.2 against −10.9 LUFS), no
 silences, similar onsets (90 against 85/min). What differs:
-- **Stakes.** A man in mortal danger against film trivia. Hypothesis: life-or-death stakes
+- Stakes. A man in mortal danger against film trivia. Hypothesis: life-or-death stakes
   carry most of the gap.
-- **Turns.** The outlier has two ("but", "You see"); the control's script has no "but" and
+- Turns. The outlier has two ("but", "You see"); the control's script has no "but" and
   runs as a list ("Then", "After that") (seen in both transcripts). Hypothesis: a mid-video
   turn keeps viewers past the halfway mark.
-- **Pace.** 200 against 160 wpm in the first 30s; 10 against 0 hard cuts/min in 3-15s
+- Pace. 200 against 160 wpm in the first 30s; 10 against 0 hard cuts/min in 3-15s
   (measured). Framings change in both, so the cut gap is partly a counting artefact.
 Upload age differs (10 days against 3), so some of the view gap is time (inferred).
 

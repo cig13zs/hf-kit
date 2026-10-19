@@ -44,24 +44,24 @@ The control's night footage is dark, and the detector missed at least one visibl
 | No-speech intro before the first story line | about 20s (R4G4tiPTTDM) | about 22s (VGiLQIzQW2Q) |
 
 ## Shared devices (all three: the house style)
-- **One voice, from frame one, fast and conversational.** First word at 0.0s, 185-191 wpm in all
+- One voice, from frame one, fast and conversational. First word at 0.0s, 185-191 wpm in all
   three (measured), with 29-47 uses of "you know" per video (counted in transcripts). The register
   is a friend retelling a story, not a newsreader.
-- **The same opening ritual:** a one-line premise, then the fixed channel pitch with a new
+- The same opening ritual: a one-line premise, then the fixed channel pitch with a new
   like-button prank joke each time, then "let's get into today's story" (transcript, all three),
   then about 20-22 seconds without speech before the first story line (transcript gaps).
 - **Every story opens on a date line** ("On an afternoon in December of 1991", "One morning in
   1959", "On the morning of April 25th, 2013") (transcript, all three).
-- **Very slow picture.** 1.0-3.3 cuts/min and median shots of 8-20 seconds (measured). No
+- Very slow picture. 1.0-3.3 cuts/min and median shots of 8-20 seconds (measured). No
   punch-ins, whips, zooms, shakes or glitches in any sampled frame (seen). The host's hands are the
   motion.
-- **Structural silence.** Every story or chapter ends on its last line, then a gap of 2.5-6.2
+- Structural silence. Every story or chapter ends on its last line, then a gap of 2.5-6.2
   seconds, dropping to −43 to −65 LUFS (measured, matched to transcript in all three).
 - **The loudest window is the climax of the story,** 4.8-7.6 LU over the median: the killer's name
   (QfxhFa5hEX8 32:22), a chase (R4G4tiPTTDM 30:10), an acted shout (VGiLQIzQW2Q 16:44) (measured,
   matched to transcript).
-- **A tight level:** −16.4 to −16.9 LUFS integrated (measured).
-- **The same outro:** thanks, a request for comments, a pointer to a playlist or pick on the end
+- A tight level: −16.4 to −16.9 LUFS integrated (measured).
+- The same outro: thanks, a request for comments, a pointer to a playlist or pick on the end
   screen (transcript, all three).
 
 ## Outlier against control (every causal claim is a hypothesis)
@@ -92,26 +92,26 @@ Hypotheses:
    tags, so the bed's presence does not track views here.
 
 ## Sound and music profile
-- **Level:** −16.4 to −16.9 LUFS (measured), the tightest spread of any niche in this batch, 2-3 LU
+- Level: −16.4 to −16.9 LUFS (measured), the tightest spread of any niche in this batch, 2-3 LU
   under the −14 reference. A new channel should still mix to −14 (knowledge chapter default).
-- **Range:** 5.0-8.2 LU (measured), wider than tech news (2.4-3.2) because the voice itself swings
+- Range: 5.0-8.2 LU (measured), wider than tech news (2.4-3.2) because the voice itself swings
   from a murmur to an acted shout (inferred from the loudest windows' transcript lines).
-- **Silence as structure:** 2-6 gaps of 1.5s or more per video, placed after the last line of a
+- Silence as structure: 2-6 gaps of 1.5s or more per video, placed after the last line of a
   story or chapter, often with a black frame (measured, seen). The chapter's "hard cut to silence"
   and "silence for weight" rows, used as chapter punctuation.
-- **Silence before a reveal:** short gaps of 0.4-0.9s cluster in the 10 seconds before a character
+- Silence before a reveal: short gaps of 0.4-0.9s cluster in the 10 seconds before a character
   notices something (R4G4tiPTTDM 14:24-14:34 and 20:41-20:52) and at the moment a victim is last
   heard from (QfxhFa5hEX8 5:31) (measured, matched to transcript).
-- **The bed comes and goes.** In the control, minutes with [music] tags have no silences and minutes
+- The bed comes and goes. In the control, minutes with [music] tags have no silences and minutes
   without tags have many (measured). QfxhFa5hEX8 has the fewest tags and the most silences; R4G4tiPTTDM
   the reverse (measured). Silence count is a usable proxy for "music under the voice" (inferred).
   This matches the chapter's true-crime row: a sparse dark bed, long stretches without music.
-- **Stings mid-sentence:** `>> [music] >>` inside sentences at key lines, for example before "Who
+- Stings mid-sentence: `>> [music] >>` inside sentences at key lines, for example before "Who
   is Pan?" (VGiLQIzQW2Q 21:24) (transcript), point to short accents rather than a wall of music
   (inferred).
-- **No beat editing:** tempo confidence 0.17-1.02 with per-minute readings all over the range
+- No beat editing: tempo confidence 0.17-1.02 with per-minute readings all over the range
   (measured). Cuts follow the story.
-- **Timbre:** brightness medians 899-1046 Hz, bass share 0.18-0.26 (measured), brighter than the
+- Timbre: brightness medians 899-1046 Hz, bass share 0.18-0.26 (measured), brighter than the
   documentary niche (742-825 Hz), consistent with a close, present voice on top (inferred).
 
 ## Steal list

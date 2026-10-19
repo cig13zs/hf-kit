@@ -55,7 +55,7 @@ seen). Captions change about once a second, as elsewhere on the channel (seen).
 - Captions: white bold rounded sans, sentence case, soft shadow, centred near 78% height (seen).
 - Glow highlights: cyan on the drawn strokes, yellow outline lines on the printer parts
   (0:16.0), white bloom on the bolt in the film frame (0:19-0:21) (seen).
-- **Measurement callout:** a red dimension line with "33 inch" above the model (0:24-0:25),
+- Measurement callout: a red dimension line with "33 inch" above the model (0:24-0:25),
   the only data graphic (seen).
 - Brand text partly legible on the printer bench (seen, 0:14.5).
 
@@ -70,17 +70,17 @@ seen). Captions change about once a second, as elsewhere on the channel (seen).
   not lift the 2-second readings (measured), so any hit there is short or absent (inferred).
 - Speech is an even 160 wpm from start to end (derived): no acceleration into the reveal and
   no slow-down for the payoff.
-- **Music block:** brightness and bass share stay flat across all four 10-second windows,
+- Music block: brightness and bass share stay flat across all four 10-second windows,
   and there are no caption [music] tags (measured). Unlike the drift Short, nothing in the
   spectrum changes at the reveal (inferred from the flat values).
 
 ## 8. Retention mechanics: why
-- **Frame-1 action.** The drawing hand starts the story at once. Job: setting the rhythm.
-- **Zoom-throughs.** Flying into the film strip explains "photographed onto film" without a
+- Frame-1 action. The drawing hand starts the story at once. Job: setting the rhythm.
+- Zoom-throughs. Flying into the film strip explains "photographed onto film" without a
   word of setup. Jobs: clarifying and resetting attention.
-- **White flash then model reveal.** The one surprise, marked by the one flash. Job: showing
+- White flash then model reveal. The one surprise, marked by the one flash. Job: showing
   a payoff.
-- **Audience pull-back.** It tells the viewer why this shot mattered. Job: payoff, and a
+- Audience pull-back. It tells the viewer why this shot mattered. Job: payoff, and a
   little awe.
 - What it doesn't do: no personal stake, no question held open, no turn. The process is the
   whole story, so attention rests on novelty alone (inferred).

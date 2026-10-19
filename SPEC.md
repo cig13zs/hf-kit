@@ -7,19 +7,19 @@ instead of plain ffmpeg cuts. Every technique traces to the measured research in
 describe.
 
 ## Rules
-- **HyperFrames version.** Target 0.8.77: `npx hyperframes@0.8.77 <command>` or a local install
+- HyperFrames version. Target 0.8.77: `npx hyperframes@0.8.77 <command>` or a local install
   of that version. `lint`, `check`, `snapshot`, `compositions`, `timeline` and `render` are
   all the kit needs. Nothing in the kit calls the network-backed commands (`add`, `catalog`,
   `capture`, `tts`, `transcribe`, `remove-background`).
-- **GSAP.** Load it only from `https://cdn.jsdelivr.net/npm/gsap@3.14.2/dist/<file>`, pinned, the
+- GSAP. Load it only from `https://cdn.jsdelivr.net/npm/gsap@3.14.2/dist/<file>`, pinned, the
   same as the official examples. Use GSAP plugins only if they're in that CDN path, such as Flip.
-- **Reference.** The composition contract lives in the HyperFrames skills: `hyperframes-core`
+- Reference. The composition contract lives in the HyperFrames skills: `hyperframes-core`
   (with its references on minimal compositions, sub-compositions, variables and media, data
   attributes and determinism), `hyperframes-animation`, and `hyperframes-audio` for sound. If
   this spec and those docs disagree on HyperFrames syntax, the docs win.
-- **Determinism.** No `Math.random` without a seed, no wall-clock time, no network fetches in blocks.
+- Determinism. No `Math.random` without a seed, no wall-clock time, no network fetches in blocks.
   Visual state is a pure function of timeline time.
-- **Code.** No build step and no npm installs. Python tools use the stdlib, numpy and Pillow
+- Code. No build step and no npm installs. Python tools use the stdlib, numpy and Pillow
   (plus pytesseract for `research/measure.py`). Comments state constraints only.
 
 ## Layout
@@ -46,17 +46,17 @@ skills/hf-kit/SKILL.md   the workflow as an agent skill
 Each block is one sub-composition file: `<template>` transport, root `#root` with
 `data-composition-id="<name>"`.
 
-- **Scoping.** The runtime rewrites `#root` and `[data-composition-id]` per instance.
+- Scoping. The runtime rewrites `#root` and `[data-composition-id]` per instance.
   - Style the block box as plain `#root { }`, or `#root.some-class` for a state, and every
     descendant with a plain selector (`.label { }`). The runtime prefixes the instance scope.
   - Never write the compound `#root[data-composition-id="x"]`. It passes lint and then renders
     the block completely unstyled.
   - In scripts, `document.querySelector('#root')` resolves to this instance's root.
 
-- **Variables.** Declare every tunable on `<html>` with `data-composition-variables`: text, numbers,
+- Variables. Declare every tunable on `<html>` with `data-composition-variables`: text, numbers,
   timings in seconds, and colour overrides. Read them once with
   `window.__hyperframes.getVariables()`. Defaults must render a sensible demo.
-- **Tokens.** Colours and fonts come from inherited CSS custom properties with fallbacks, so a
+- Tokens. Colours and fonts come from inherited CSS custom properties with fallbacks, so a
   style can theme every block at once:
   - `--hk-bg` `#0b0f14`, `--hk-ink` `#f5f5f0`, `--hk-paper` `#f3efe4`;
   - `--hk-accent` `#ffd23f`, `--hk-positive` `#39ff6a`, `--hk-negative` `#ff4d4d`;
@@ -65,13 +65,13 @@ Each block is one sub-composition file: `<template>` transport, root `#root` wit
     `--hk-font-body` `"Inter", system-ui, sans-serif`.
 
   A colour variable, when set, overrides the token.
-- **Aspect ratio.** Size with `%`, `vmin` or container units, so the same block works at 1920×1080
+- Aspect ratio. Size with `%`, `vmin` or container units, so the same block works at 1920×1080
   and 1080×1920. Shorts-only blocks say so in the catalog.
 - **Header comment,** at the top of `<template>`, in 4 lines at most: what it does; its source (the
   niche sheet and steal-list row); when it works and when it backfires, from that row; and its
   variables.
 - **Timing** comes from the steal-list recipe: its ease, duration and stagger. Keep the numbers.
-- **Example.** Each block has a demo project at `examples/<name>/`: `index.html` hosts the block
+- Example. Each block has a demo project at `examples/<name>/`: `index.html` hosts the block
   through `data-composition-src="compositions/<name>.html"` with sample values, and a copy of the
   block sits in `examples/<name>/compositions/`. It runs 3-8 s at 1920×1080; Shorts blocks run at
   1080×1920. `npx hyperframes lint examples/<name>` must pass, and a snapshot should be checked by

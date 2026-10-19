@@ -61,10 +61,10 @@ None seen besides hard swaps of the lower panel.
 - Music block: tempo estimate 129.2 BPM at confidence 2.34, brightness 1056 Hz, bass share 0.03, no caption [music] tags; cuts-on-onsets lift not computed (measured).
 
 ## 8. Retention mechanics: why
-- **Topic banner from frame 1.** The banner names the subject before the voice does, which
+- Topic banner from frame 1. The banner names the subject before the voice does, which
   partly rescues the vague opening line. Job: clarifying.
-- **Regular post swaps.** A new screenshot every 3.4-4 seconds. Job: resetting attention.
-- **Comment bait at the end.** It invites argument in the comments (0.25% of views,
+- Regular post swaps. A new screenshot every 3.4-4 seconds. Job: resetting attention.
+- Comment bait at the end. It invites argument in the comments (0.25% of views,
   measured), but it gives the viewer no payoff to watch for (inferred).
 - What's missing: a result, a demonstration, or a stake that touches most viewers.
 
@@ -73,13 +73,13 @@ Outliers: rssMorwX9Ws (3.63×, a how-to) and 2n1rIXEeybM (2.37×, a regional ban
 share the face-plus-screenshot template, condensed captions, speech from 0.0s at 215-305
 wpm, flat mixes with no silences, and no gameplay. What the outliers do that this one
 doesn't, all hypotheses:
-- **Name the stake in the first sentence.** Both outliers state the whole claim in line 1;
+- Name the stake in the first sentence. Both outliers state the whole claim in line 1;
   this one teases and names it later.
-- **Reach most players.** A trick anyone can use, or a ban affecting many kids, against a
+- Reach most players. A trick anyone can use, or a ban affecting many kids, against a
   perk for paying subscribers.
-- **Show a result or evidence.** The old logo appearing, or kids at a TV, against key art
+- Show a result or evidence. The old logo appearing, or kids at a TV, against key art
   for an event not yet out.
-- **A title with a topic.** Both outlier titles name the thing; "oh no" doesn't.
+- A title with a topic. Both outlier titles name the thing; "oh no" doesn't.
 This video has the fastest cuts (16/min) and the most even rhythm in the niche, yet the
 fewest views, so cut rate isn't the lever here (measured; causal reading is a hypothesis).
 It also has the highest likes per view (2.4% against 1.7-2.1%, measured): its narrower

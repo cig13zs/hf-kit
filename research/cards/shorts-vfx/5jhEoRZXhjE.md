@@ -66,37 +66,37 @@ seen), and visual energy is low at 0.79 (measured): the viewer gets time to see 
   101.5 onsets/min (measured). Sound runs through the whole silent-dialogue half: music,
   spray and footsteps are the likeliest candidates (inferred).
 - **A caption [music] tag at 13.1s** (measured), right as the guard appears.
-- **Loudness follows the story:** the loudest readings are the confrontation (−12.1 at
+- Loudness follows the story: the loudest readings are the confrontation (−12.1 at
   12-14s), then about 9 LU down for the balloon and the escape (−21.7 at 20s) (measured).
-- **The ending gets darker and bassier:** brightness falls from about 1530 Hz to 348 Hz and
+- The ending gets darker and bassier: brightness falls from about 1530 Hz to 348 Hz and
   bass share triples to 0.36 in the last window (measured). A low, soft ending (a
   pad, a boom tail or a muffled mix) is the likely source (inferred; can't be heard here).
 - LRA 8.4 LU: far more dynamic than the talk Shorts in this batch (1.0-5.8, measured).
 
 ## 8. Retention mechanics: why
-- **A famous image in 3 seconds.** Recognition is instant and needs no language, so it
+- A famous image in 3 seconds. Recognition is instant and needs no language, so it
   works for any viewer anywhere. Job: building identity with a shared reference.
-- **No words for 13 seconds.** The picture carries everything, and the sound fills the air.
+- No words for 13 seconds. The picture carries everything, and the sound fills the air.
   Job: clarifying, by leaving the eye free to watch the trick.
-- **The trick at 7s.** The impossible thing arrives before the viewer's patience runs out.
+- The trick at 7s. The impossible thing arrives before the viewer's patience runs out.
   Job: showing a payoff.
-- **The guard at the midpoint.** The Short changes from "look at this" to "will he get
+- The guard at the midpoint. The Short changes from "look at this" to "will he get
   away", with the loudest moment. Job: building tension, and resetting attention.
-- **The second trick as the exit.** The balloon floats away as the loudness drops: a quiet,
+- The second trick as the exit. The balloon floats away as the loudness drops: a quiet,
   poetic payoff that echoes the artwork. Job: showing a payoff, with an emotional note.
-- **Steady camera.** Low visual energy lets the viewer check the trick frame by frame, which
+- Steady camera. Low visual energy lets the viewer check the trick frame by frame, which
   invites rewatches (inferred).
 
 ## 9. Outlier against control
 Control: "The floating tree illusion" (tOIFZ8O6Ezk, 1.08×). Shared: zero cuts, a handheld
 single-take look, the creator as performer, no captions, practical-looking effects.
 Differences, all hypotheses:
-- **A borrowed icon.** A famous artwork and a celebrity mystery, against an original gag.
+- A borrowed icon. A famous artwork and a celebrity mystery, against an original gag.
 - **Two transformations on camera** (flat to real, image to object), against an impossible
   state that is already there in frame 1.
 - **A chase in the middle,** against a single fall at the end.
-- **Calmer camera:** visual energy 0.79 against 1.34 (measured).
-- **Much lower likes per view:** 0.51% against 1.47% (measured). The views probably came from
+- Calmer camera: visual energy 0.79 against 1.34 (measured).
+- Much lower likes per view: 0.51% against 1.47% (measured). The views probably came from
   far outside the creator's audience (inferred).
 This video is two months older than the control, so part of the gap is time (inferred).
 

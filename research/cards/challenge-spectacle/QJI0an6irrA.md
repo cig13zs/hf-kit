@@ -54,14 +54,14 @@ The escalation is elimination: the badge counts 30, 27, 26, 21, 19, 18, 15, 12, 
   (seen throughout).
 - **Overhead top-down shots** of the circle and the games (0:28.5-0:29.5, 4:41, 28:38, 29:40,
   seen), which make the spatial rule readable.
-- **The densest talk of the batch:** 193 wpm (measured), from many overlapping celebrities
+- The densest talk of the batch: 193 wpm (measured), from many overlapping celebrities
   (">>" turns in the transcript, seen).
 - The final two minutes turn into a trailer at 47 cuts/min and 3.9-4.4 visual energy (measured).
 
 ## 5. Graphics and animation
 - **Neon name tags** in green with a dark outline, over a red circular vignette (0:01.5-0:07.5,
   seen), and **name-and-title lower thirds** in the same style later ("YVONNE ORJI", 5:43, seen).
-- **A remaining-count badge:** a star-burst with a white number, top left, on most frames after
+- A remaining-count badge: a star-burst with a white number, top left, on most frames after
   0:25 (seen).
 - **Portrait tiles** that black out as people are eliminated (13:00, seen).
 - **Timers and scores** on screen during the cooking game ("42:49", "7:00", and judges' cards
@@ -77,17 +77,17 @@ spinning top-down shot of a red set appears once (27:35, seen). No whips, flashe
 were seen in the sampled cuts.
 
 ## 7. Sound (measured, or inferred from transcript)
-- **Loud, flat, gap-free:** −6.6 LUFS, LRA 3.6 LU, zero silences over 0.4s in 41 minutes
+- Loud, flat, gap-free: −6.6 LUFS, LRA 3.6 LU, zero silences over 0.4s in 41 minutes
   (measured).
-- **A slow drift down.** Per-minute medians sit mostly at −5.6 to −6.8 in the first 18 minutes
+- A slow drift down. Per-minute medians sit mostly at −5.6 to −6.8 in the first 18 minutes
   (one −7.8 in 7:00-8:00) and mostly −6.8 to −8.2 after (measured), then jump back to −5.5 for
   the trailer (measured).
-- **Quiet only at the decisions:** the quietest window, 36:00 (−16.4), is the briefcase choice
+- Quiet only at the decisions: the quietest window, 36:00 (−16.4), is the briefcase choice
   ("Which number speaks to you?"), and 31:44-31:52 follows the first final spot being secured
   (measured, transcript). A hush for the high-stakes choice (inferred).
-- **Loud on physical comedy:** 29:40 (asking for a clown, a wrestling bit) and 23:52 (scores
+- Loud on physical comedy: 29:40 (asking for a clown, a wrestling bit) and 23:52 (scores
   revealed) (measured, transcript).
-- **Music between the talk:** 53 [music] tags spread through the whole video (measured), so
+- Music between the talk: 53 [music] tags spread through the whole video (measured), so
   short music-only gaps punctuate the games (inferred). [screaming] (13) and [cheering] (3) tags
   mark eliminations and wins, including 40:18-40:29 at the final steal (measured, transcript).
 - Cuts land on onsets at chance (lift 1.02, measured).
@@ -96,15 +96,15 @@ were seen in the sampled cuts.
   game the host calls the most brutal thing filmed in Beast Games season 1 (measured, transcript).
 
 ## 8. Retention mechanics: why
-- **A roll call of faces.** Six stars named in seven seconds. The job is delivering proof that
+- A roll call of faces. Six stars named in seven seconds. The job is delivering proof that
   the title is true.
-- **The remaining-count badge.** A number that only goes down tells the viewer how far through
+- The remaining-count badge. A number that only goes down tells the viewer how far through
   the video they are. The job is setting the rhythm, like a progress bar.
-- **Games as mini-episodes.** Each game has its own rule, its own stake and its own
+- Games as mini-episodes. Each game has its own rule, its own stake and its own
   eliminations. The job is resetting attention every 2-8 minutes.
-- **Charity stakes.** The money goes to a cause, which makes the contestants' effort
+- Charity stakes. The money goes to a cause, which makes the contestants' effort
   sympathetic. The job is building identity (inferred).
-- **The steal-or-keep final.** A choice rather than a physical feat ends the video. The job is
+- The steal-or-keep final. A choice rather than a physical feat ends the video. The job is
   building tension at the end.
 
 ## 9. Outlier against control

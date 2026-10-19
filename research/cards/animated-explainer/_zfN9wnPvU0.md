@@ -60,12 +60,12 @@ opens the loop the reveal closes; "Which brings us to the last part" (7:30) sign
 ending. There is no sponsor read (seen in the transcript).
 
 ## 4. Editing style
-- **Long continuous shots in the hook, faster late.** 15-60s runs at 2.7 cuts/min, the lowest
+- Long continuous shots in the hook, faster late. 15-60s runs at 2.7 cuts/min, the lowest
   segment, while the last minute runs at 12 (measured). The last-minute burst is a run of
   about 7 shots in 7s from 8:59.9 to 9:07.2: raw animation-software screens and soundtrack
   album covers ("Original Motion Picture Soundtrack", seen) under "put our creative soul into
   our work" (9:05, seen). The montage works as proof of the human labour just claimed (inferred).
-- **Scene changes land on sound more than chance:** 37.5% of cuts fall within 60 ms of an
+- Scene changes land on sound more than chance: 37.5% of cuts fall within 60 ms of an
   audio onset against 27.7% expected, lift 1.35 (measured). The pilot's lift is 0.78, so this
   video syncs cuts to hits more (inferred: cuts or whooshes placed together).
 - Inside a scene the camera still moves: pushes, the goo spread, the globe turning into a
@@ -75,7 +75,7 @@ ending. There is no sponsor read (seen in the transcript).
 - House style: flat vector, deep purple and navy grounds (seen). **Colour-coded sides:** AI is
   neon green (a glowing alien head, green slime, green "Sorry, you're right!" bubble at 6:17);
   humans and the channel's birds are blue, orange and pink (seen).
-- **Two kinds of type.** Kinetic neon line cards repeat the narration word for word
+- Two kinds of type. Kinetic neon line cards repeat the narration word for word
   ("CONFIDENTLY INCORRECT" at 2:44 pre-cut; "THE MOST CORROSIVE LIE" at 6:02; heavy rounded
   display face, all caps, purple-to-magenta fill, seen). Small pill labels name things
   ("Brown Dwarf 2.0", "Non-Recyclables", "Script Writing", seen).
@@ -96,13 +96,13 @@ ending. There is no sponsor read (seen in the transcript).
   topic is digital decay. The "glitch" job is done by the goo instead (inferred).
 
 ## 7. Sound (measured only)
-- **Flat bed:** LRA 2.2 LU and per-minute means within 0.8 LU from 0:00 to 9:00 (measured),
+- Flat bed: LRA 2.2 LU and per-minute means within 0.8 LU from 0:00 to 9:00 (measured),
   the same as the pilot's.
-- **No silences until the end**: the only two fall at 9:48.9 and 9:50.5 (measured).
-- **One dip at the pivot:** −18.0 LUFS at 8:18, 2.3 LU under the −15.7 median, between "We
+- No silences until the end: the only two fall at 9:48.9 and 9:50.5 (measured).
+- One dip at the pivot: −18.0 LUFS at 8:18, 2.3 LU under the −15.7 median, between "We
   don't want to play this game" and "How will we use AI?" (measured dip; that it is a pause
   or a music pull is inferred from the transcript).
-- **Dark, bass-heavy tail:** the last 10s window has bass share 0.88 and brightness 476 Hz,
+- Dark, bass-heavy tail: the last 10s window has bass share 0.88 and brightness 476 Hz,
   against medians of 0.27 and 1014 Hz, while the level falls from −22 to −47 LUFS (measured).
   This fits a low music outro under the end card (inferred).
 - **[music] tags** run the whole length at 3.3/min from 0.2s (measured), so music is
@@ -110,18 +110,18 @@ ending. There is no sponsor read (seen in the transcript).
 - Onsets 96/min (measured), a proxy for dense sound design under narration.
 
 ## 8. Retention mechanics: why
-- **Enemy on screen before the first sentence ends.** The photoreal pile-up shows the
+- Enemy on screen before the first sentence ends. The photoreal pile-up shows the
   problem in 5s. This is proof and identity: slop looks unlike Kurzgesagt art.
-- **A number that moves.** The bot share counts up at 0:19. The first fact becomes an event,
+- A number that moves. The bot share counts up at 0:19. The first fact becomes an event,
   so it is proof and a reset in one.
-- **A first-person experiment.** "We" test AI on a fake project and catch it lying. A
+- A first-person experiment. "We" test AI on a fake project and catch it lying. A
   protagonist with stakes turns a rant into a story with a payoff at 5:06-5:30. This is the
   job of tension, then payoff. It matches the pilot: a person doing something risky.
-- **Credibility before criticism.** The "100 hours per video" block (2:06) comes before the
+- Credibility before criticism. The "100 hours per video" block (2:06) comes before the
   attack on AI accuracy, so the channel has earned the right to judge (inferred). Proof.
-- **Line cards on the key lines.** "Confidently incorrect" and "The most corrosive lie" are
+- Line cards on the key lines. "Confidently incorrect" and "The most corrosive lie" are
   spoken and shown at once. This clarifies and resets attention about every 3 minutes.
-- **The channel's own survival as the last act.** "Will Kurzgesagt survive" (7:35) asks the
+- The channel's own survival as the last act. "Will Kurzgesagt survive" (7:35) asks the
   viewer to take a side, which the support ask then cashes in (inferred). Identity.
 
 ## 9. Outlier against control

@@ -52,9 +52,9 @@ finish (inferred from the transcript's repeated pattern). "Hey, you might want t
 look" (2:20) and "the tide suddenly strongly" turning (7:37) are the setback turns (seen).
 
 ## 4. Editing style
-- **Constant cutting.** A 1.0s median shot and 31-60 cuts in every minute, including the ad
+- Constant cutting. A 1.0s median shot and 31-60 cuts in every minute, including the ad
   minute (59 in the last minute) (measured). There is no slow section.
-- **A four-camera grammar:** a wide of the arena, robot-level and onboard cameras, top-down or
+- A four-camera grammar: a wide of the arena, robot-level and onboard cameras, top-down or
   drone shots of the floor, and reaction shots from the control booths (seen at 1:39, 5:27,
   5:56, 6:24, 7:50, 8:18, 12:06, 17:20). Most cut pairs go from action to reaction or from wide
   to close (cut pairs 1:13, 5:57, 13:49, 17:42, seen).
@@ -64,14 +64,14 @@ look" (2:20) and "the tide suddenly strongly" turning (7:37) are the setback tur
   transcript). It works as sports commentary laid on after the fact (inferred).
 
 ## 5. Graphics and animation
-- **3D holographic arena:** a translucent 3D arena with portrait pins over each robot's start
+- 3D holographic arena: a translucent 3D arena with portrait pins over each robot's start
   point and the two channel logos (0:16.5-0:19, 3:33, seen).
-- **A flat mechanism diagram:** a top-down flat illustration of a robot's mechanism with a
+- A flat mechanism diagram: a top-down flat illustration of a robot's mechanism with a
   yellow cable (14:57, seen).
 - **A "ROBOT BATTLE" logo sting** with coloured smoke (0:12, seen) and the logo printed on the
   arena floor (seen throughout).
 - **A score bug** "3" beside a Dude Perfect logo during the mini-games (9:44, seen).
-- **Sponsor graphics:** a QR code with "SCAN ME" and the crunchlabs.com URL (18:45, seen).
+- Sponsor graphics: a QR code with "SCAN ME" and the crunchlabs.com URL (18:45, seen).
 - No captions and no lower thirds (text share 3%, seen).
 
 ## 6. VFX and transitions
@@ -80,7 +80,7 @@ lasers, fire, sparks and water (seen). The logo sting at 0:12 acts as a title tr
 No whips, glitches or zoom-throughs were seen in the sampled frames.
 
 ## 7. Sound (measured, or inferred from transcript)
-- **A wall of sound.** −7.5 LUFS integrated with a 1.7 LU loudness range (measured). Every
+- A wall of sound. −7.5 LUFS integrated with a 1.7 LU loudness range (measured). Every
   minute's median sits within 1 LU of the others, and even the quietest stretches (trash talk
   at 0:40-0:48) are only 2.5 LU below (measured). This is a heavily compressed, limited mix.
   YouTube turns it down at playback (knowledge chapter), so its loudness buys density, not
@@ -92,26 +92,26 @@ No whips, glitches or zoom-throughs were seen in the sampled frames.
   raised voices over the fights (inferred).
 - Onsets 65/min is the lowest in this niche (measured). In a mix this compressed the detector
   finds fewer distinct transients (inferred), so it may undercount sound design here.
-- **Bright, and not beat-cut.** Brightness median 1357 Hz, the brightest of the three videos in
+- Bright, and not beat-cut. Brightness median 1357 Hz, the brightest of the three videos in
   this niche, and bass share 0.19 (measured): voices, crowd and metal on metal over a light low
   end (inferred). Cuts land on onsets at chance (lift 1.03, measured), so even at 48 cuts per
   minute the cutting follows the fight, not a track.
 
 ## 8. Retention mechanics: why
-- **One against five, no rules, a forfeit.** Three stakes in the first 36 seconds give every
+- One against five, no rules, a forfeit. Three stakes in the first 36 seconds give every
   round a reason to matter. The job is building tension.
-- **A trailer hook.** The first 30 seconds preview fire, smashes and reactions from later
+- A trailer hook. The first 30 seconds preview fire, smashes and reactions from later
   rounds. The job is showing a payoff first.
-- **A bracket.** Five opponents give the viewer a visible count of what is left. The job is
+- A bracket. Five opponents give the viewer a visible count of what is left. The job is
   setting the rhythm and resetting attention every 2-4 minutes.
-- **The gadget reveal in every round.** A hidden bayonet in the "mustache", a squirrel ruse,
+- The gadget reveal in every round. A hidden bayonet in the "mustache", a squirrel ruse,
   cryogenic valves against fire. Each reveal is a small engineering lesson. The job is
   clarity disguised as spectacle (inferred).
-- **Reaction cuts.** The booth shots tell the viewer how to feel about each hit. The job is
+- Reaction cuts. The booth shots tell the viewer how to feel about each hit. The job is
   building identity: two friendly rival brands trash-talking.
-- **The ad as a game.** The sponsor slot is a five-round toy contest with a score, inside the
+- The ad as a game. The sponsor slot is a five-round toy contest with a score, inside the
   story (8:49-10:08). The job is keeping viewers through the ad (inferred).
-- **Paying off the forfeit.** The losers redecorate on camera (17:45). The job is showing a
+- Paying off the forfeit. The losers redecorate on camera (17:45). The job is showing a
   payoff for the promise made at 0:31.
 
 ## 9. Outlier against control

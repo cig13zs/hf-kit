@@ -47,13 +47,13 @@ chart held up (0:56-1:02) (seen in transcript and frames). It ends on a complete
 about chronic disease, with no cliffhanger and no end card (seen).
 
 ## 4. Editing style
-- **Hold, then cut.** The first 6 seconds are one static split. The 15.5-second hold on the
+- Hold, then cut. The first 6 seconds are one static split. The 15.5-second hold on the
   guest's story (0:09-0:24) lets the gestures play. Then 8 cuts in 17 seconds (0:34-0:51)
   once the claim gets strong (measured cut times).
-- **Several angles on the guest:** a medium shot at the table, a closer medium, and a tight
+- Several angles on the guest: a medium shot at the table, a closer medium, and a tight
   side angle (0:24.5-0:29.5, 0:34.3-0:36.4, 0:47.3-0:50.4) (seen). These look like real
   camera angles, not digital punch-ins (inferred from the change of angle, not just scale).
-- **Reaction cutaways with L-cuts:** the host's listening face is shown while the guest's
+- Reaction cutaways with L-cuts: the host's listening face is shown while the guest's
   words keep running, captioned in the guest's white (seen at 0:38.0-0:45.7).
 - Cuts mostly land mid-sentence on the guest's phrasing (cut sheet, seen), yet 71% of them
   sit within 0.06s of an audio onset, 2.26 times chance (measured). In a speech-only clip
@@ -90,15 +90,15 @@ b-roll inserts (seen in all overview frames). The like sticker is the only anima
 - **Cuts on onsets, lift 2.26** (measured): see section 4.
 
 ## 8. Retention mechanics: why
-- **Question card plus credential in frame 1.** The viewer knows the topic and why to trust
+- Question card plus credential in frame 1. The viewer knows the topic and why to trust
   the speaker before a word lands. Job: clarifying.
-- **A lived story before the science.** The day-3 wall is concrete and physical, told with
+- A lived story before the science. The day-3 wall is concrete and physical, told with
   gestures in one held shot. Jobs: building tension, and relatability.
-- **Held shot, then fast cutting.** Pace rises as the claims get stronger. Job: setting the
+- Held shot, then fast cutting. Pace rises as the claims get stronger. Job: setting the
   rhythm; the fast section also resets attention at the 30-second mark.
-- **Reaction cutaways.** The host's face models the viewer's reaction to a strong claim.
+- Reaction cutaways. The host's face models the viewer's reaction to a strong claim.
   Job: building identity with the host's point of view.
-- **Like prompt at 7.5s.** It asks early, while attention is highest (inferred).
+- Like prompt at 7.5s. It asks early, while attention is highest (inferred).
 - Pacing here is a choice for a trusting audience: the video isn't fast at the start.
 
 ## 9. Outlier against control
@@ -109,8 +109,8 @@ hypotheses:
   public figure.
 - **Credential label in frame 1** against small role tags that appear from 0:25.
 - **One guest, one continuous line of thought** against a panel of five voices.
-- **Cuts on word starts:** lift 2.26 against the control's 0.59 (measured).
-- **No sag at the end:** after 0:13 this video has one pause over 0.4s; the control has 16
+- Cuts on word starts: lift 2.26 against the control's 0.59 (measured).
+- No sag at the end: after 0:13 this video has one pause over 0.4s; the control has 16
   pauses after 0:40, and its visual energy falls by almost half in the last 24 seconds (measured).
 Upload age favours this video (2 months against 8 days, measured), so part of the 27×
 ratio is time (inferred).

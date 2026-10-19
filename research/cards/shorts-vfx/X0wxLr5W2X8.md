@@ -67,7 +67,7 @@ eye level at 0:05.4-0:05.8 (inferred).
   (`knowledge/music-and-mood.md` §4.3, third-party source), so it would play very quietly
   (inferred). The −33.9 LUFS value was verified on a fresh download (measured).
 
-- **Almost half of it is silence:** 5 silences cover 46% of the runtime, all from 2.4s on,
+- Almost half of it is silence: 5 silences cover 46% of the runtime, all from 2.4s on,
   with the longest (1.44s and 1.95s) in the cake reveal at 8-14s (measured). Those gaps sit
   around the reaction beats in the transcript (inferred), which is comic timing: pause,
   reveal, pause.
@@ -76,15 +76,15 @@ eye level at 0:05.4-0:05.8 (inferred).
 - Music block: tempo estimate 103.4 BPM at confidence 1.09, brightness 1939 Hz, bass share 0.161, no caption [music] tags; cuts-on-onsets lift not computable (measured).
 
 ## 8. Retention mechanics: why
-- **A question to the viewer in 2 seconds.** A guessing game starts the viewer's own
+- A question to the viewer in 2 seconds. A guessing game starts the viewer's own
   prediction, so they have to watch to check it. Job: building tension.
-- **Three reversals in 12 seconds.** Each answer breaks the last prediction. Job: resetting
+- Three reversals in 12 seconds. Each answer breaks the last prediction. Job: resetting
   attention every 3-4 seconds.
-- **The creator as the victim.** The joke lands on him (fake hand, cake in the face). Job:
+- The creator as the victim. The joke lands on him (fake hand, cake in the face). Job:
   building identity through self-deprecation.
-- **Silence around the reveals.** Pauses let the absurdity register. Job: setting the rhythm,
+- Silence around the reveals. Pauses let the absurdity register. Job: setting the rhythm,
   by holding the beat instead of filling it.
-- **Short enough to rewatch.** 14 seconds and a trick you want to check (inferred;
+- Short enough to rewatch. 14 seconds and a trick you want to check (inferred;
   replays aren't measured).
 
 ## 9. Outlier against control
@@ -93,9 +93,9 @@ take, the creator as performer, 11-14 seconds. Differences, all hypotheses:
 - **The viewer is asked to guess** against a title that calls its own trick an illusion.
 - **A known trend format** against an original setup.
 - **Three reversals** against one fall.
-- **A calm camera:** visual energy 0.68 against 1.34 (measured).
-- **Silence as timing:** 46% silent against none (measured).
-- **Much lower likes per view:** 0.59% against 1.47% (measured), which points to reach far
+- A calm camera: visual energy 0.68 against 1.34 (measured).
+- Silence as timing: 46% silent against none (measured).
+- Much lower likes per view: 0.59% against 1.47% (measured), which points to reach far
   beyond the fan base (inferred).
 The control went up 6 weeks earlier, so age doesn't explain this gap.
 

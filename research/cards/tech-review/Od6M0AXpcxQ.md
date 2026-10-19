@@ -66,20 +66,20 @@ The ending pays off twice: the price is "lower than I thought" (15:13-15:16), an
 sponsor comes after all the content.
 
 ## 4. Editing style
-- **A-roll and b-roll alternation.** Features are shown on hands-on b-roll: macro close-ups,
+- A-roll and b-roll alternation. Features are shown on hands-on b-roll: macro close-ups,
   shallow depth of field, hands turning the phone. Opinions go to camera (seen, overview).
   The feature run at 1-3 minutes cuts 9.0 times a minute, and the opinion stretches drop to
   4.5 (measured).
-- **B-roll lands under continuous talk.** 24% of cuts fall in a caption gap of 0.6s or more,
+- B-roll lands under continuous talk. 24% of cuts fall in a caption gap of 0.6s or more,
   while 32% of the speech span is such a gap, a lift of 0.76. Cuts avoid pauses and sit
   mid-sentence (measured, approximate caption timings). The talking-head audio carries on
   over the b-roll; the cut pairs at 8:00.9 and 12:39.2 go from face to phone mid-line (seen).
   This is an L-cut workflow.
-- **The cut lands on the reveal phrase.** The 52-second take from 3:14 ends with a cut at
+- The cut lands on the reveal phrase. The 52-second take from 3:14 ends with a cut at
   4:06.45, 0.6s after "The first folding iPhone" begins (measured against the transcript).
-- **A macro cut-in on the named part:** the camera module goes from medium to macro across
+- A macro cut-in on the named part: the camera module goes from medium to macro across
   the cut at 1:35.8/1:36.0 (seen).
-- **Long takes for judgement.** The verdict runs 103.6s without a cut (13:59.6-15:43.2), and
+- Long takes for judgement. The verdict runs 103.6s without a cut (13:59.6-15:43.2), and
   it is the lowest visual-energy minute (0.21) (measured). No punch-ins were seen inside the
   0:11-0:29 take (the framing is constant in the hook sheet).
 
@@ -89,7 +89,7 @@ sponsor comes after all the content.
 - An "AD" label sits bottom-left through the sponsor segment, over a thin bar along the
   bottom edge (seen 16:09-17:01; that the bar is a segment timer is inferred).
 - One full-frame product render on white for the AirPods tease (15:43.5, seen).
-- **Colour system:**
+- Colour system:
   - the A-roll is warm tungsten: a hotel-style room with lamps and a dark headboard;
   - the event b-roll is bright and neutral;
   - the studio product b-roll uses a saturated magenta backdrop (6:40, 12:42).
@@ -102,53 +102,53 @@ sponsor comes after all the content.
 - The polish is photographic: shallow depth of field, macro, controlled light (seen).
 
 ## 7. Sound (measured, or inferred from transcript)
-- **Open gaps between phrases.** 4.87 silences a minute, most of them 0.4-0.9s (measured).
+- Open gaps between phrases. 4.87 silences a minute, most of them 0.4-0.9s (measured).
   A bed loud enough to fill them would remove them, so the talk sections most likely carry
   no music or a very low bed (inferred).
-- **Music only at the edges.** [music] tags sit at 0:00.7-0:05.2 (the ident and event
+- Music only at the edges. [music] tags sit at 0:00.7-0:05.2 (the ident and event
   b-roll) and at 16:07-17:04 (the sponsor), with none in the 16 minutes between (measured).
   In the sponsor the bass share rises to 0.30-0.44 and brightness drops to 726-851 Hz
   (measured), which points to a bass-led bed under the ad read (inferred).
 - **Cuts on onsets 1.23× chance** (measured). This is weak evidence, because at 200 wpm
   nearly every cut lands near a syllable.
-- **Flat level.** p10-p90 −18.6 to −14.7 LUFS (measured).
-- **Silence as comic timing.** The subscribe gag (3:13-3:29) holds silences at 3:03-3:11 and
+- Flat level. p10-p90 −18.6 to −14.7 LUFS (measured).
+- Silence as comic timing. The subscribe gag (3:13-3:29) holds silences at 3:03-3:11 and
   0.85s plus 1.2s at 3:25-3:26, and the level dips to −26.4 (measured). The pauses are the
   joke: ask, pause, repeat, pause, "Okay, great" (inferred from transcript).
-- **A held beat on the comparison.** Silences of 0.88s and 1.42s at 9:17-9:18 follow "my
+- A held beat on the comparison. Silences of 0.88s and 1.42s at 9:17-9:18 follow "my
   take is functionally, they're very similar" (measured, transcript).
-- **A beat after the closing joke.** A 2.6s speech gap from 15:33 and a −26.6 dip follow the
+- A beat after the closing joke. A 2.6s speech gap from 15:33 and a −26.6 dip follow the
   Neo and Duo joke (measured).
 - Onsets at 91 a minute are mostly speech syllables at 200 wpm (inferred). They are not
   evidence of sound design.
 
 ## 8. Retention mechanics: why
-- **Proof before claims.** The event b-roll in the first 10 seconds shows presence and
+- Proof before claims. The event b-roll in the first 10 seconds shows presence and
   access. This is the job of proof.
-- **Face for opinion, hands for features.** The viewer learns the grammar: b-roll means a
+- Face for opinion, hands for features. The viewer learns the grammar: b-roll means a
   fact, the face means a judgement. The 104-second verdict take asks for trust, and it works
   because the voice is fast (200 wpm) while the picture holds still. This is the job of
   identity and clarity (inferred).
-- **The subscribe gag as a reset before the headline.** A joke with silences breaks the spec
+- The subscribe gag as a reset before the headline. A joke with silences breaks the spec
   rhythm at 3:13, then "one more thing" lands the fold. This resets attention and builds
   tension.
-- **Pre-empting the comment.** "Before you type your comment" signals that the host
+- Pre-empting the comment. "Before you type your comment" signals that the host
   knows the field. This builds identity (inferred), and it may also invite comments.
-- **Sponsor last.** Nothing interrupts the content, and viewers who leave at 16:01 have
+- Sponsor last. Nothing interrupts the content, and viewers who leave at 16:01 have
   already had the whole payoff (inferred).
 - What the fast parts know: feature lists need a new image every 6-7 seconds. What the slow
   parts know: a verdict earns more trust in one unbroken take.
 
 ## 9. Outlier against control
 The control is "Google Pixel 11/Pro Review: Poker Face" (ANmTVYkEtLw, 1.02×). Hypotheses:
-- **The topic is the likely main cause.** The first folding iPhone was a launch-day event.
+- The topic is the likely main cause. The first folding iPhone was a launch-day event.
   The edit cannot be credited with a 5.7× result.
 - **Immediate talk over proof footage** (first word at 2.4s, 194 wpm in the first 30s),
   against the control's 65-second poker skit (first word at 16.3s, 22 wpm in the first 30s).
-- **Fewer cuts and fewer graphics.** 5.5 against 7.4 cuts a minute, a median shot of 8.0s
+- Fewer cuts and fewer graphics. 5.5 against 7.4 cuts a minute, a median shot of 8.0s
   against 5.6s. There are no charts or spec cards, where the control has a benchmark chart,
   wattage and spec cards and a split-screen comparison. Restraint did not hurt here.
-- **Shared house style, so probably not the cause:**
+- Shared house style, so probably not the cause:
   - warm-lit A-roll;
   - macro hands-on b-roll;
   - hard cuts only;

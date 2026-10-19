@@ -36,23 +36,23 @@ drawings themselves must be made first (original art, frame-by-frame or rigged).
 | Music: [music] caption tags/min | 0.06 (Oc91iOxcB3c) | 0.34 (OQx7q6mwkV4) |
 
 ## Shared devices (all three: the house style)
-- **A talking-head cut rate on drawings.** 21.6-23.3 cuts/min, median shot 1.88-2.0s, and
+- A talking-head cut rate on drawings. 21.6-23.3 cuts/min, median shot 1.88-2.0s, and
   18.5-24.8 cuts/min in every segment after the first 15s (measured). A hand-drawn channel cuts
   like a vlog.
-- **Fast first-person narration from the first frame.** First word at 0.03-0.04s and 194-222
+- Fast first-person narration from the first frame. First word at 0.03-0.04s and 194-222
   wpm in the first 30s (measured). Every video opens with Jaiden's avatar on white explaining
   the premise to camera (seen in all three hook sheets).
-- **Black line art on white, colour for the subject.** Pokémon and the red cap, the cat's
+- Black line art on white, colour for the subject. Pokémon and the red cap, the cat's
   orange patches and yellow eyes, the painted fantasy world (seen). Rooms and flashbacks are
   often a flat lavender-grey wash (seen in Oc91iOxcB3c and OQx7q6mwkV4).
 - **Punch-ins and reaction close-ups on still drawings** (seen: a deadpan close-up at 4:13.9 in
   plSyrHqUh78, a push-in at 6:47 in Oc91iOxcB3c, a push-in on the door's face at 4:55 in
   OQx7q6mwkV4).
-- **Hard cuts only.** No whip, glitch, shake transition or speed ramp in any of the 36 sampled
+- Hard cuts only. No whip, glitch, shake transition or speed ramp in any of the 36 sampled
   cut pairs (seen). Energy comes from speed lines and impact frames inside a shot.
-- **A slow last minute:** 6-10 cuts/min under credits that name the team or the patrons
+- A slow last minute: 6-10 cuts/min under credits that name the team or the patrons
   ("Inbetweeners"; "Support the team") (measured and seen).
-- **Very little music on the captions:** 0.06-0.34 [music] tags per minute and a bass share
+- Very little music on the captions: 0.06-0.34 [music] tags per minute and a bass share
   median of 0.05-0.13 (measured). See the sound profile.
 
 ## Outlier against control (every causal claim is a hypothesis)
@@ -82,22 +82,22 @@ Hypotheses:
 5. **Silence is not the shared driver.** The Nuzlocke uses 1.52 silences/min, the cat video 0.19.
 
 ## Sound and music profile
-- **Level:** −15.2 to −15.9 LUFS in the outliers, −12.9 in the control (measured). The control
+- Level: −15.2 to −15.9 LUFS in the outliers, −12.9 in the control (measured). The control
   sits above YouTube's −14 reference, so the platform turns it down about 1 dB (inferred from
   the knowledge chapter's normalisation rule).
-- **Range:** 2.2-4.1 LU in the outliers, 6.8 LU in the control (measured). One narrator makes a
+- Range: 2.2-4.1 LU in the outliers, 6.8 LU in the control (measured). One narrator makes a
   flat mix; a cast of voices and fight effects makes a wide one (inferred).
-- **A thin bed, voice first:** bass share medians of 0.05-0.13 against 0.21-0.27 in the animated
+- A thin bed, voice first: bass share medians of 0.05-0.13 against 0.21-0.27 in the animated
   explainers, and 0.06-0.34 [music] tags per minute against 3.3-6.5 (measured). Music is light,
   sparse or both (inferred). In the Nuzlocke the bass share rises to 0.14-0.25 only where the
   voice drops out (2:30-2:44, 3:20-3:30, 4:10), so the low end arrives in the pauses (measured
   windows; the reading is inferred).
-- **Silence and dips as punctuation, done two ways.** The Nuzlocke puts real silences (0.4-2.2s)
+- Silence and dips as punctuation, done two ways. The Nuzlocke puts real silences (0.4-2.2s)
   on deaths and reversals, 1.52/min (measured). The control has almost no silences (0.11/min)
   but drops 8-22 LU under its median about nine times, three of them within 2s of a [music]
   tag, so the voices stop and music plays alone (measured timings; inferred reading). The cat
   video has one 10 LU dip, on a gag at 0:46 (measured).
-- **Outros:** the Nuzlocke's credits sit 10-15 LU under the body (−25 to −31 LUFS); the cat
+- Outros: the Nuzlocke's credits sit 10-15 LU under the body (−25 to −31 LUFS); the cat
   video's last 20s is its loudest stretch (−13.6 to −11.9) (measured).
 - **Tempo** estimates are weak in all three (confidence 0.97-1.62) and not usable (measured).
 - This only partly matches the music chapter's animated-storytime row (a bed under the VO,

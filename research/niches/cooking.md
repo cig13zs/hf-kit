@@ -51,42 +51,42 @@ Seen or measured in all three:
   over 17s. It never slows for long.
 - **Jump cuts on phrase boundaries** (lift 1.43-1.56). Breaths are removed, and every cut
   joins two sentences.
-- **About 230 wpm from the first frame.** The first word comes at 0.08-0.16s.
-- **A value question with a scoring system:**
+- About 230 wpm from the first frame. The first word comes at 0.08-0.16s.
+- A value question with a scoring system:
   - "is it even worth it" with levels 1-4 (3pgU);
   - an S-D tier list (AJiG);
   - "worth it / not worth it" pills (4TyP).
 - **Money in big green numerals** ("$120", "$90", "$200"; "$40", "$15.99", "$15,000"), and
   keywords in a second colour.
 - **Blindfolded or guest tasters** delivering verdicts.
-- **Continuous sound.** 0.14-0.67 silences a minute. Quiet masters at −18.2 to −21.0 LUFS,
+- Continuous sound. 0.14-0.67 silences a minute. Quiet masters at −18.2 to −21.0 LUFS,
   4-7 dB under YouTube's reference. A dark spectrum (median brightness 621-962 Hz, bass
   share 0.20-0.25).
-- **No music sync.** Cuts land on audio onsets at 1.05-1.14× chance: the edit follows speech,
+- No music sync. Cuts land on audio onsets at 1.05-1.14× chance: the edit follows speech,
   not the beat.
-- **Hard cuts.** The only transition-like moves are in-camera motion-blur swishes (4TyP) and
+- Hard cuts. The only transition-like moves are in-camera motion-blur swishes (4TyP) and
   one picture-in-picture inset (3pgU, AJiG).
-- **The sign-off.** "Love you, subscribe, bye" in all three (seen).
+- The sign-off. "Love you, subscribe, bye" in all three (seen).
 
 ## Outlier against control
 Every line is a hypothesis.
-- **Go somewhere with access.** A working caviar farm, with the host in the sturgeon tank; a
+- Go somewhere with access. A working caviar farm, with the host in the sturgeon tank; a
   first trip to Japan with local guides. The control stays in the studio kitchen.
-- **Escalate to one ending, and show it in the hook.**
+- Escalate to one ending, and show it in the hook.
   - 3pgU previews the four taste levels at 0:19.5-0:21.5.
   - AJiG shows the empty tier board at 0:27 and promises the best item at 0:29.
   - The control runs about 13 parallel rounds of the same shape, with no carried scoreboard
     until the tally.
-- **A montage hook.** 32-60 cuts a minute in 0-15s against 4 (the control's first 12.4s is one
+- A montage hook. 32-60 cuts a minute in 0-15s against 4 (the control's first 12.4s is one
   take). Both outliers then settle to the same body rhythm as the control, so the difference
   is concentrated in the opening.
-- **A personal stake for the host.** "a million dollars in caviar fish"; an expert who has
+- A personal stake for the host. "a million dollars in caviar fish"; an expert who has
   "never been to Japan". The control's stake is money spent.
-- **Half the length.** 22-23 minutes against 42.
-- **Less exposed music, less air.** 0.14-0.18 [music] tags a minute against 2.31, and
+- Half the length. 22-23 minutes against 42.
+- Less exposed music, less air. 0.14-0.18 [music] tags a minute against 2.31, and
   0.14-0.26 silences a minute against 0.67. The outliers keep talk on top almost
   continuously (measured). Whether that helps is unknown.
-- **Not differences:** body cut rate, wpm, jump-cut placement, green money graphics, blind
+- Not differences: body cut rate, wpm, jump-cut placement, green money graphics, blind
   tasting.
 
 ## Sound and music profile

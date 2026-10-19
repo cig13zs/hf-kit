@@ -66,12 +66,12 @@ Songs open the video, return every 15-20 minutes, and close it (measured from th
 tag clusters). A villain recurs across segments (seen in the transcript at 9:45, 13:38, 49:17).
 
 ## 4. Editing style
-- **Slow for a cartoon:** 9.5 cuts/min and a 4.1s median shot (measured), well under the
+- Slow for a cartoon: 9.5 cuts/min and a 4.1s median shot (measured), well under the
   animated-storytime niche's 22. The camera moves inside the 3D scenes instead: the crane up
   the museum, the push along the gallery (seen).
-- **Steady across the hour:** 8.0-10.7 cuts/min in every segment but the last minute
+- Steady across the hour: 8.0-10.7 cuts/min in every segment but the last minute
   (measured), so the compilation keeps one rhythm whatever the source episode.
-- **Slowest at the end:** 3 cuts in the last minute and the lowest visual energy (0.32) under
+- Slowest at the end: 3 cuts in the last minute and the lowest visual energy (0.32) under
   the bedtime song (measured).
 - Cuts land on audio onsets at chance (lift 1.01, measured), even in a video built on songs.
 
@@ -94,29 +94,29 @@ tag clusters). A villain recurs across segments (seen in the transcript at 9:45,
 - No whip, glitch or shake was seen.
 
 ## 7. Sound (measured only)
-- **Very quiet master:** −22.4 LUFS integrated, and per-minute means stay between −18.8 and
+- Very quiet master: −22.4 LUFS integrated, and per-minute means stay between −18.8 and
   −25.9 for the whole hour (measured). YouTube does not raise quiet uploads, so this plays
   about 8 dB under a −14 LUFS video (inferred from the knowledge chapter's normalisation rule).
-- **Near-silent open:** the first 6s sit at −43 to −37 LUFS before the song (measured).
-- **No gaps inside the song:** no silence over 0.4s between 0:06 and 4:45 (measured). The
+- Near-silent open: the first 6s sit at −43 to −37 LUFS before the song (measured).
+- No gaps inside the song: no silence over 0.4s between 0:06 and 4:45 (measured). The
   story segments hold most of the 81 silences, as dialogue pauses (inferred from their timing).
-- **Loudest moments:** 17:32-17:40 (a chanted "by the power of three dimensions"), 33:24 and
+- Loudest moments: 17:32-17:40 (a chanted "by the power of three dimensions"), 33:24 and
   34:44 (the race), and 60:46 (the bedtime song), all −15.0 to −16.2 LUFS (measured).
-- **A drop into the second song:** −51.2 LUFS at 44:34 as the six-times-table song begins
+- A drop into the second song: −51.2 LUFS at 44:34 as the six-times-table song begins
   (measured).
-- **Slow speech:** 98 wpm overall and 94 in the first 30s (measured), about 60% of the
+- Slow speech: 98 wpm overall and 94 in the first 30s (measured), about 60% of the
   animated-explainer niche's pace.
 
 ## 8. Retention mechanics: why
-- **The lesson is the chorus.** The table is sung three times in four minutes with a chorus
+- The lesson is the chorus. The table is sung three times in four minutes with a chorus
   between passes. Repetition does the teaching. Clarity and rhythm.
-- **Each fact gets a character.** "The party square" and "a super sneezer" give children a
+- Each fact gets a character. "The party square" and "a super sneezer" give children a
   hook for each multiple (inferred). Identity.
-- **One theme for an hour.** Every segment is a rescue, a villain or a power, matching the
+- One theme for an hour. Every segment is a rescue, a villain or a power, matching the
   title. This builds identity and lets a parent leave it running (inferred).
-- **Songs as landmarks.** A song at the start, about every 15-20 minutes, and at the end resets
+- Songs as landmarks. A song at the start, about every 15-20 minutes, and at the end resets
   attention in a long session (inferred from the tag clusters).
-- **A bedtime ending.** A countdown "to send you to sleep" (58:36) and "Good night" (62:07) with
+- A bedtime ending. A countdown "to send you to sleep" (58:36) and "Good night" (62:07) with
   the slowest cutting of the hour. This sets the rhythm down and signals the end (inferred).
 
 ## 9. Outlier against control

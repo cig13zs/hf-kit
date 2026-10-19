@@ -50,7 +50,7 @@ The escalation is a doubt beat right before the reveal (4:04-4:30). Re-hooks are
 belly flop (0:25 to 5:00) and "more on that later" (1:35, seen).
 
 ## 4. Editing style
-- **Talk fast, then let it play.** Explanation sections cut at 16-32 per minute under
+- Talk fast, then let it play. Explanation sections cut at 16-32 per minute under
   220-wpm narration. The payoff minute (5:00-6:00) drops to 7 cuts and the lowest visual energy
   (0.69) of the video (measured). The belly flops are shown in whole takes (inferred).
 - **Music-led montages** replace narration twice: the build (≈2:29-3:13) and the slip-and-slide
@@ -61,11 +61,11 @@ belly flop (0:25 to 5:00) and "more on that later" (1:35, seen).
 - Cut pairs show cuts on action: a pour into a barrel, the tarp pull (2:40, 4:34, seen).
 
 ## 5. Graphics and animation
-- **Craft-paper graphics.** A pool photo in a red frame beside a drawn thermometer on a wood
+- Craft-paper graphics. A pool photo in a red frame beside a drawn thermometer on a wood
   background (0:55), then a second version with red and cyan thermometers and a green tick
   (1:42) (seen). A hand-drawn night-temperature chart on black paper, green over purple
   (cut pair 2:00.6, seen). Physical, cut-out, not motion graphics.
-- **Pop-culture inserts:** Phineas and Ferb (2:13), The Office (8:14) (seen).
+- Pop-culture inserts: Phineas and Ferb (2:13), The Office (8:14) (seen).
 - **A burnt-in watermark** "youtube/markrober" in the lower left of most pool shots from 4:50
   (seen). It brands every clip that gets reposted (inferred).
 - No captions, lower thirds or kinetic type were seen.
@@ -76,32 +76,32 @@ sampled frames. A lens flare into the sunrise before the tarp pull (cut pair 4:3
 works as a natural light transition into the reveal.
 
 ## 7. Sound (measured, or inferred from transcript)
-- **The widest dynamics in the niche:** LRA 9.7 LU (measured). The narration sections sit at
+- The widest dynamics in the niche: LRA 9.7 LU (measured). The narration sections sit at
   −13.4 to −14.9 per minute, while 5:00-7:00 rises to −10.1 and −9.3 (measured). The loudest
   2s windows (5:04-5:16) are inside the belly-flop montage, where the transcript has no
   narration (measured, transcript). The payoff is scored louder than the explanation.
-- **A silence right before the reveal:** 0.55s at 4:30, just after the host says a "total
+- A silence right before the reveal: 0.55s at 4:30, just after the host says a "total
   failure" wouldn't be "from lack of effort", and before the tarp comes off (measured,
   transcript). This is the sound drop before a reveal (knowledge chapter).
-- **Montages are beat-cut.** Lift 1.31 is the only clearly above-chance value in this niche
+- Montages are beat-cut. Lift 1.31 is the only clearly above-chance value in this niche
   (measured), and the tempo is steady (92 BPM at confidence 2.83). Bass share climbs to
   0.43-0.57 in the montage minutes (measured), consistent with a full music track taking over
   from the voice (inferred).
 - A 3.8s silence at 10:18 closes the video before the end card (measured).
 
 ## 8. Retention mechanics: why
-- **Payoff shown, then delayed.** The host is in the pool at 0:00, but the belly flop waits
+- Payoff shown, then delayed. The host is in the pool at 0:00, but the belly flop waits
   until 5:00. The viewer knows it works and stays to see it. The job is building tension.
-- **Proof that it is hard.** The Google search and other creators' failed attempts (0:10-0:17)
+- Proof that it is hard. The Google search and other creators' failed attempts (0:10-0:17)
   make the build a real challenge before a single step is shown. The job is delivering proof.
-- **Small experiments first.** Tubs of coloured Jell-O and a temperature chart make the science
+- Small experiments first. Tubs of coloured Jell-O and a temperature chart make the science
   concrete and cheap to follow. The job is clarity.
-- **A doubt beat before the reveal.** Storm clouds, exhaustion, "a total failure", then silence,
+- A doubt beat before the reveal. Storm clouds, exhaustion, "a total failure", then silence,
   then the tarp. The job is building tension, and it is the classic riser-silence-reveal shape
   done with story instead of SFX (inferred).
-- **Let the payoff breathe.** 7 cuts in the payoff minute, the loudest music, no narration. The
+- Let the payoff breathe. 7 cuts in the payoff minute, the loudest music, no narration. The
   job is showing a payoff. Fast videos know when to stop cutting.
-- **The "why" answer.** A self-aware defence of the stunt (Everest, the moon, a sitcom joke)
+- The "why" answer. A self-aware defence of the stunt (Everest, the moon, a sitcom joke)
   gives the viewer a line to repeat. The job is building identity.
 
 ## 9. Outlier against control

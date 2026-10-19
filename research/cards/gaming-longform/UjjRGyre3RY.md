@@ -49,16 +49,16 @@ steps (19:03-20:08) → outro and a fast-cut final minute that ends on an extrem
 avatar's face (20:08-20:31, seen 20:15.6) (all seen in transcript and overview).
 
 ## 4. Editing style
-- **Avatar as a talking head.** The intro and outro use a separate camera on Grian's avatar and
+- Avatar as a talking head. The intro and outro use a separate camera on Grian's avatar and
   jump between a wide and a close-up (seen 0:00-0:19, 19:36.7, 20:01.6), the grammar of a vlog
   talking head applied to a game character.
-- **Fast when others are around, slow alone.** 17-21 cuts per minute during the collaborators'
+- Fast when others are around, slow alone. 17-21 cuts per minute during the collaborators'
   build (minutes 8-9) against 0-7 in most solo minutes (measured).
 - **Time-lapse with music** once, during the collaborative build (11:36-12:04 gap with [music] at
   11:45 and 11:57, and the bass peak at 11:40, measured).
-- **Menus again:** 5 of the 12 sampled cut pairs have an inventory or crafting screen on one side
+- Menus again: 5 of the 12 sampled cut pairs have an inventory or crafting screen on one side
   (seen).
-- **A held wait.** Minute 5 has no cut and visual energy 0.15 (measured) while the old-version sky
+- A held wait. Minute 5 has no cut and visual energy 0.15 (measured) while the old-version sky
   darkens (seen 4:52-5:53, night sky frames).
 - **The last minute cuts at 26 per minute** (measured): a quick tour and outro montage.
 
@@ -72,30 +72,30 @@ Hard cuts only (seen). A final punch-in to an extreme close-up of an avatar's pi
 seen) is the one framing flourish. No zooms, whips or overlays.
 
 ## 7. Sound (measured, or inferred from transcript)
-- **Moderate range for this channel:** −19.6 LUFS, LRA 9.7 LU (measured), narrower than both
+- Moderate range for this channel: −19.6 LUFS, LRA 9.7 LU (measured), narrower than both
   outliers (14.1-15.0).
-- **Dead air is normal:** 11.55 silences per minute, 14.6% of the runtime (measured).
-- **"Listen to this", then silence:** two gaps of 1.95s and 2.23s at 4:21.8-4:26, dropping to −42.6
+- Dead air is normal: 11.55 silences per minute, 14.6% of the runtime (measured).
+- "Listen to this", then silence: two gaps of 1.95s and 2.23s at 4:21.8-4:26, dropping to −42.6
   (measured), right after he invites the viewer to listen to the old version (transcript 4:19). The
   silence is the content: the old game's quiet (inferred).
-- **The two loudest moments are excitement:** 7:24-7:28, captioned in caps as he sees the new stars
+- The two loudest moments are excitement: 7:24-7:28, captioned in caps as he sees the new stars
   (−12.9), and 13:12-13:24, the test ride with shouts and [laughter] (−13.0) (measured, matched to
   transcript).
-- **Music mostly for the time-lapse:** [music] at 11:45 and 11:57 inside a 28-second gap with no
+- Music mostly for the time-lapse: [music] at 11:45 and 11:57 inside a 28-second gap with no
   speech, and the bass share peaks at 0.84 at 11:40 (measured). A third tag at 5:44.8 falls in the
   old-version segment (measured).
 - **The brightest mix of the three** (1329 Hz median brightness, bass share 0.09) (measured):
   voice and game sounds with little low end (inferred).
-- **A loading screen as a pause:** 4.08s of silence at 15:48.8, the quietest window (−63.5)
+- A loading screen as a pause: 4.08s of silence at 15:48.8, the quietest window (−63.5)
   (measured), on a starfield "loading" frame (seen in cut pair 15:23.6).
 
 ## 8. Retention mechanics: why
-- **A plan up front.** The first 43 seconds list the episode's goals at 212 wpm. The job is clarity
+- A plan up front. The first 43 seconds list the episode's goals at 212 wpm. The job is clarity
   for a regular viewer mid-season.
-- **Two threads.** A group build and a solo room, cross-cut, so each resets attention for the other.
-- **A trip to the past.** Old graphics and old sounds carry the sentiment without a word of
+- Two threads. A group build and a solo room, cross-cut, so each resets attention for the other.
+- A trip to the past. Old graphics and old sounds carry the sentiment without a word of
   explanation. The job is building identity (nostalgia for long-time players, inferred).
-- **The shout as the reveal.** The loudest moment is the host seeing his idea work. The job is
+- The shout as the reveal. The loudest moment is the host seeing his idea work. The job is
   showing a payoff.
 
 ## 9. Outlier against control

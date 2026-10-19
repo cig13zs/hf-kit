@@ -52,7 +52,7 @@ face (seen).
 - Captions: condensed bold uppercase, white with a dark outline, 2-3 words, the active word
   cyan (seen). The same caption system as the channel's other two Shorts here, but no topic
   banner in this one (seen).
-- **Synced text highlight:** the post's own text is highlighted as it is read, like a
+- Synced text highlight: the post's own text is highlighted as it is read, like a
   browser text selection (seen). The source becomes the graphic.
 - The post's photo is reused as the evidence shot, enlarged (seen).
 - No gameplay footage (seen).
@@ -70,24 +70,24 @@ None seen besides hard cuts and the moving highlight. No zooms, shakes, whips or
   (inferred).
 
 ## 8. Retention mechanics: why
-- **The threat in sentence one.** A young viewer's own game is at risk. Job: building
+- The threat in sentence one. A young viewer's own game is at risk. Job: building
   tension, at the level of personal stakes.
-- **Source by 1.87s, then read-along highlight.** The viewer's doubt ("is this real?") is
+- Source by 1.87s, then read-along highlight. The viewer's doubt ("is this real?") is
   answered with the post itself, and the highlight keeps the eyes on the line being spoken.
   Jobs: delivering proof and clarifying.
-- **Evidence photo at 8.7s.** Kids at a TV playing the game makes "online games" concrete.
+- Evidence photo at 8.7s. Kids at a TV playing the game makes "online games" concrete.
   Job: clarifying.
-- **Face for the verdict.** The creator comes back full-frame to deliver the reaction. Job:
+- Face for the verdict. The creator comes back full-frame to deliver the reaction. Job:
   building identity; the verdict is his, not the news site's.
-- **Slang ending.** The last words are a joke in the audience's voice. It may prompt
+- Slang ending. The last words are a joke in the audience's voice. It may prompt
   replies (comments are 0.34% of views, the highest of the three; measured, cause inferred).
 
 ## 9. Outlier against control
 Control: "oh no 😭" (qvrxyBRhi_0, 1.0×). Both open on a negative, both cite social posts,
 both run about 12-15 seconds with flat mixes. Differences, all hypotheses:
-- **Who is affected:** every young player in a region against paying subscribers who get
+- Who is affected: every young player in a region against paying subscribers who get
   early access.
-- **What the first line says:** the concrete threat against a teaser ("aren't going to like
+- What the first line says: the concrete threat against a teaser ("aren't going to like
   this") that names the topic only at about 1.5-3.4s.
 - **Read-along highlight** here; the control shows posts without a highlight (seen).
 - Cut rates are nearly equal (15 against 16/min), and this video speaks slower (215 against

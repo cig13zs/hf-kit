@@ -43,24 +43,24 @@ onto the current frame, which the scene detector does not count.
 | Sponsor read length | 13s (aspmNhKAFMc) | 43s (FluKUJyeYD8) |
 
 ## Shared devices (all three: the house style)
-- **Voice on frame one, never stopping.** First word at 0.0s, 202-210 wpm, and no silence over
+- Voice on frame one, never stopping. First word at 0.0s, 202-210 wpm, and no silence over
   0.4s anywhere before the final second (measured).
 - **A 43-50s cold open that ends on a fixed show line** naming the date and "The Code Report", then
   a title card: a white-outlined square with a yellow date tag, which can carry a joke date (seen
   in aspmNhKAFMc and E7la7-dtfVM; the line is in all three transcripts).
-- **A black canvas with floating screenshots.** Pages, tweets, papers and dashboards sit on black
+- A black canvas with floating screenshots. Pages, tweets, papers and dashboards sit on black
   as cards, often tilted, and pile up as items are listed (seen in all three).
-- **Emphasis kit:** orange or red highlight bars on the quoted line, hand-drawn white arrows,
+- Emphasis kit: orange or red highlight bars on the quoted line, hand-drawn white arrows,
   red arrows and underlines (seen in all three).
-- **Sticker captions:** heavy condensed all caps, black on a coloured box or white/yellow with a
+- Sticker captions: heavy condensed all caps, black on a coloured box or white/yellow with a
   thick black outline, tilted 5-15°, landing on the spoken word (seen in all three).
-- **Memes and borrowed clips on punchlines.** Each video inserts at least one clip that plays its
+- Memes and borrowed clips on punchlines. Each video inserts at least one clip that plays its
   own audio (`>>` markers: FluKUJyeYD8 0:58.8, aspmNhKAFMc 0:27.2 and 4:45.7, E7la7-dtfVM 3:50),
   and that clip is the video's loudest moment (measured) or near it.
 - **Pixel-block dissolve** at topic turns, never on every cut (seen in all three).
-- **No camera moves or flashy transitions.** No whips, zoom-throughs, shakes or light leaks in any
+- No camera moves or flashy transitions. No whips, zoom-throughs, shakes or light leaks in any
   sampled frame (seen).
-- **A flat, quiet mix:** −20.3 to −23.8 LUFS, LRA 2.4-3.2 LU (measured).
+- A flat, quiet mix: −20.3 to −23.8 LUFS, LRA 2.4-3.2 LU (measured).
 - **Sponsor at the end, then a fixed sign-off** and an end card with a tilted offer sticker and a
   "Link below" pointer (seen in all three).
 - **Last minute slows to 2-8 cuts** (measured): the sponsor screen recording and end card.
@@ -91,22 +91,22 @@ Hypotheses:
    cause is unknown (a bed, a mic chain, b-roll sound) and nothing ties it to views.
 
 ## Sound and music profile
-- **Level:** −20.3 to −23.8 LUFS integrated (measured), 6-10 LU under the −14 reference. YouTube
+- Level: −20.3 to −23.8 LUFS integrated (measured), 6-10 LU under the −14 reference. YouTube
   does not turn quiet uploads up (knowledge chapter), so these play soft (inferred). A new channel should
   still mix to −14 (knowledge chapter default).
-- **Range:** 2.4-3.2 LU (measured), flatter than the documentary niche's 5.9-7.9 and close to the
+- Range: 2.4-3.2 LU (measured), flatter than the documentary niche's 5.9-7.9 and close to the
   animated explainer pilot's 2.2. The voice is the whole mix (inferred).
-- **Silence:** none in the body of any video (measured). This niche uses zero silence as a device;
+- Silence: none in the body of any video (measured). This niche uses zero silence as a device;
   the only "pause" is a borrowed clip.
-- **Clips as the dynamics:** the loudest windows in all three are borrowed clips with their own
+- Clips as the dynamics: the loudest windows in all three are borrowed clips with their own
   audio, 3-8 LU over the median (measured, matched to transcript). The chapter's "comic stingers"
   row for fast tech news fits, with the clip itself as the stinger (inferred).
-- **Music:** no [music] tags in the outliers and one in the control; tempo readings jump by 60-100
+- Music: no [music] tags in the outliers and one in the control; tempo readings jump by 60-100
   BPM between minutes (measured). Any bed is quiet and not beat-led (inferred). This matches the
   chapter's fast-tech-news row: "quiet driving bed or none under dense speech".
-- **Cut sync:** lift 0.96-1.41 (measured). Nobody cuts to a beat. aspmNhKAFMc's 1.41 suggests cuts
+- Cut sync: lift 0.96-1.41 (measured). Nobody cuts to a beat. aspmNhKAFMc's 1.41 suggests cuts
   on word or hit transients (inferred).
-- **Sponsor bed:** FluKUJyeYD8's bass share rises to 0.40-0.45 and brightness falls to 530-710 Hz
+- Sponsor bed: FluKUJyeYD8's bass share rises to 0.40-0.45 and brightness falls to 530-710 Hz
   during the ad (measured), so the ad likely has its own bed (inferred).
 
 ## Steal list

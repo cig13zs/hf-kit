@@ -47,20 +47,20 @@ charts and labels that are visible in the frames.
 
 ## Shared devices (the house style)
 Seen or measured in all three:
-- **A-roll for judgement, hands-on b-roll for facts.**
+- A-roll for judgement, hands-on b-roll for facts.
   - The A-roll is the presenter to camera in a lit room: warm lamps (Od6M), a white studio
     with a red panel (6D), a dark set with pink window light (ANm).
   - The b-roll is macro and hand-held product shots with shallow depth of field, often on a
     magenta backdrop or with pink accents.
-- **B-roll under continuous talk.** Cuts land in speech pauses at or below chance (lift
+- B-roll under continuous talk. Cuts land in speech pauses at or below chance (lift
   0.74-0.92). The voice runs across the cut; this is the L-cut workflow.
-- **The verdict in one long take.** 45.8-103.6 seconds without a cut, where visual energy
+- The verdict in one long take. 45.8-103.6 seconds without a cut, where visual energy
   falls to 0.21-0.33.
-- **Hard cuts only.** No whip, zoom, glitch or wipe was seen. The only designed transitions
+- Hard cuts only. No whip, zoom, glitch or wipe was seen. The only designed transitions
   are the channel ident and one iris (Od6M, 6D).
-- **Graphics only for numbers.** Price cards, a benchmark chart, a wattage label, a spec
+- Graphics only for numbers. Price cards, a benchmark chart, a wattage label, a spec
   card. There are none in the biggest outlier.
-- **A speech-led mix.** Flat level (3.6-4.2 LU body spread), 3.9-5.1 open silences a minute,
+- A speech-led mix. Flat level (3.6-4.2 LU body spread), 3.9-5.1 open silences a minute,
   and music only at the edges (see the profile below).
 - **The sponsor after the content,** with an "AD" label bottom-left (Od6M, ANm; 6D has no
   sponsor).
@@ -69,21 +69,21 @@ Seen or measured in all three:
 
 ## Outlier against control
 Every line is a hypothesis.
-- **The topic and access dominate.** Both outliers cover a launch-week product people were
+- The topic and access dominate. Both outliers cover a launch-week product people were
   waiting for. One adds event-floor footage, the other an Apple executive interview. The
   control is a routine review. This is the most likely cause of the view gap, and it is not
   an edit.
-- **Talk and proof in the first 3 seconds.** The outliers speak at 2.36-2.4s (188-194 wpm in
+- Talk and proof in the first 3 seconds. The outliers speak at 2.36-2.4s (188-194 wpm in
   the first 30s) over event b-roll or straight to camera. The control spends 73s on a
   music-led poker skit, with its first word at 16.3s and 22 wpm in the first 30s.
-- **Faster delivery.** 200.5-200.7 wpm against 176.4.
-- **Not differences:**
+- Faster delivery. 200.5-200.7 wpm against 176.4.
+- Not differences:
   - cut rate (6D equals the control at 7.4);
   - median shot;
   - loudness;
   - silences;
   - long verdict takes.
-- **Graphics density runs opposite to the views.** Od6M has none, the control has the most.
+- Graphics density runs opposite to the views. Od6M has none, the control has the most.
   That argues graphics are not the driver, not that they hurt.
 
 ## Sound and music profile

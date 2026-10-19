@@ -36,15 +36,15 @@ niche, not the whole niche.
 | Per-minute short-term loudness (medians, credit minutes excluded) | loudest minute −14.1 (OMbV1rIPhCg) | quietest minute −21.1 (2r5eKpptixo) |
 
 ## Shared devices (all three: the house style)
-- **Fast open, slower body.** Every video cuts at 24-48 per minute in its first 15 seconds
+- Fast open, slower body. Every video cuts at 24-48 per minute in its first 15 seconds
   and 13-23 per minute in the body, and all three fall to 1-4 cuts in the last minute (measured).
-- **Archive in a film gate.** Old footage, prints, engravings and period maps carry a rounded
+- Archive in a film gate. Old footage, prints, engravings and period maps carry a rounded
   dark vignette and warm, textured colour (seen in all three overviews).
-- **Maps with a drawn route.** Red or gold lines across relief or period maps (seen: Cuba map in
+- Maps with a drawn route. Red or gold lines across relief or period maps (seen: Cuba map in
   2r5eKpptixo, Germany and Italy maps in GV8KGcFqeLc, Alps and cantons in OMbV1rIPhCg).
-- **A first-person host.** Each opens a personal frame in the first minute: a confession, a
+- A first-person host. Each opens a personal frame in the first minute: a confession, a
   quest, a verdict (seen in transcripts). The host is a guide, not a presenter.
-- **Hard cuts only, no flashy transitions.** No whip, glitch, spin or zoom-through appeared in
+- Hard cuts only, no flashy transitions. No whip, glitch, spin or zoom-through appeared in
   any sampled cut pair (seen). Accents are single frames: a light-leak flash (GV8KGcFqeLc 0:15),
   black frames on a tunnel or a shooting (seen).
 - **A credits roll in silence or near-silence** of 14-20s (measured in 2r5eKpptixo and
@@ -74,31 +74,31 @@ Hypotheses:
    script is heaviest. That may raise the perceived weight of the argument.
 
 ## Sound and music profile
-- **Level:** −16.1 to −18.0 LUFS integrated (measured). YouTube turns loud uploads down but
+- Level: −16.1 to −18.0 LUFS integrated (measured). YouTube turns loud uploads down but
   does not turn quiet ones up (knowledge chapter), so these play a little under platform
   average (inferred). A new channel should still mix to −14 (knowledge chapter default).
-- **Range:** 5.9-7.9 LU (measured), wider than the animated explainer pilot's 2.2 LU. Narration
+- Range: 5.9-7.9 LU (measured), wider than the animated explainer pilot's 2.2 LU. Narration
   sits steady while archive or location sound jumps above it (inferred, and in 2r5eKpptixo
   measured: archive news clips are the three loudest windows, 7-8 LU over the median).
-- **Silence:** 0.23-1.02 per minute, almost all 0.4-1.5s (measured). They cluster at thesis
+- Silence: 0.23-1.02 per minute, almost all 0.4-1.5s (measured). They cluster at thesis
   lines, painful facts and turns (seen by matching timestamps to transcripts in all three).
   This matches the chapter's "silence for weight" device.
-- **Drop before a hit:** in 2r5eKpptixo the short-term loudness falls to −28.8 at 4:12 before
+- Drop before a hit: in 2r5eKpptixo the short-term loudness falls to −28.8 at 4:12 before
   the −10.7 peak at 4:20 (measured).
-- **Music follows speech in all three:** cuts land on audio onsets at chance (lift 0.96-1.01,
+- Music follows speech in all three: cuts land on audio onsets at chance (lift 0.96-1.01,
   measured). No video cuts to a beat. Tempo is unusable under narration (confidence 1.10-1.32 in all three, measured).
-- **Music as a featured moment, rarely:** one swell per video at a chapter climax. In
+- Music as a featured moment, rarely: one swell per video at a chapter climax. In
   GV8KGcFqeLc the loudest windows (17:50-17:54) sit ~9 LU over the median in a [music] gap at
   the March on Rome (measured, transcript). In 2r5eKpptixo the peaks are archive news audio
   instead (measured). This matches the chapter's documentary row: a bed under narration,
   featured in chapter openers and montages.
-- **Music-only gaps:** 1.31-1.9 [music] caption tags per minute (measured). In 2r5eKpptixo they
+- Music-only gaps: 1.31-1.9 [music] caption tags per minute (measured). In 2r5eKpptixo they
   vanish for the 10-minute evidence middle (measured), which fits a bed pulled under for
   argument (inferred). The travel control has the most (1.9/min), with music between lines.
-- **Quiet before the key idea:** the control's two quietest mid-video windows frame its clock
+- Quiet before the key idea: the control's two quietest mid-video windows frame its clock
   explainer (20:42 and 22:20, down to −34.2), and GV8KGcFqeLc drops to −37.5 at 44:58-45:16
   just before its synthesis (measured, transcript).
-- **Timbre:** brightness medians 742-825 Hz (measured), the darkest of the three niches in this
+- Timbre: brightness medians 742-825 Hz (measured), the darkest of the three niches in this
   batch: dark beds and old broadcast audio (inferred).
 
 ## Steal list

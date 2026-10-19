@@ -58,15 +58,15 @@ chain of moves, each one worse for the lab, ending on a warning about science it
 verdict.
 
 ## 4. Editing style
-- **Two speeds.** Minutes 0-2 cut at 13-15 per minute over maths, history and simulation footage;
+- Two speeds. Minutes 0-2 cut at 13-15 per minute over maths, history and simulation footage;
   minutes 3-4 cut at 8-9 while the story turns into statements (measured). Visual energy falls from
   1.48 to 0.60 over the same span (measured). In the overview, 7 of the 9 frames between 3:30 and
   4:40 are statement, paper or post pages, most with orange highlights, and the other 2 are pull
   quotes (seen).
-- **Documents held for reading.** A highlighted statement stays up for several seconds while the
+- Documents held for reading. A highlighted statement stays up for several seconds while the
   narrator paraphrases it (seen 3:30.7, 3:47.9, 4:13.7). The eye reads the receipt and the ear gets
   the joke.
-- **Cuts land near audio onsets:** lift 1.41, the highest in this niche (measured). Cutting on
+- Cuts land near audio onsets: lift 1.41, the highest in this niche (measured). Cutting on
   word starts or placing a small hit on each new card would produce this (inferred; no audio heard).
 - **Additive frames** again: stickers, arrows and portraits land on an existing screenshot
   (0:22.5-0:24, 2:08, 3:04.9, seen), so the cut count is a floor.
@@ -77,10 +77,10 @@ verdict.
   a professor photo (0:38.7) (seen).
 - **Pull quotes** in large white type with quote marks over a meme image (4:05.1) or a photo
   (4:13.7) (seen): the quote becomes the frame.
-- **Maths made readable:** equations with a hand-drawn arrow and a "U = VELOCITY" label (1:13.1),
+- Maths made readable: equations with a hand-drawn arrow and a "U = VELOCITY" label (1:13.1),
   "EULER EQUATIONS" and a note about the removed term (2:39.1) (seen).
 - **A web page pushed in until one sentence fills the frame** (1:30.3, seen).
-- **Money as a slam:** "$20,000,000" in huge white numerals with a red outline over a statement
+- Money as a slam: "$20,000,000" in huge white numerals with a red outline over a statement
   (2:56.3, seen).
 - Colour system: black canvas, orange highlight bars, red, yellow and cyan sticker accents (seen).
 
@@ -91,26 +91,26 @@ verdict.
 - No whips, zoom-throughs, shakes or glitch overlays in any sampled frame (seen).
 
 ## 7. Sound (measured, or inferred from transcript)
-- **Quiet and flat:** −22.5 LUFS, LRA 2.4 LU (measured), 8.5 LU under the −14 reference.
-- **No silence in the body.** One 0.54s gap in the last second (measured). 209.5 wpm, 220 in the
+- Quiet and flat: −22.5 LUFS, LRA 2.4 LU (measured), 8.5 LU under the −14 reference.
+- No silence in the body. One 0.54s gap in the last second (measured). 209.5 wpm, 220 in the
   first 30 seconds.
-- **Borrowed clips are the loud moments.** 0:28-0:36 is the loudest stretch, about 3 LU over the
+- Borrowed clips are the loud moments. 0:28-0:36 is the loudest stretch, about 3 LU over the
   median, lining up with the YouTuber clip at 0:27.2-0:30.7 (measured, matched to transcript). The
   curse clip at 4:45-4:55 is not among the loudest windows (measured).
-- **No music evidence:** no caption tags, and tempo readings jump 61-161 BPM by minute (measured).
+- No music evidence: no caption tags, and tempo readings jump 61-161 BPM by minute (measured).
 - **Cuts near onsets** (lift 1.41, measured) suggest cuts timed to syllable or hit transients
   (inferred).
 
 ## 8. Retention mechanics: why
-- **The phone call as the open loop.** Named in the first 43 seconds, paid off at 3:07. The job is
+- The phone call as the open loop. Named in the first 43 seconds, paid off at 3:07. The job is
   building tension across a maths explainer that could otherwise lose people.
-- **Explain first, feud second.** The viewer learns why the problem matters (hurricanes, wings,
+- Explain first, feud second. The viewer learns why the problem matters (hurricanes, wings,
   a million-dollar prize) before hearing who took credit. The job is clarity: stakes need context.
-- **Slow down for the receipts.** The cut rate drops and the documents stay up exactly when the
+- Slow down for the receipts. The cut rate drops and the documents stay up exactly when the
   claims become contested. The job is delivering proof, and the reading time is built in.
 - **A 13-second ad read** that jokes about being short (5:27.5-5:31, transcript). Likely less
   drop-off than a 40-second read (inferred; retention data not available).
-- **Ending on a warning, not a verdict.** The final beat is an outside expert's concern for open
+- Ending on a warning, not a verdict. The final beat is an outside expert's concern for open
   science, which gives commenters a side to take (inferred: 2,100 comments).
 
 ## 9. Outlier against control

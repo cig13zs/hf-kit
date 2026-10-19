@@ -62,18 +62,18 @@ matches for "sponsor" in the transcript).
   - hands-on b-roll: magenta backdrop, carpet, desk;
   - an outdoor interview at Apple Park, with a wide two-shot and singles cut as
     shot-reverse-shot (2:55.9 guest to 2:56.1 host; 3:30.2 two-shot to 3:30.4 guest single).
-- **The busiest cutting is the essay.** 15-60s runs 12.0 cuts a minute of b-roll under the
+- The busiest cutting is the essay. 15-60s runs 12.0 cuts a minute of b-roll under the
   argument (measured). The body settles at 6.7.
-- **B-roll under continuous talk.** 25% of cuts fall in speech pauses against 33% chance, a
+- B-roll under continuous talk. 25% of cuts fall in speech pauses against 33% chance, a
   lift of 0.74 (measured, approximate caption timings). This is the same L-cut habit as
   Od6M0AXpcxQ.
-- **The long take carries the numbers.** 49.2s without a cut (6:31-7:20) while the price
+- The long take carries the numbers. 49.2s without a cut (6:31-7:20) while the price
   cards appear beside the presenter (measured, seen). The graphics replace cutting.
-- **Found footage as evidence:** an archival keynote clip (1:51), Apple's social post (2:21),
+- Found footage as evidence: an archival keynote clip (1:51), Apple's social post (2:21),
   a web page screenshot (7:20.8) (seen or transcript).
 
 ## 5. Graphics and animation
-- **Price cards:** white rounded rectangles with large bold numerals and a small
+- Price cards: white rounded rectangles with large bold numerals and a small
   capital-letter country label under each ("CANADIAN", "UK", "USD"). They are stacked in
   pairs to the right of the presenter (seen 6:45, 7:01). The exact figures are not reliably
   legible at 240 px.
@@ -90,18 +90,18 @@ matches for "sponsor" in the transcript).
   animation is not visible at 2 fps in the sampled frames).
 
 ## 7. Sound (measured, or inferred from transcript)
-- **Open gaps, no bed under the talk.** 5.09 silences a minute (measured). A continuous bed
+- Open gaps, no bed under the talk. 5.09 silences a minute (measured). A continuous bed
   would fill them (inferred).
-- **Music at the edges.** Bass share is 0.27-0.31 in 0:00-0:30 with [music] tags at 0:00.7
+- Music at the edges. Bass share is 0.27-0.31 in 0:00-0:30 with [music] tags at 0:00.7
   and 0:13.0, and 0.40 at 10:20 with the outro at −23 to −31 LUFS (measured). So the music
   sits under the ident, the first b-roll and the outro (inferred).
-- **Spaced thesis.** Four silences in 0:24-0:30 split the hook's key sentences (measured).
-- **Comic beats.**
+- Spaced thesis. Four silences in 0:24-0:30 split the hook's key sentences (measured).
+- Comic beats.
   - A 2.6s speech gap after the archival "No" (1:51.5) and a −20.6 window at 1:52 (measured).
   - A −23.3 dip at 4:20 on the "flex" joke (measured, transcript).
 - **Interview handoffs** sit at −22.2/−22.6 at 3:14-3:16, the pause between the host's
   question and the guest's answer (measured, transcript).
-- **Reading prices with pauses.** Silences at 6:55-7:02 (0.55-0.97s) while he converts
+- Reading prices with pauses. Silences at 6:55-7:02 (0.55-0.97s) while he converts
   currencies, ending on "Am I reading that right?" (7:02-7:05) (measured, transcript).
 - Several of the loudest windows (7:28-8:18) fall in interview part 2, so the location audio
   may sit slightly hotter than the studio (inferred).
@@ -109,30 +109,30 @@ matches for "sponsor" in the transcript).
   syllables, so it says little about music sync (inferred).
 
 ## 8. Retention mechanics: why
-- **Access as the payoff, split in two.** The interview is announced at 2:40, gives one
+- Access as the payoff, split in two. The interview is announced at 2:40, gives one
   answer and then pauses for three minutes of the host's own analysis. The viewer who wants
   the executive's full answer stays (inferred). This is the job of tension.
-- **A thesis, not a recap.** Framing the product as Apple's cannibalisation problem gives
+- A thesis, not a recap. Framing the product as Apple's cannibalisation problem gives
   a returning viewer a new reason to watch a product they have already seen. This is the
   job of clarity and tension.
-- **Irony through archive.** The executive's old on-stage "No" sets up the interview with
+- Irony through archive. The executive's old on-stage "No" sets up the interview with
   the same person. This builds tension and a laugh.
-- **Proof on screen.** The web page, Apple's post, the price cards and the app-by-app check
+- Proof on screen. The web page, Apple's post, the price cards and the app-by-app check
   (9:22-10:03) back every claim with an image. This is the job of proof, and it builds
   identity: the host checks the executive instead of repeating him.
-- **The number one question answered.** "Should I get it?" is triaged by who you are
+- The number one question answered. "Should I get it?" is triaged by who you are
   (5:31-6:08). This shows a payoff and clarifies.
 - What this video knows: a sequel needs a new angle, and access plus a thesis is one.
 
 ## 9. Outlier against control
 The control is "Google Pixel 11/Pro Review: Poker Face" (ANmTVYkEtLw, 1.02×). Hypotheses:
-- **Topic and access probably dominate.** A follow-up on the launch-week product, with an
+- Topic and access probably dominate. A follow-up on the launch-week product, with an
   Apple executive interview.
-- **Cutting pace is not the difference.** Both run 7.4 cuts a minute with median shots of
+- Cutting pace is not the difference. Both run 7.4 cuts a minute with median shots of
   5.8s against 5.6s (measured).
 - **Talk starts at 2.36s** against the control's 16.3s skit, and speech runs at 200.5 wpm
   against 176.4.
-- **Both use a few information cards.** Prices here; benchmarks and specs in the control.
+- Both use a few information cards. Prices here; benchmarks and specs in the control.
   Graphics density doesn't separate them.
 - **No sponsor here**, where the control has one at the end. This is minor, since it sits
   after the content in both.

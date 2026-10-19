@@ -65,25 +65,25 @@ Two clubs and one split form, against the outlier's five clubs and three split f
 - No wipe or object reveal: the badge simply appears (seen).
 
 ## 7. Sound (measured only)
-- **Quiet master:** −22.2 LUFS integrated (measured), 4.1 LU under the outlier. YouTube does
+- Quiet master: −22.2 LUFS integrated (measured), 4.1 LU under the outlier. YouTube does
   not raise quiet uploads, so it plays quieter on the same device (inferred).
-- **The body sits under the intro:** the jingle and book opening reach −16.1 to −17.9 LUFS, but
+- The body sits under the intro: the jingle and book opening reach −16.1 to −17.9 LUFS, but
   the narrated body runs at −22 to −28 (measured). The voice section is about 5-8 LU under the
   opening (inferred as unlevelled, not as a choice).
-- **The guess gets less room:** after "Shout it out if you know" (0:32) the level dips to −28.3
+- The guess gets less room: after "Shout it out if you know" (0:32) the level dips to −28.3
   but no silence over 0.4s follows (measured), against the outlier's 1.73s silence.
-- **Two silences only:** after the jingle (0:08.9, the same gap as the outlier's 0:08.9) and at
+- Two silences only: after the jingle (0:08.9, the same gap as the outlier's 0:08.9) and at
   the end (measured).
-- **One lift:** −17.8 LUFS at 1:02 on "wild card" (measured).
+- One lift: −17.8 LUFS at 1:02 on "wild card" (measured).
 
 ## 8. Retention mechanics: why
-- **Hide-and-seek.** The hat points the wrong way, then the character pops up. A small
+- Hide-and-seek. The hat points the wrong way, then the character pops up. A small
   tension beat and a joke for preschoolers.
-- **An invitation to shout.** "Shout it out if you know" asks for participation, but with no
+- An invitation to shout. "Shout it out if you know" asks for participation, but with no
   clues given first and no silence after, the child has little to go on and little time
   (inferred).
-- **Place value on screen.** Three tens and seven, shown as separate blocks. Clarity.
-- **A helper character.** The hat carries the reveals. Identity for the series.
+- Place value on screen. Three tens and seven, shown as separate blocks. Clarity.
+- A helper character. The hat carries the reveals. Identity for the series.
 
 ## 9. Outlier against control
 This is the series' typical upload. Against the same-series outlier (J8eVD2PpX_Q, 3.8×) and the

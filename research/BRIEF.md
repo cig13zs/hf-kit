@@ -124,10 +124,10 @@ or **inferred**.
 
 ## Synthesis
 
-- **Per niche:** a DNA sheet with the typical ranges (cuts per minute by segment, shot length,
+- Per niche: a DNA sheet with the typical ranges (cuts per minute by segment, shot length,
   text density, words per minute, loudness), the shared devices, and the differences between
   outliers and controls.
-- **Across niches:** a technique library. Each technique gets its name, what it is, where it
+- Across niches: a technique library. Each technique gets its name, what it is, where it
   was seen (video and timestamp), the measured range, the viewer job it does, which niches
   use it and which avoid it, the failure mode, and the HyperFrames recipe. This library is
   the raw material for the video skill.
@@ -171,12 +171,12 @@ given mood.
 2. **VFX, motion and colour** are mapped to mood and genre, with HyperFrames build recipes.
    Knowledge chapter: `knowledge/vfx-and-motion.md`.
 3. **Music is measured per video** by `audio_features.py`:
-   - **Tempo.** Unreliable under constant narration, so label it.
-   - **Whether cuts land on audio onsets more than chance.** This is a lift over random
+   - Tempo. Unreliable under constant narration, so label it.
+   - Whether cuts land on audio onsets more than chance. This is a lift over random
      cut times.
-   - **Brightness and bass share every 10 seconds.**
-   - **Caption [music] tags.**
-   - **The 2-second loudness curve.**
+   - Brightness and bass share every 10 seconds.
+   - Caption [music] tags.
+   - The 2-second loudness curve.
 
    The audio is not listened to. Mood claims come from these numbers plus the sourced
    chapters, and are labelled.

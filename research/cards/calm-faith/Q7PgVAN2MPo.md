@@ -62,7 +62,7 @@ section 7) and punctuated by a "SO BACKWARDS!" sticker (3:34, seen). The ending 
 point to community. There is no callback to the opening.
 
 ## 4. Editing style
-- **One collage canvas, few cuts.** From 1:23 to 3:42 there is no scene change for 138.8s
+- One collage canvas, few cuts. From 1:23 to 3:42 there is no scene change for 138.8s
   (measured). The picture changes by elements entering and leaving the same beige page:
   cards, scales, Hebrew letters, cut-out illustrations (seen, overview). Visual energy stays
   0.53-1.01 in those minutes, so the motion is element animation, not camera or cuts.
@@ -76,7 +76,7 @@ point to community. There is no callback to the opening.
 ## 5. Graphics and animation
 - **Paper collage** (seen): a warm beige paper ground, a leaf-shadow overlay in the top
   corners, hand-drawn ink figures with a single green accent, torn-paper edges.
-- **Commandment tiles:** coloured squares (purple, orange, pink, blue, green, red, yellow),
+- Commandment tiles: coloured squares (purple, orange, pink, blue, green, red, yellow),
   each with a line icon and a diagonal strike for prohibitions (seen 0:12-0:55).
 - **Scripture cards** (seen 1:03-1:23 and 2:10-2:35):
   - a white strip with small monospace, typewriter-style text;
@@ -84,10 +84,10 @@ point to community. There is no callback to the opening.
   - a black label with the reference in white spaced capitals ("EXODUS 20:12", "PROVERBS 14:31").
   - Each card holds about 20 seconds while it is discussed. The text is small against the
     frame (seen at 240 px; legibility at phone size not checked).
-- **Original-language word as art:** "כבד" (kabad) in large green 3D block letters (1:53-2:02),
+- Original-language word as art: "כבד" (kabad) in large green 3D block letters (1:53-2:02),
   which returns with money raining around it at 2:43-2:52 (seen). The callback ties "weight"
   to "economic support".
-- **A metaphor object held long:** a balance scale with a "GOD" weight against a poor person,
+- A metaphor object held long: a balance scale with a "GOD" weight against a poor person,
   on screen from 2:19 to 3:26 as figures change pans (seen).
 - A comic sticker, "SO BACKWARDS!" (3:34), and a patterned green collage of many people
   (4:59-5:07) (seen).
@@ -102,37 +102,37 @@ point to community. There is no callback to the opening.
 - No whip, glitch, shake or flash was seen. The effects are playful accents, not transitions.
 
 ## 7. Sound (measured, or inferred from transcript)
-- **A quiet start.** 0:02-0:06 sits at −23 to −36 LUFS, with a 0.79s silence at 0:07 before
+- A quiet start. 0:02-0:06 sits at −23 to −36 LUFS, with a 0.79s silence at 0:07 before
   the first word at 8.64s (measured). The first 8 seconds are the lowest-energy audio in the
   video.
-- **A flat body with more air.** Body windows span −18.3 to −14.8 for 90% of the time
+- A flat body with more air. Body windows span −18.3 to −14.8 for 90% of the time
   (3.5 LU, measured). There are 11.75 speech gaps of 1s or more a minute (from caption
   timings), about three to four times the outliers', yet only 0.53 detected silences a
   minute. The bed fills the conversation's pauses (inferred).
-- **Music comes forward in pauses.** [music] tags appear inside the body at about 2:13, after
+- Music comes forward in pauses. [music] tags appear inside the body at about 2:13, after
   "The one who oppresses the poor taunts his maker", and at about 2:45 (seen). Auto-captions
   tend to tag music only where no speech covers it (not verified), so these read as music
   swells or stings in two pauses (inferred from transcript).
-- **Bumps from performance.** 3:00-3:04 reaches −12.8, where the voice starts quoting Jesus
+- Bumps from performance. 3:00-3:04 reaches −12.8, where the voice starts quoting Jesus
   ("Listen, Moses said"), and 3:38 reaches −13.9 on "Jesus is pretty frustrated" (measured
   levels; the cause, a louder read, is inferred from transcript).
 - **Dips** at 3:56 (−19.7), 4:42 (−20.2) and 4:50 (−22.7). The last two bracket the page turn
   at 4:45-4:47 (measured; the link is by timing).
-- **Tail.** 5:06-5:32 averages −23.4, about 7 LU under the body, under the patrons card and
+- Tail. 5:06-5:32 averages −23.4, about 7 LU under the body, under the patrons card and
   logo, then a 2.65s silence at 5:33 (measured).
 - Informal cues in the captions, "[snorts]" at about 2:22 and "Sorry" at about 3:20, mark this as a
   lightly edited conversation, not a tight script (seen).
 
 ## 8. Retention mechanics: why
-- **Clarity devices are strong.** Highlighting "your" three times makes a textual
+- Clarity devices are strong. Highlighting "your" three times makes a textual
   observation visible. The Hebrew word as a 3D object makes "honor = weight" stick, and its
   return at 2:43 is a callback. The scales stage the whole argument on one object. This is
   the job of clarity and proof, and it is worth stealing (section 10).
-- **The hook spends its first 50 seconds on bookkeeping.** An 8.6-second wordless intro,
+- The hook spends its first 50 seconds on bookkeeping. An 8.6-second wordless intro,
   then a recap of earlier episodes. A viewer who arrives from search or the home feed gets
   no problem to care about until about 0:51 (inferred). The job it does is building brand
   identity (the series intro), at the cost of tension.
-- **Conversation over script.** A natural feel and warmth are the job of identity, but at 126
+- Conversation over script. A natural feel and warmth are the job of identity, but at 126
   wpm, with 17 filler words and frequent pauses, the density drops. The long collage
   stretches then feel long, because neither the words nor the cuts are moving fast (inferred).
 - What this shows about slow editing: a low cut rate works when the words are dense and
@@ -142,18 +142,18 @@ point to community. There is no callback to the opening.
 ## 9. Outlier against control
 This is the control. What the two outliers (3EkD-alQhT8, b54d_GhBthI) do that this video
 does not, all hypotheses:
-- **Open on a universal problem or a question within 16 seconds.** Conflict at 0:00.6; "But
+- Open on a universal problem or a question within 16 seconds. Conflict at 0:00.6; "But
   why?" at 0:16. Here the video opens on a recap after 8.6s of series intro.
-- **Talk from the first second.** First words at 0.56-0.72s against 8.64s here.
-- **Script tightly.** 151-157 wpm with 3-4 filler words, against 126 wpm with 17.
-- **Keep text off screen.** 3-5% against 12%.
-- **Shared with the outliers (so probably not the cause):**
+- Talk from the first second. First words at 0.56-0.72s against 8.64s here.
+- Script tightly. 151-157 wpm with 3-4 filler words, against 126 wpm with 17.
+- Keep text off screen. 3-5% against 12%.
+- Shared with the outliers (so probably not the cause):
   - a flat bed (3.1-3.7 LU body spread in all three);
   - a music-only tail 7-10 LU under the body;
   - soft transitions;
   - no whips, glitch or shake;
   - a channel-level palette discipline.
-- **Confounds.** This is the youngest of the three (4.5 months), the outliers are 11 and 28
+- Confounds. This is the youngest of the three (4.5 months), the outliers are 11 and 28
   months old, and paid promotion was not checked. Its like rate (5.9%) is the highest of the
   three, so the viewers who come like it (measured).
 

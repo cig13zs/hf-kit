@@ -36,20 +36,20 @@ Three videos from one channel is a thin base; every range below is a sample of t
 | Likes per view | 3.8% (nw6LtopYGlc) | 4.5% (p832whe8hrI) |
 
 ## Shared devices: the house style (all seen unless marked)
-- **Narration on frame 1 and no title card.** First word at 0.0s in all three; the first
+- Narration on frame 1 and no title card. First word at 0.0s in all three; the first
   frame is an action already under way.
 - **3D animated re-enactment** with semi-realistic, expressive characters, and a camera that
   never stops moving.
-- **Hard cuts are rare.** Scene changes ride on camera moves: motion-blurred whips, push-ins,
+- Hard cuts are rare. Scene changes ride on camera moves: motion-blurred whips, push-ins,
   zoom-throughs into objects. The hard-cut counts (2-4 per video) are heavy floors.
-- **One-second caption cards:** white bold rounded sans, sentence case, soft shadow, 2-4
+- One-second caption cards: white bold rounded sans, sentence case, soft shadow, 2-4
   words, centred near 78% of frame height, with no box and no active-word highlight. The
   captions change faster than the pictures and set the rhythm.
-- **Glow on the named noun.** The object the narration names lights up (yellow, green, red,
+- Glow on the named noun. The object the narration names lights up (yellow, green, red,
   cyan or magenta) as it is said. Seven or more per video.
-- **In-world branding.** The channel name is printed on a prop or costume inside the scene
+- In-world branding. The channel name is printed on a prop or costume inside the scene
   in all three.
-- **Loud, flat, gapless mix:** about −11 LUFS, LRA about 2 LU, no silences (measured).
+- Loud, flat, gapless mix: about −11 LUFS, LRA about 2 LU, no silences (measured).
 - **The ending is the payoff image** (rescue, surfacing, finished shot) with no call to
   action and no end card.
 
@@ -64,36 +64,36 @@ Three videos from one channel is a thin base; every range below is a sample of t
 | Likes per view | 4.5% | 3.8% |
 | Loudness and spectrum follow the story | yes: loudest and bassiest in the danger beats (measured) | flat; loudest at the opening |
 
-- **H1: stakes carry the gap.** Both outliers put a life at risk in the first 1.5 seconds;
+- H1: stakes carry the gap. Both outliers put a life at risk in the first 1.5 seconds;
   the control never does. Look, captions and mix are identical, so the difference is in the
   script, not the edit surface.
-- **H2: turns keep people past the middle.** The outliers reset the question every 9-10
+- H2: turns keep people past the middle. The outliers reset the question every 9-10
   seconds with a "but" or a "You see"; the control runs as a list.
-- **H3: the answer held late is the retention engine.** The car Short answers its own title
+- H3: the answer held late is the retention engine. The car Short answers its own title
   at 83% of runtime, and the drift Short explains its setup at 61%.
-- **H4: the sound scores the danger.** Both outliers' loudness, brightness and bass move
+- H4: the sound scores the danger. Both outliers' loudness, brightness and bass move
   with the danger beats inside their flat mixes; the control's don't (measured shapes;
   the effect on viewers is a hypothesis).
 - The cut rate does not separate outliers from the control (2.2 and 5.9 against 3.3/min).
   The edit's pace is house style, not the lever.
 
 ## Sound and music profile
-- **Measured:** −10.9 to −11.6 LUFS integrated, about 3 LU hotter than the −14 LUFS
+- Measured: −10.9 to −11.6 LUFS integrated, about 3 LU hotter than the −14 LUFS
   YouTube reference, so playback is likely turned down (reference from
   `knowledge/sound-design.md` §3.3; the platform behaviour for Shorts is inferred). LRA
   2.0-2.3 LU. No silence over 0.4s anywhere. Onsets 85-91/min whether the video has 2 or 4
   hard cuts.
-- **Measured shape:** the 2-second curve stays in a 3 LU band, but p832whe8hrI shows a
+- Measured shape: the 2-second curve stays in a 3 LU band, but p832whe8hrI shows a
   story-shaped swell inside it: loudest at the window smash, lowest through the trapped
   stretch, up again at the escape. NdKRD1j9juE peaks at the shark attack. The control's peak
   is its opening, with no lift at the reveal flash.
-- **Inferred:** a continuous bed under wall-to-wall narration, with dense foley or SFX
+- Inferred: a continuous bed under wall-to-wall narration, with dense foley or SFX
   hits (85-91 onsets/min) that are not tied to cuts. This fits the chapter's fast-facts row
   ("continuous bed", `knowledge/music-and-mood.md` §5) and the Shorts rule of silences
   under about 1s (`knowledge/sound-design.md` §2.2); these videos take that to zero.
   Mood from the script: tension for the survival stories, wonder or a neutral tone for the
   trivia (inferred; no music data).
-- **Music block (all three):** tempo estimates of 73.8, 152.0 and 76.0 BPM at low
+- Music block (all three): tempo estimates of 73.8, 152.0 and 76.0 BPM at low
   confidence; cut-on-onset lift can't be computed with 2-4 cuts. Both outliers move their
   spectrum with the story: the drift Short's bass share jumps to 0.34 in the violent 20-30s
   window and a caption [music] tag sits under its ending (36.5s); the car Short is darkest

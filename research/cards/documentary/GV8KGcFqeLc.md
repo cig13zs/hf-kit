@@ -58,9 +58,9 @@ Re-hooks are spoken turns: "But, not yet" (7:03), "But wait" (39:20), "the hard 
 which step comes next (inferred).
 
 ## 4. Editing style
-- **Supercut open, then long-form rhythm.** 31-45 cuts per minute in the first two minutes,
+- Supercut open, then long-form rhythm. 31-45 cuts per minute in the first two minutes,
   then 5-28 per minute for the next hour (seen in the per-minute counts).
-- **Three picture sources rotate:** black-and-white archive in a film-gate frame, the host at a
+- Three picture sources rotate: black-and-white archive in a film-gate frame, the host at a
   desk set (green top, Tiffany-style lamp, stacks of books; seen at 16:13, 31:39-34:45, 42:28,
   50:11, 57:55), and remote expert interviews over webcam or bookshelf backdrops (40:55, 51:44,
   54:50, 56:22, seen).
@@ -70,18 +70,18 @@ which step comes next (inferred).
   gives his verdict (measured).
 
 ## 5. Graphics and animation
-- **The tabletop board.** A physical, top-down green-felt board with four labelled slots,
+- The tabletop board. A physical, top-down green-felt board with four labelled slots,
   ORIGINS, VIOLENCE, ACCEPTANCE and POWER, and brass tokens bearing the fasces and, later, the
   swastika (seen at cut pair 16:52 and 45:33). A real prop, shot in camera, not a graphic.
-- **Dossier cards:** a portrait on cream paper labelled "SPAIN / Francisco Franco" (cut pair
+- Dossier cards: a portrait on cream paper labelled "SPAIN / Francisco Franco" (cut pair
   2:29.8, seen), arriving after a gold eagle emblem on green felt.
-- **Quote and label cards:** an italic serif quote over a darkened photo, "This will be the
+- Quote and label cards: an italic serif quote over a darkened photo, "This will be the
   century" (20:51), and a small all-caps sans label, "MYTHOLOGIZED PAST", over an archive
   building (22:23) (seen).
-- **Data and lists:** "1932 GERMAN ELECTION" as a horizontal bar chart with the Nazi bar in red
+- Data and lists: "1932 GERMAN ELECTION" as a horizontal bar chart with the Nazi bar in red
   (39:23), and the checklist with about ten items and red ticks, the last item "EXPANSION" in red
   (47:06) (seen).
-- **Maps:** a yellow Germany with a Hitler portrait medallion (25:29), a grey Italy with a black
+- Maps: a yellow Germany with a Hitler portrait medallion (25:29), a grey Italy with a black
   fasces laid across it (59:28) (seen). A hand-drawn family-tree diagram (27:01) and an
   engraving of mythic warriors (27:33) carry the myth section (seen).
 - Illustrated icons for "DEMOCRACY / ILLIBERAL DEMOCRACY / FASCISM" (cut pair 53:02, seen).
@@ -96,14 +96,14 @@ than VFX (inferred).
 ## 7. Sound (measured, or inferred from transcript)
 - −16.6 LUFS integrated, LRA 6.0 LU; per-minute medians stay within −15.4 to −19.4 for the
   whole hour (measured). The narration bed is steady.
-- **One music swell at the peak of the Mussolini story.** The loudest 2s windows (17:50-17:54,
+- One music swell at the peak of the Mussolini story. The loudest 2s windows (17:50-17:54,
   −7.6 to −8.8) sit about 9 LU over the median, inside a [music] gap at the March on Rome
   (17:45-17:57), and bass share peaks at 0.60 in the next minute (measured, transcript). This is
   featured music at the chapter's climax, the "power" step (inferred).
-- **A near-silent pause before the turn to today:** 44:58-45:16 falls to −34 to −37.5, just
+- A near-silent pause before the turn to today: 44:58-45:16 falls to −34 to −37.5, just
   before "it's easy to lose yourself in this story" at 45:11 and the Mussolini-Hitler comparison
   (measured, transcript).
-- **Silences as punctuation at the heaviest lines:** four short silences at 35:10-35:18,
+- Silences as punctuation at the heaviest lines: four short silences at 35:10-35:18,
   where the transcript reaches Hitler's answer of who to blame (measured, transcript). Four
   at 47:14-47:23 around "now the hard part", the turn to today (measured, transcript). A
   cluster at 58:51-59:02 under the host's closing admission (measured, transcript).
@@ -111,7 +111,7 @@ than VFX (inferred).
   a [music] tag (measured, transcript). This is a music-out on the thesis question (inferred).
 - The end holds a run of silences from 60:34, including 2.5s and 2.8s gaps (measured), as the
   music-only outro plays (inferred).
-- **Music follows speech, not the cut:** lift 0.96 (measured). [music] tags cluster at the board
+- Music follows speech, not the cut: lift 0.96 (measured). [music] tags cluster at the board
   reveal (7:37-8:42), at the start of the sponsor read (23:59-24:07), and densely at
   42:45-46:46 around the Mussolini-Hitler comparison (measured; only the first 60 of 83 tag
   times are logged, ending at 46:46). These are music-only gaps between spoken sections
@@ -119,19 +119,19 @@ than VFX (inferred).
 - Brightness median 825 Hz (measured): a dark, warm bed, like the JFK outlier's 742 Hz (inferred).
 
 ## 8. Retention mechanics: why
-- **A supercut of the word as the hook.** Six or more speakers saying "fascism" in the first nine seconds (speaker changes seen in the transcript) prove
+- A supercut of the word as the hook. Six or more speakers saying "fascism" in the first nine seconds (speaker changes seen in the transcript) prove
   the question is live before the host says anything. The job is delivering proof, and it
   sets the rhythm high for the first minute.
-- **A humble host.** "I have a confession to make" (0:08) positions him as a fellow learner, not
+- A humble host. "I have a confession to make" (0:08) positions him as a fellow learner, not
   a pundit. The job is building identity, and it lowers the defences of viewers who expect a
   partisan take (inferred).
-- **The board as a progress bar.** Four named steps turn a 62-minute history into a route. Each
+- The board as a progress bar. Four named steps turn a 62-minute history into a route. Each
   return to the board says where we are. The job is clarity, and it resets attention (inferred).
-- **Two men, one path.** Running Hitler down the same four steps as Mussolini makes the second
+- Two men, one path. Running Hitler down the same four steps as Mussolini makes the second
   half a pattern check, not new material. The job is clarity through repetition.
-- **Disagreement as payoff.** Experts who don't agree (49:45-55:24) let the video decline a
+- Disagreement as payoff. Experts who don't agree (49:45-55:24) let the video decline a
   yes or no without feeling evasive. It asks for comments at 2:12 (inferred: 26k comments).
-- **Slow ending.** 5-8 cuts per minute and low energy in the last minutes: the argument lands
+- Slow ending. 5-8 cuts per minute and low energy in the last minutes: the argument lands
   on the host's face. The job is showing a payoff.
 
 ## 9. Outlier against control

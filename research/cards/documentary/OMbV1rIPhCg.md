@@ -54,23 +54,23 @@ challenge act (the race). The explainer's best idea, the clock, sits 21 minutes 
 late for a title that promises it).
 
 ## 4. Editing style
-- **Travel-vlog cutting.** Handheld and chest-cam shots, tilted frames, feet on platforms,
+- Travel-vlog cutting. Handheld and chest-cam shots, tilted frames, feet on platforms,
   quick transfers (seen at 27:28-32:51, 35:01-36:05). The race minutes cut at 35-45 per minute
   with the highest visual energy of the video (measured).
-- **The explainer slows down.** The timetable section falls to 6-12 cuts per minute and visual
+- The explainer slows down. The timetable section falls to 6-12 cuts per minute and visual
   energy 0.4-1.0 while an animated map runs (measured, seen at 22:05-24:14).
 - Cuts inside the race land on actions (running, doors, handing over a phone) rather than on
   sentences (cut pairs 28:16, 30:13, 37:45, seen).
 
 ## 5. Graphics and animation
-- **3D terrain:** a relief of the Alps with a glowing route line (0:15-0:26, 3:46, 7:00, 9:09,
+- 3D terrain: a relief of the Alps with a glowing route line (0:15-0:26, 3:46, 7:00, 9:09,
   seen).
-- **Old maps as base plates:** hand-coloured period maps with a red route drawn across them
+- Old maps as base plates: hand-coloured period maps with a red route drawn across them
   (2:41, 8:04, cut pair 8:54, seen), and engravings and period illustrations (4:50, 5:55, cut
   pair 8:54.6, seen).
-- **The clock network:** a flat cream map with analogue clock faces at each hub, red and green
+- The clock network: a flat cream map with analogue clock faces at each hub, red and green
   links, labels "67 MIN" and "69 MIN", and a red ":00 / :30" tag (22:05, 23:10, 24:14, seen).
-- **The canton counter:** a flat map filling with colour as cantons are ticked, with an orange
+- The canton counter: a flat map filling with colour as cantons are ticked, with an orange
   side panel "1/26 CANTONS VISITED" and a list (26:23, 28:16, 40:24, seen).
 - Altitude readouts in the corner, "11,709 ft" (16:42, seen).
 - Photographed stills with old-print colouring, a warm, textured look shared with the outliers
@@ -85,34 +85,34 @@ train-window shot (cut pair 33:23, seen). Black frames on tunnel entries work as
 ## 7. Sound (measured, or inferred from transcript)
 - −16.1 LUFS integrated with **LRA 7.9 LU**, the widest range of the three documentary videos
   (measured). This fits a mix of quiet narration, loud trains and location sound (inferred).
-- **Silence illustrates the script:** a 1.47s silence at 21:51 right after "They turned this
+- Silence illustrates the script: a 1.47s silence at 21:51 right after "They turned this
   country into a giant clock", and a 0.49s silence at 23:18 on "It's quiet." (measured,
   transcript). Three short silences at 20:41-20:43 open the timetable section (measured).
 - Only 0.23 silences per minute outside those (measured): the race runs on continuous
   location sound and music (inferred).
-- **The clock explainer is framed by quiet.** The two quietest mid-video windows are 20:42
+- The clock explainer is framed by quiet. The two quietest mid-video windows are 20:42
   (−32.4, the silences that open the section) and 22:20 (−34.2, at "Let me explain") (measured,
   transcript). The mix clears the stage before the video's key idea.
-- **The race is quieter than the explainer:** per-minute medians fall to −18.7 to −19.6 in
+- The race is quieter than the explainer: per-minute medians fall to −18.7 to −19.6 in
   25:00-30:00 (measured), where handheld location sound replaces narration over a bed (inferred).
-- **Loud on train moments:** 13:34 (the cog train leaves the station), 34:18 and 35:56 (an
+- Loud on train moments: 13:34 (the cog train leaves the station), 34:18 and 35:56 (an
   arrival and a two-minute transfer) (measured, transcript).
-- **The most music-only gaps of the three:** 82 [music] tags, 1.9 per minute; the 60 logged tag
+- The most music-only gaps of the three: 82 [music] tags, 1.9 per minute; the 60 logged tag
   times all fall in 0:41-19:52 (measured). Travel footage gets music between lines (inferred).
 - Bass share drops to 0.08-0.09 in 13:00-16:00, the Jungfrau ascent (measured): the low end
   thins out, consistent with the bed dropping under tunnel and summit sound (inferred).
 - Cuts land on onsets at chance (lift 0.99, measured), even in the race montage.
 
 ## 8. Retention mechanics: why
-- **A stunt to carry an explainer.** The race gives a travel essay a clock and a finish line.
+- A stunt to carry an explainer. The race gives a travel essay a clock and a finish line.
   The job is building tension, and the counter (1/26 to 26/26) makes the progress visible.
-- **A 3D reveal in the hook.** Pulling back from a red dot to the Alps shows the scale of the
+- A 3D reveal in the hook. Pulling back from a red dot to the Alps shows the scale of the
   tunnel in 10 seconds. The job is clarity.
-- **The clock map.** Clock faces at each hub make "every 30 minutes" visible. The job is
+- The clock map. Clock faces at each hub make "every 30 minutes" visible. The job is
   clarity, and it is the video's best explanatory device (inferred).
 - **Silence on "It's quiet."** The sound acts out the stillness at the top of the hour. The
   job is clarity through sound.
-- **Community helpers.** Locals appear on the train (31:47, 33:56, seen) and are thanked at the
+- Community helpers. Locals appear on the train (31:47, 33:56, seen) and are thanked at the
   end. The job is building the channel's identity as community journalism.
 
 ## 9. Outlier against control

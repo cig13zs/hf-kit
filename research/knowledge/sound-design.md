@@ -33,10 +33,10 @@ and small web/HTML games.
 ## 1. SFX taxonomy for editing
 
 Timing columns use these terms:
-- **Lead**: how far the sound starts before the visual event (the cut, the hit, the
+- Lead: how far the sound starts before the visual event (the cut, the hit, the
   appearance).
-- **Sync point**: which part of the sound lands on the event frame.
-- **Tail**: how long it rings after.
+- Sync point: which part of the sound lands on the event frame.
+- Tail: how long it rings after.
 
 All timings, lengths and genre notes in this table are **practice (inferred)** from
 common editing convention unless a source key appears.
@@ -65,14 +65,14 @@ common editing convention unless a source key appears.
 
 ### Placement decision rules (practice, inferred)
 
-- **Whoosh on a cut**: align the whoosh peak to the cut frame, not its start. If the
+- Whoosh on a cut: align the whoosh peak to the cut frame, not its start. If the
   file has a slow build, the start will sit 4-10 frames before the cut.
-- **Riser into reveal**: end the riser on the reveal frame; put an impact on the
+- Riser into reveal: end the riser on the reveal frame; put an impact on the
   same frame; drop the music 0.3-1 s before the reveal (see 2.2).
-- **Impact**: 0 frames lead. If it feels late, move it 1 frame earlier, never later.
+- Impact: 0 frames lead. If it feels late, move it 1 frame earlier, never later.
   Audiences tolerate sound slightly after the picture better than before (this
   matches broadcast lip-sync tolerance windows; practice, inferred).
-- **Text pop**: on the first visible frame, or on the overshoot frame of a
+- Text pop: on the first visible frame, or on the overshoot frame of a
   scale-bounce.
 - **Tails** of impacts and booms may run under the next shot; they must not run
   under the next spoken line at full level. Fade or duck them.

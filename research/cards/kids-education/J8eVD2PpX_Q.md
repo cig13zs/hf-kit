@@ -48,7 +48,7 @@ The pattern is guess, reveal, then build: each club or split adds one fact about
 badge row shows how many she has collected.
 
 ## 4. Editing style
-- **One continuous camera.** Five hard cuts in 2:06 (measured). Two are the ball reveal (0:45.0,
+- One continuous camera. Five hard cuts in 2:06 (measured). Two are the ball reveal (0:45.0,
   0:45.9), one is the end screen (1:51.4), and a 0.28s pair at 1:11.0-1:11.3 is likely the same
   ball device again (inferred from the ball close to the camera at 1:10.9). Everything else is a
   camera flight through one 3D book world (seen).
@@ -58,7 +58,7 @@ badge row shows how many she has collected.
 ## 5. Graphics and animation
 - A 3D block character: 30 pale-yellow blocks and 3 yellow ones, three columns wide (seen). The
   block count is the number, so the body is the lesson (inferred).
-- **Persistent badges:** the numeral "33" top-left, and a growing row of club icons top-right
+- Persistent badges: the numeral "33" top-left, and a growing row of club icons top-right
   (4-5 icons by 1:39, seen).
 - Blueprint-grid backgrounds inside a green-rimmed page, so every scene reads as a page of the
   book (seen).
@@ -66,7 +66,7 @@ badge row shows how many she has collected.
   11-block players in goals (1:17-1:33) (seen).
 
 ## 6. VFX and transitions
-- **Object wipe for the reveal:** the ball grows to fill the frame with "33" on it, then the
+- Object wipe for the reveal: the ball grows to fill the frame with "33" on it, then the
   camera pulls back to the character with the badge (0:45.0-0:46.0, seen in cut pairs).
 - Glow and star sparkles around the book (seen), confetti on the cheer (1:42.4), a
   cloud-and-star thought bubble (1:36.1) (seen).
@@ -74,28 +74,28 @@ badge row shows how many she has collected.
   template (seen in both hook sheets).
 
 ## 7. Sound (measured only)
-- **The widest range in the niche:** LRA 13.2 LU (measured). The mix swings between music
+- The widest range in the niche: LRA 13.2 LU (measured). The mix swings between music
   moments, near-silence and the cheer.
-- **A pause for the answer:** 1.73s of silence at 0:40.5 and −33.5 LUFS at 0:42, between the
+- A pause for the answer: 1.73s of silence at 0:40.5 and −33.5 LUFS at 0:42, between the
   question and "Yes, it's Numberblock 33" (measured; that it leaves time for a child to shout
   the answer is inferred from the transcript).
-- **Other pauses:** after the jingle (0:08.9), before "Handball!" (0:55.3), and before the end
+- Other pauses: after the jingle (0:08.9), before "Handball!" (0:55.3), and before the end
   screen (1:50.7) (measured timings; readings inferred).
-- **A quiet beat before the book opens:** −36.3 LUFS at 0:10 (measured).
-- **The cheer is the peak:** −15.4 LUFS at 1:38, on "Shout, cheer, go wild" (measured).
-- **End screen:** −29 to −34 LUFS with bass share 0.41-0.50 (measured), a soft low music tail
+- A quiet beat before the book opens: −36.3 LUFS at 0:10 (measured).
+- The cheer is the peak: −15.4 LUFS at 1:38, on "Shout, cheer, go wild" (measured).
+- End screen: −29 to −34 LUFS with bass share 0.41-0.50 (measured), a soft low music tail
   (inferred).
 - 8 silences in 2:06 (3.81/min), about three times the control's rate (measured).
 
 ## 8. Retention mechanics: why
-- **Silhouette and clues.** The viewer tries to guess before the name. This builds tension at
+- Silhouette and clues. The viewer tries to guess before the name. This builds tension at
   a preschool scale and invites participation.
-- **A real answer pause.** 1.73 seconds of silence after the question gives the child a turn
+- A real answer pause. 1.73 seconds of silence after the question gives the child a turn
   (inferred). Participation, then the payoff.
-- **A theme that gives the number a personality.** Football makes 33 "a cool kicker" with
+- A theme that gives the number a personality. Football makes 33 "a cool kicker" with
   gags and a triangular pitch. Identity.
-- **A badge row as progress.** Each club adds an icon, so the viewer sees facts pile up. Clarity.
-- **Show the parts.** 33 as ones, as threes, as three elevens. Proof of the structure, not just
+- A badge row as progress. Each club adds an icon, so the viewer sees facts pile up. Clarity.
+- Show the parts. 33 as ones, as threes, as three elevens. Proof of the structure, not just
   a claim.
 - **"Who shall we meet next?"** It ends on a loop into the series (inferred).
 

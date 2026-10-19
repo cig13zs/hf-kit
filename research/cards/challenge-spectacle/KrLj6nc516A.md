@@ -52,20 +52,20 @@ every new price is a new chapter (inferred). There is no sponsor read; the Feast
 survives the blast instead, a product placement inside the stunt (seen, 3:35-4:07).
 
 ## 4. Editing style
-- **Steady fast cutting.** 25-38 cuts in every full minute and a 1.63s median (measured). The
+- Steady fast cutting. 25-38 cuts in every full minute and a 1.63s median (measured). The
   rhythm never changes across 15 minutes; the ladder supplies the variation (inferred).
 - **In-car two-shots** dominate the driving sections (seen at 1:22, 1:45, 7:36, 8:47, 9:10,
   11:31, 12:17), cut against exterior tracking and drone shots of the car (seen at 2:55, 5:16,
   8:00, 10:03, 11:54).
-- **Reaction on the line.** Cut pairs 1:12, 5:12, 8:45 go from the car to a face mid-reaction
+- Reaction on the line. Cut pairs 1:12, 5:12, 8:45 go from the car to a face mid-reaction
   (seen).
 - The ending has no outro: the last minute is still driving footage (seen, 15:01-15:25).
 
 ## 5. Graphics and animation
-- **Price tags:** bold green numerals with a dark outline and a soft glow ("$1", "$100,000,000"),
+- Price tags: bold green numerals with a dark outline and a soft glow ("$1", "$100,000,000"),
   and a row of green "$1M" tags under a lineup of cars (0:10, 0:21, 7:13, 14:15, seen).
-- **Pointer labels:** "CAR OWNER" with a red arrow, "TWIN" in a white box (0:25, 9:57, seen).
-- **Punch captions for key lines:** heavy italic white capitals with a blue or black outline,
+- Pointer labels: "CAR OWNER" with a red arrow, "TWIN" in a white box (0:25, 9:57, seen).
+- Punch captions for key lines: heavy italic white capitals with a blue or black outline,
   "SAFEST CAR ON THE PLANET" (2:32), "MILITARY-GRADE CAR?!" (cut pair 2:34), "I FEEL LIKE I'M IN
   NASCAR" (cut pair 7:37) (seen). One caption per beat, not continuous subtitles.
 - A small channel bug in the top-left corner on many frames (seen).
@@ -79,18 +79,18 @@ survives the blast instead, a product placement inside the stunt (seen, 3:35-4:0
 - Otherwise hard cuts (seen).
 
 ## 7. Sound (measured, or inferred from transcript)
-- **The loudest master in the batch:** −5.6 LUFS integrated, LRA 4.7 LU, and not one silence
+- The loudest master in the batch: −5.6 LUFS integrated, LRA 4.7 LU, and not one silence
   over 0.4s in 15 minutes (measured). YouTube turns it down at playback (knowledge chapter),
   so the effect that survives is density: there is never a gap (inferred).
-- **The peaks are shouting:** 4:34 ("THIS DOESN'T FEEL RIGHT" in the amphibious car) and 7:32
+- The peaks are shouting: 4:34 ("THIS DOESN'T FEEL RIGHT" in the amphibious car) and 7:32
   ("WE'RE NEVER GOING TO DIE" on the track) (measured, transcript).
-- **The only quiet moment is a joke.** 8:24-8:28 drops to −17.5 while the hydrogen car's slow
+- The only quiet moment is a joke. 8:24-8:28 drops to −17.5 while the hydrogen car's slow
   door closes, in a gap in the transcript after "let's see how she closes" (measured,
   transcript). Silence is used once, for comedy.
 - The explosion at ≈3:47-4:01 sits in a transcript gap after "THREE, TWO, ONE" (seen), but it
   is not among the loudest windows (measured), so the mix does not let the blast stand out
   above the voices (inferred).
-- **Caption tags mark the stunts:** [screaming] at 3:45 (the explosion countdown), 4:54-5:14
+- Caption tags mark the stunts: [screaming] at 3:45 (the explosion countdown), 4:54-5:14
   (the amphibious car) and 7:33 (the track) (measured). [music] tags cluster at 5:17-6:50 (water
   and flying cars) and 13:41-15:34 (the $30M to $100M cars) (measured): the top of the ladder
   gets music-only moments (inferred).
@@ -99,16 +99,16 @@ survives the blast instead, a product placement inside the stunt (seen, 3:35-4:0
   3:00-5:00, around the explosion and the water car, and again in 10:00-11:00 (measured).
 
 ## 8. Retention mechanics: why
-- **A ladder in the title.** "$1 vs $100,000,000" tells the viewer the video's whole structure,
+- A ladder in the title. "$1 vs $100,000,000" tells the viewer the video's whole structure,
   and every step shows progress toward the top. The job is setting the rhythm and building
   tension toward the $100M reveal.
-- **Show the top first.** The $100M label at 0:10 is the carrot; the $1 car at 0:21 starts the
+- Show the top first. The $100M label at 0:10 is the carrot; the $1 car at 0:21 starts the
   climb. The job is showing a payoff first.
-- **Verbs as the promise.** "exploding, sailing, driving, and even flying" (0:08-0:16) maps to
+- Verbs as the promise. "exploding, sailing, driving, and even flying" (0:08-0:16) maps to
   four shots in the hook. The job is delivering proof that the stunts are real.
-- **A twist at the top.** The $100M car is an old Ferrari, against the viewer's image of a
+- A twist at the top. The $100M car is an old Ferrari, against the viewer's image of a
   futuristic car (14:14-14:20). The job is showing a payoff with a surprise.
-- **No sponsor break.** The chocolate brand rides inside the explosion gag. The job is keeping
+- No sponsor break. The chocolate brand rides inside the explosion gag. The job is keeping
   the ladder unbroken (inferred).
 
 ## 9. Outlier against control

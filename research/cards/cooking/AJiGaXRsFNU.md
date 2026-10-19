@@ -66,10 +66,10 @@ Re-hooks:
 - **The cut rate decays from 60 to 22 a minute across the video** (measured by segment):
   the hook is a montage, the body a steady vlog rhythm at about 31 a minute, and the last
   minute a slower reflection.
-- **Jump cuts on phrase boundaries.** 22% of cuts land in caption gaps that make up 14% of
+- Jump cuts on phrase boundaries. 22% of cuts land in caption gaps that make up 14% of
   the speech span, a lift of 1.56, the strongest in this niche (measured, approximate
   caption timings).
-- **The tasting description gets the longest hold.** The one 17-second shot (6:18-6:35) is
+- The tasting description gets the longest hold. The one 17-second shot (6:18-6:35) is
   him describing barbecue flavour to camera (seen, transcript). The verdict is the one
   thing he doesn't cut.
 - Coverage: a handheld host with the camera in front, guides in two-shots, food inserts in
@@ -80,9 +80,9 @@ Re-hooks:
 ## 5. Graphics and animation
 - **Food stickers** pop around his head in the first seconds (0:02, seen). This is the only
   cartoon graphic in the sampled frames.
-- **The flashback inset:** a rounded-corner picture-in-picture on black for archival footage
+- The flashback inset: a rounded-corner picture-in-picture on black for archival footage
   (0:04.5-0:07.5, seen).
-- **The tier-list board:** S, A, B, C, D bands in red-to-green colours on the left, a black
+- The tier-list board: S, A, B, C, D bands in red-to-green colours on the left, a black
   board, cherry blossoms behind. It is shown empty in the hook (0:27) and filling up with
   food thumbnails later (9:09) (seen).
 - No word-by-word captions in the sampled frames, unlike the caviar video (seen). OCR
@@ -96,34 +96,34 @@ Re-hooks:
 - Sticker pop-ins (0:02, seen). No whips, glitch or shake were seen.
 
 ## 7. Sound (measured, or inferred from transcript)
-- **A quiet master.** −21.0 LUFS integrated, 7 dB under YouTube's reference (measured). By the
+- A quiet master. −21.0 LUFS integrated, 7 dB under YouTube's reference (measured). By the
   knowledge chapter's rule YouTube does not turn quiet uploads up, so this plays noticeably
   quieter than most videos (inferred).
-- **Almost no silence.** 0.26 silences a minute and 1.93 speech gaps of 1s or more a minute,
+- Almost no silence. 0.26 silences a minute and 1.93 speech gaps of 1s or more a minute,
   the fewest in the set (measured). The bed and street ambience fill everything (inferred).
-- **Suspense beats before verdicts.** 17:58 reaches −27.8, with a 1.09s silence, on "So, how
+- Suspense beats before verdicts. 17:58 reaches −27.8, with a 1.09s silence, on "So, how
   does it stand? Honestly," just before the verdict (measured, transcript). Other dips of
   about −28 recur every 1-2 minutes through the body (measured). They are consistent with a
   breath before each score, though not every one was checked against the transcript.
-- **Music surfaces at jokes and the end.** [music] with [laughter] at 5:02, then [music] at
+- Music surfaces at jokes and the end. [music] with [laughter] at 5:02, then [music] at
   21:01 and 22:34-22:41 (measured). The outro sits at −28 to −37.
 - The spectrum is less dark than the caviar video (962 against 621 Hz median brightness,
   measured), consistent with brighter street ambience or music (inferred).
 - The cuts are not music-locked: a lift of 1.13, and tempo is unreliable (measured).
 
 ## 8. Retention mechanics: why
-- **A twist about the host.** A Japanese-food expert who has never been to Japan gives the
+- A twist about the host. A Japanese-food expert who has never been to Japan gives the
   trip stakes for him personally. This builds tension and identity.
-- **The tier list as a spine.** Every item ends in a score, so the viewer always knows when
+- The tier list as a spine. Every item ends in a score, so the viewer always knows when
   a beat closes and waits to see whether the next one beats the board. It resets attention
   about once a minute and shows a payoff each time.
-- **The best item promised for the end.** An explicit open loop from 0:29 to 22:04. This is
+- The best item promised for the end. An explicit open loop from 0:29 to 22:04. This is
   the job of tension.
-- **The montage hook at 60 cuts a minute.** It shows the whole trip's variety in 25 seconds,
+- The montage hook at 60 cuts a minute. It shows the whole trip's variety in 25 seconds,
   as proof of abundance. It works because every shot is a different place or food (inferred).
-- **The city change at the mid-point.** Tokyo to Osaka resets the setting and restarts the
+- The city change at the mid-point. Tokyo to Osaka resets the setting and restarts the
   "will anything beat this" question (inferred).
-- **The verdict held in one take.** Taste descriptions get the long shots, so the viewer
+- The verdict held in one take. Taste descriptions get the long shots, so the viewer
   trusts the judgement. This builds identity.
 
 ## 9. Outlier against control
@@ -134,8 +134,8 @@ Hypotheses:
 - **One running scoreboard with an ending champion,** against per-round verdicts that
   reset every 3 minutes. Both score things, but only the outlier carries one table across
   the whole video.
-- **Length.** 23 minutes against 42.
-- **Shared, so probably not the cause:**
+- Length. 23 minutes against 42.
+- Shared, so probably not the cause:
   - about 30 cuts a minute in the body;
   - about 230 wpm;
   - jump cuts on phrase boundaries;

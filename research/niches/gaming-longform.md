@@ -47,23 +47,23 @@ video have a menu on one side (seen). The counts mix edits and menus.
 | Laughter caption tags/min | 0.15 (UjjRGyre3RY, auto captions) | about 1.0 (Qk0iCPmtLUA, 2teag5QC7NA, human captions); the caption types differ, so this is not a clean comparison |
 
 ## Shared devices (all three: the house style)
-- **First-person gameplay, nothing added.** The game's HUD, chat and nametags stay on; no captions,
+- First-person gameplay, nothing added. The game's HUD, chat and nametags stay on; no captions,
   arrows, lower thirds or facecam (0-3% added text, measured; seen in every overview frame).
-- **Live commentary recorded while playing.** First word at 0.0s, first person, present tense, to
+- Live commentary recorded while playing. First word at 0.0s, first person, present tense, to
   the viewer and to the other players in the same breath (transcript, all three).
-- **Hard cuts only.** No zooms, whips, speed ramps, shakes or overlays in any sampled frame (seen).
+- Hard cuts only. No zooms, whips, speed ramps, shakes or overlays in any sampled frame (seen).
   Jump cuts remove travel and grind (seen in cut pairs), and many cuts sit on an inventory screen
   (5-10 of 12 sampled pairs, seen).
-- **Dead air is kept.** 10.0-11.6 silences per minute, 12.7-15.3% of the runtime (measured).
+- Dead air is kept. 10.0-11.6 silences per minute, 12.7-15.3% of the runtime (measured).
   Nobody fills quiet mining with music.
-- **People are the loudest thing.** The loudest window in each video is laughter or an excited
+- People are the loudest thing. The loudest window in each video is laughter or an excited
   shout, 8-17 LU over the median (measured, matched to transcript).
-- **Music is an event, not a bed.** The two Hermitcraft episodes have one time-lapse each with
+- Music is an event, not a bed. The two Hermitcraft episodes have one time-lapse each with
   music (58:39 and 11:45); the only other tag is one at 5:44.8 in UjjRGyre3RY's old-version segment; Nice Life's music tags are all event cues
   (measured).
-- **Spoken signposts instead of graphics:** "skip ahead", "day two", "let's go and check on",
+- Spoken signposts instead of graphics: "skip ahead", "day two", "let's go and check on",
   "why don't we do a little timelapse" (transcript).
-- **The same ending:** a recap of progress, what's next, "Goodbye" (transcript, all three).
+- The same ending: a recap of progress, what's next, "Goodbye" (transcript, all three).
 
 ## Outlier against control (every causal claim is a hypothesis)
 | Dimension | Outliers (Qk0iCPmtLUA, 2teag5QC7NA) | Control (UjjRGyre3RY) |
@@ -92,24 +92,24 @@ Hypotheses:
 5. **Pace is not it.** The control cuts as fast or faster than both outliers.
 
 ## Sound and music profile
-- **Level:** −19.3 to −22.3 LUFS integrated (measured), 5-8 LU under the −14 reference. With peaks
+- Level: −19.3 to −22.3 LUFS integrated (measured), 5-8 LU under the −14 reference. With peaks
   from laughter reaching −7 LUFS, a louder master would clip or need heavy limiting (inferred). A new
   channel should still aim at −14 with a true-peak limiter and leave the laughs intact.
-- **Range:** 9.7-15.0 LU (measured), the widest niche in this batch (tech news 2.4-3.2, true crime
+- Range: 9.7-15.0 LU (measured), the widest niche in this batch (tech news 2.4-3.2, true crime
   5.0-8.2, documentary 5.9-7.9). Nothing is levelled between quiet play and group moments.
-- **Silence:** 12.7-15.3% of the runtime (measured), mostly quiet play with nobody talking
+- Silence: 12.7-15.3% of the runtime (measured), mostly quiet play with nobody talking
   (inferred). Some gaps are structural: 3.3s before "day two" (Qk0iCPmtLUA 20:02), 3.5s over a death
   screen (2teag5QC7NA 3:58), 4.1s on a loading screen (UjjRGyre3RY 15:48), 2s after "Listen to
   this" (UjjRGyre3RY 4:21) (measured, matched to transcript).
-- **Drop before the peak:** Nice Life's finale has 2.4-3.3s gaps at 41:03-41:08, 16 seconds before
+- Drop before the peak: Nice Life's finale has 2.4-3.3s gaps at 41:03-41:08, 16 seconds before
   its loudest window (41:24), and its explosion at 3:56 falls 50 LU into the death screen at 4:00
   (measured).
-- **Music:** one time-lapse per Hermitcraft episode (about 27-28s, measured through tags and
+- Music: one time-lapse per Hermitcraft episode (about 27-28s, measured through tags and
   transcript gaps) and server event cues in Nice Life. This matches the chapter's gaming row: game
   audio first, low bed or none, music swells for highlights.
-- **Timbre:** brightness 1018-1329 Hz, bass share 0.09-0.26 (measured): bright, thin audio of
+- Timbre: brightness 1018-1329 Hz, bass share 0.09-0.26 (measured): bright, thin audio of
   voice chat and game sounds, the brightest niche in this batch (inferred).
-- **No beat cutting:** lift 0.94-1.13 (measured).
+- No beat cutting: lift 0.94-1.13 (measured).
 
 ## Steal list
 | Technique | Measured range | Works when | Backfires when | HyperFrames recipe |

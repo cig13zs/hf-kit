@@ -58,12 +58,12 @@ all bad news" (4:28) (transcript). It is built like a teardown: how it works, wh
 why it's legal, who pushes back.
 
 ## 4. Editing style
-- **Even, fast cutting.** 14-22 cuts per minute in every minute of the body, with no slow document
+- Even, fast cutting. 14-22 cuts per minute in every minute of the body, with no slow document
   stretch (measured).
-- **More b-roll, fewer receipts.** In the 40-frame overview I count about 11 stock, drone or
+- More b-roll, fewer receipts. In the 40-frame overview I count about 11 stock, drone or
   product frames, about 13 documents or screens, about 5 icon diagrams and 3-4 memes (seen; my
   count). The two outliers lean on documents and memes instead (see the niche sheet).
-- **Words stacked in time with speech.** The three-word stack at 0:12-0:14.5 lands word by word
+- Words stacked in time with speech. The three-word stack at 0:12-0:14.5 lands word by word
   with the narration (seen against transcript). The same device returns in the sponsor
   ("REACHABILITY", "EXPLOITABILITY", "BLAST RADIUS", 5:30.9, seen).
 - **Cuts near onsets** a little above chance, lift 1.15 (measured).
@@ -73,14 +73,14 @@ why it's legal, who pushes back.
   identical pickups (1:50.3), "DATA.JSON" with an "LTE" arrow into the cloud (cut pair 2:14.2), a
   plate and a running clock "23:45:49" (2:43.3), a location pin with a dashed arrow to a phone
   (3:09.7) (seen). Flat, white-on-black, one idea per frame.
-- **Callouts on footage:** "MOTION SENSOR" sticker with a white arrow on a product photo (cut pair
+- Callouts on footage: "MOTION SENSOR" sticker with a white arrow on a product photo (cut pair
   1:48.0), "LASER RANGE FINDER" on drone footage (4:11.5), "FOURTH AMENDMENT" on a staircase meme
   (3:18.6) (seen).
-- **Sticker type:** heavy condensed caps, black on yellow or orange boxes, or white with a black
+- Sticker type: heavy condensed caps, black on yellow or orange boxes, or white with a black
   outline, tilted (seen 0:13, 1:15, 2:52).
-- **Documents:** court text with an orange highlight (3:09.7), a report with a red underline
+- Documents: court text with an orange highlight (3:09.7), a report with a red underline
   (1:23.8), news articles on black (3:36.2) (seen).
-- **Title card:** "THE CODE REPORT" in a white-outlined square with a yellow date tag (0:48.5, seen).
+- Title card: "THE CODE REPORT" in a white-outlined square with a yellow date tag (0:48.5, seen).
 
 ## 6. VFX and transitions
 - **Pixel glitch** on one sampled cut (3:16.9 post frame shows block noise, seen).
@@ -89,25 +89,25 @@ why it's legal, who pushes back.
 - No whips, zoom-throughs or shakes (seen).
 
 ## 7. Sound (measured, or inferred from transcript)
-- **Louder than the two outliers but still quiet:** −20.3 LUFS, LRA 3.2 LU (measured).
-- **No silence in the body.** One 0.74s gap in the final second (measured).
-- **Darker and bassier than both outliers:** brightness median 596 Hz against 908, bass share
+- Louder than the two outliers but still quiet: −20.3 LUFS, LRA 3.2 LU (measured).
+- No silence in the body. One 0.74s gap in the final second (measured).
+- Darker and bassier than both outliers: brightness median 596 Hz against 908, bass share
   0.50 against 0.28-0.29 (measured). A different bed, a different voice chain, or more low-end
   b-roll sound could cause it (inferred; no audio heard).
-- **The meme clip is the loudest moment.** 3:54-3:56 peaks at −17.5 LUFS, overlapping the end of a
+- The meme clip is the loudest moment. 3:54-3:56 peaks at −17.5 LUFS, overlapping the end of a
   borrowed clip at 3:50-3:54.6 (`>>` in transcript; the meme face is seen in cut pair 3:56.2), and the captions put the only [music] tag at 3:55.6
   (measured).
 - **Last minute about 2 LU quieter** than the body (−22.1 against −20.2, measured): the sponsor and
   sign-off.
 
 ## 8. Retention mechanics: why
-- **"You" in the first sentence.** The viewer's own drive is the example, which makes a policy
+- "You" in the first sentence. The viewer's own drive is the example, which makes a policy
   story personal. The job is building tension.
-- **Show the pipeline.** Camera, model, cloud, database, each as one icon frame. The job is
+- Show the pipeline. Camera, model, cloud, database, each as one icon frame. The job is
   clarity: a system you can picture is a system you can be angry at.
-- **Named abuse cases.** Three short news cases at 3:32-3:54 turn "this could be abused" into
+- Named abuse cases. Three short news cases at 3:32-3:54 turn "this could be abused" into
   "this was abused" (transcript). The job is delivering proof.
-- **A counter-hero at the end.** The open-source map and its cease-and-desist reply give the story
+- A counter-hero at the end. The open-source map and its cease-and-desist reply give the story
   a win before the sponsor. The job is showing a payoff.
 
 ## 9. Outlier against control

@@ -43,7 +43,7 @@ turn: laughter to seriousness at about 0:40. There is no open loop and no card a
 (seen).
 
 ## 4. Editing style
-- **Two halves.** 0:04-0:39: the split-screen clip and a fast, funny panel section.
+- Two halves. 0:04-0:39: the split-screen clip and a fast, funny panel section.
   0:41-1:24: mostly one medium shot of one speaker, with cutaways to three listeners
   (0:51, 1:06, 1:12) (seen).
 - Split-screen reaction panel: the bottom panel swaps between guests every 1-3 seconds
@@ -55,7 +55,7 @@ turn: laughter to seriousness at about 0:40. There is no open loop and no card a
 ## 5. Graphics and animation
 - Question card: white box, black heavy uppercase, two lines (seen). The same system as the
   channel's outliers.
-- **Speaker-coloured captions, five colours:** host yellow, one guest pink, another white,
+- Speaker-coloured captions, five colours: host yellow, one guest pink, another white,
   the monologue guest green, and italic light captions for the news clip (seen).
 - Rounded-corner frame for the clip; dark room with red and grey tones (seen).
 - Like-button sticker (seen).
@@ -67,23 +67,23 @@ turn: laughter to seriousness at about 0:40. There is no open loop and no card a
 ## 7. Sound (measured only)
 - −16.4 LUFS integrated, LRA 5.8 LU: the most dynamic mix of the three in this niche
   (measured).
-- **Loud first half, quiet second:** the 2-second curve peaks at −12.8 (22s) and −13.1
+- Loud first half, quiet second: the 2-second curve peaks at −12.8 (22s) and −13.1
   (34s), during the clip and the laughter, then sits at −16.7 to −20.0 for the monologue
   (measured). A 3-5 LU drop as the mood turns serious (the link to content is inferred).
-- **Pauses return in the monologue:** 16 of 18 silences over 0.4s fall after 0:40 (measured).
+- Pauses return in the monologue: 16 of 18 silences over 0.4s fall after 0:40 (measured).
   The edit leaves the speaker's thinking pauses in (inferred).
 - Brightness swings from 828 to 1758 Hz per 10s; no [music] caption tags; no stable tempo
   (measured). There's no evidence of a music bed (inferred).
 - Onsets 80.7/min, the lowest of the three (measured).
 
 ## 8. Retention mechanics: why
-- **News clip in 4 seconds.** A famous face and a topical line. Job: resetting attention
+- News clip in 4 seconds. A famous face and a topical line. Job: resetting attention
   after the setup.
-- **Reaction panel under the clip.** Viewers watch experts react while the clip plays.
+- Reaction panel under the clip. Viewers watch experts react while the clip plays.
   Job: building identity (the show's panel as the lens).
-- **Laughter section.** Energy peaks at 0:20-0:39 (loudest readings, fastest cutting). Job:
+- Laughter section. Energy peaks at 0:20-0:39 (loudest readings, fastest cutting). Job:
   showing a payoff for the setup.
-- **The monologue.** It delivers the channel's real argument, but in one shot with
+- The monologue. It delivers the channel's real argument, but in one shot with
   pauses, at the point where visual energy falls by almost half (to 0.64). The sag lines up with where a
   Short usually loses viewers (inferred; retention isn't measured).
 
@@ -94,12 +94,12 @@ captions, and hard cuts only. What the outliers do that this one doesn't, all hy
 - **A personal-use topic** (your health, dangerous people you might meet) against political
   news whose stake is abstract.
 - **An expert credential in frame 1 or a named reveal** against small role tags later.
-- **No sag:** the outliers keep silences near zero after the first 13 seconds (1 and 0),
+- No sag: the outliers keep silences near zero after the first 13 seconds (1 and 0),
   and 0YVdjmU13E4 holds visual energy at 1.64-1.68 across both minutes; this one has 16
   pauses in its last 44 seconds and drops to 0.64 (measured).
 - **One idea per clip** (8Ho3a4bkkV8) or a trailer built with inserts (0YVdjmU13E4), against a
   clip that switches from comedy to a serious monologue halfway.
-- **Cuts with the sound:** both outliers cut on audio onsets above chance (lift 2.26 and
+- Cuts with the sound: both outliers cut on audio onsets above chance (lift 2.26 and
   1.21); this one cuts below chance (0.59) (measured). Cutting on word starts feels tighter
   (inferred).
 It is also the youngest of the three (8 days), so some of the gap is time (inferred).

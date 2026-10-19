@@ -39,7 +39,7 @@ Cuts every 1-2 seconds throughout (32 cuts/min, measured). Shots in order (seen)
 - 0:14 People wading in the tank.
 - 0:15.5 The processing room in hairnets.
 - 0:18.5 The host outdoors.
-- **0:19.5-0:21.5 A preview of the ending:** four tins on ice labelled "LEVEL 1", "LEVEL 2",
+- 0:19.5-0:21.5 A preview of the ending: four tins on ice labelled "LEVEL 1", "LEVEL 2",
   "LEVEL 3" and "LEVEL 4" in yellow, about 0.5s each.
 - 0:22-0:25 The host at the farm: "but first let's make some caviar".
 - 0:25.5 He meets the CEO.
@@ -70,7 +70,7 @@ Re-hooks:
 - **About 30 cuts a minute from start to finish** (28-36/min in every segment, measured).
   Nothing is held longer than 11.4s. The pace does not change between the process half
   and the tasting half.
-- **Jump cuts on phrase boundaries.** 24% of cuts fall in caption gaps that make up 17% of
+- Jump cuts on phrase boundaries. 24% of cuts fall in caption gaps that make up 17% of
   the speech span, a lift of 1.43 (measured, approximate caption timings). Breaths and
   pauses are cut out, and the cut lands where a sentence joins the next.
 - **Coverage mix** (seen, overview):
@@ -79,7 +79,7 @@ Re-hooks:
   - macro of the roe;
   - a studio kitchen for the tasting;
   - hero shots of tins on ice against white (17:22, 19:04, 21:17).
-- **A self-referential cutaway joke.** Introducing "a local college student" (14:12-14:17),
+- A self-referential cutaway joke. Introducing "a local college student" (14:12-14:17),
   the edit cuts to an inset of one of the channel's own older videos on black (14:16.7, seen).
 
 ## 5. Graphics and animation
@@ -99,35 +99,35 @@ Re-hooks:
   from effects.
 
 ## 7. Sound (measured, or inferred from transcript)
-- **A wall of sound.** 0.14 silences a minute, 3 in 22 minutes, and only 2.85 speech gaps of
+- A wall of sound. 0.14 silences a minute, 3 in 22 minutes, and only 2.85 speech gaps of
   1s or more a minute (measured). Voice at 229 wpm plus a bed leaves no dead air.
-- **A dark, bass-weighted spectrum.** Median brightness is 621 Hz, against about 1100-1200 Hz
+- A dark, bass-weighted spectrum. Median brightness is 621 Hz, against about 1100-1200 Hz
   for the talk-led tech reviews, and bass share is 0.25 (measured). A continuous bed with
   strong low end under the voice is likely (inferred; audio was not listened to). Brightness drops
   further through the processing-room minutes (7:00-11:00): a 531 Hz mean against 691 Hz for the rest (measured). That could be the
   music or the room's machinery; it can't be separated.
-- **Dips mark beats.**
+- Dips mark beats.
   - 3:52-3:54 falls to −26 after a joke about the borrowed jacket (transcript).
   - 5:22 reaches −27.4 on "let's not [word missing] this up". The dropped word points to a
     censor mute or bleep (inferred from transcript).
   - 14:54 falls to −26.5, with a 0.96s silence, in a taster interview.
-- **A music-only end.** [music] tags at 21:52, 21:58 and 22:05, with the level at −27 to
+- A music-only end. [music] tags at 21:52, 21:58 and 22:05, with the level at −27 to
   −38 (measured).
 - The cuts are not music-locked: a lift of 1.14, and tempo is unreliable (measured).
 
 ## 8. Retention mechanics: why
-- **A price as the hook.** "$120" for a tiny tin, in green, in the fifth second. A number
+- A price as the hook. "$120" for a tiny tin, in green, in the fifth second. A number
   the viewer can feel creates the question for them. This is the job of tension.
-- **Payoff shown first.** The four-level preview at 0:19.5-0:21.5 tells the viewer the video
+- Payoff shown first. The four-level preview at 0:19.5-0:21.5 tells the viewer the video
   ends in a ranked tasting, so the 13-minute process half is a road to a known destination
   (inferred). This shows a payoff, and it builds tension.
-- **The host at risk.** Cold water and "a million dollars in caviar fish" turn process
+- The host at risk. Cold water and "a million dollars in caviar fish" turn process
   footage into a situation. This builds tension.
-- **Games the viewer can play.** Guessing the weight and the price at each level invites
+- Games the viewer can play. Guessing the weight and the price at each level invites
   participation (inferred). This resets attention every 1-2 minutes in the second half.
-- **An honest verdict.** "No real correlation" and "pay rent first" give a payoff that
+- An honest verdict. "No real correlation" and "pay rent first" give a payoff that
   doesn't flatter the luxury. This builds identity (trust).
-- **Constant novelty.** A new image every 1.6 seconds with no dead air sets the rhythm. It
+- Constant novelty. A new image every 1.6 seconds with no dead air sets the rhythm. It
   works because the footage is rich (location, animals, macro). The same cut rate over a
   static studio would feel like noise (inferred).
 - What the fast edit knows: when every shot shows something new, the cut rate is the
@@ -136,14 +136,14 @@ Re-hooks:
 ## 9. Outlier against control
 The control is "I Tested The Cheapest VS Most Expensive Kitchen Gadgets" (4TyPUB6o-t8, 1.02×).
 Hypotheses:
-- **Place and access.** A working caviar farm, with the host in the tank and the process
+- Place and access. A working caviar farm, with the host in the tank and the process
   room. The control is set in the studio kitchen.
-- **One escalating journey against parallel rounds.** Farm, then processing, then his own
+- One escalating journey against parallel rounds. Farm, then processing, then his own
   tin, then the taste ladder, against about 13 same-shaped gadget rounds.
-- **A hook cut at 32/min against 4/min.** The control's first 12.4s is one take with
+- A hook cut at 32/min against 4/min. The control's first 12.4s is one take with
   products pushed toward the lens.
-- **Length.** 22 minutes against 42.
-- **Shared, so probably not the cause:**
+- Length. 22 minutes against 42.
+- Shared, so probably not the cause:
   - about 30 cuts a minute;
   - about 230 wpm;
   - a "worth it?" question;

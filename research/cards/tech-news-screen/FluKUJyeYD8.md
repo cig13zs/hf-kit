@@ -60,75 +60,75 @@ more impressive part is in the price" (2:33), "the launch itself was somehow eve
 last one doubles as the sponsor bridge. No sponsor sits mid-video.
 
 ## 4. Editing style
-- **Additive frames, not cuts.** Screenshots, stickers and faces are added onto the current frame
+- Additive frames, not cuts. Screenshots, stickers and faces are added onto the current frame
   or onto a black canvas (seen 0:06-0:11, 0:20-0:26, 1:23.6, 2:52.8). Many of these changes do
   not trip the scene detector, so 13.3 cuts/min is a low floor.
-- **Acceleration in the body.** 17-20 cuts per minute in minutes 3-5 (measured), the outage, the
+- Acceleration in the body. 17-20 cuts per minute in minutes 3-5 (measured), the outage, the
   launch mess and the benchmarks, against 9-13 in minutes 0-2.
-- **Cuts on the noun.** Each day card lands within about a second of its spoken day (card 0:12 vs
+- Cuts on the noun. Each day card lands within about a second of its spoken day (card 0:12 vs
   "on Tuesday" at 0:08-0:12; 0:19.5 vs 0:17.6; 0:26.5 vs 0:26.6) (seen against transcript).
   Cuts do not follow a beat: lift 0.96 (measured).
-- **Meme density.** About 12 of the 40 overview frames hold a meme or pop-culture image and about
+- Meme density. About 12 of the 40 overview frames hold a meme or pop-culture image and about
   24 hold a document, tweet, chart or web page (seen; my count, one frame can hold both). That is
   roughly one meme image every 37 seconds.
-- **Clips with their own sound.** The captions mark one inserted clip with `>>` speaker changes at
+- Clips with their own sound. The captions mark one inserted clip with `>>` speaker changes at
   0:58.8-1:08 (transcript). It is the loudest stretch of the video (see 7).
 
 ## 5. Graphics and animation
 - **A black canvas** under almost everything. Screenshots float on it as cards with a thin shadow,
   often slightly tilted, and pile up as the narration lists items (seen 0:06-0:11).
-- **Emphasis marks:** red or orange highlight bars on the quoted line (0:16, 0:23.5), hand-drawn
+- Emphasis marks: red or orange highlight bars on the quoted line (0:16, 0:23.5), hand-drawn
   white arrows (0:16, 0:50.2), red arrows (2:08.2), circled numbers on a screenshot (1:12.5)
   (seen).
-- **Sticker type:** heavy condensed all caps, white or yellow with a thick black outline, rotated
+- Sticker type: heavy condensed all caps, white or yellow with a thick black outline, rotated
   about 5-15° (seen 0:08, 5:17.8 "GENERAL INTELLIGENCE", 4:41 "OSWORLD"). Running gags get their
   own stickers: "T.M.B.Bs" on a bodybuilder (cut pair 1:26.6) calls back the narration's "Trust Me
   Bro" benchmarks (1:23.9, 2:28.8, 4:57.3, transcript). A mocking-case caption on a wojak (2:41.7)
   (seen).
-- **Day cards:** black heavy condensed caps on a cream label, small white date underneath (seen).
+- Day cards: black heavy condensed caps on a cream label, small white date underneath (seen).
 - **Cut-out portraits** of public figures on the right third with the background removed (0:39,
   2:52.8) (seen). Charts carry an emoji hand pointing at the key point (4:55.5, seen).
-- **Sponsor:** dashboard screen recordings (6:47-7:09) and a logo end card with a tilted green
+- Sponsor: dashboard screen recordings (6:47-7:09) and a logo end card with a tilted green
   offer sticker (7:20.4) (seen).
 - No kinetic type beyond sticker slams, no 3D, no lower thirds.
 
 ## 6. VFX and transitions
-- **Pixel-block dissolve:** the frame breaks into blocks that resolve into the next card, three
+- Pixel-block dissolve: the frame breaks into blocks that resolve into the next card, three
   times in the hook, once per day card (0:11.5, 0:19, 0:26.5, seen). A horizontal smear at the
   3:24.1 cut pair looks like the same family (seen). It marks topic turns only.
-- **Sticker slams:** each sticker is absent in one 0.5s frame and fully placed in the next (seen
+- Sticker slams: each sticker is absent in one 0.5s frame and fully placed in the next (seen
   0:07.5-0:08), so its entrance runs under half a second.
 - No whip pans, zoom-throughs, shakes or light leaks in any sampled frame (seen). Motion comes from
   new layers arriving, not from camera moves.
 
 ## 7. Sound (measured, or inferred from transcript)
-- **Very quiet, very flat master:** −23.8 LUFS integrated with a 2.6 LU range (measured). That is
+- Very quiet, very flat master: −23.8 LUFS integrated with a 2.6 LU range (measured). That is
   10 LU under the −14 YouTube reference, and YouTube does not turn quiet uploads up (knowledge
   chapter), so it plays softer than most of the platform (inferred).
-- **No silence anywhere in the body.** The only gap over 0.4s is 0.71s in the final second
+- No silence anywhere in the body. The only gap over 0.4s is 0.71s in the final second
   (measured). Narration runs wall to wall at 202 wpm.
-- **The inserted clip is the loudest thing in the video.** 1:02-1:08 reaches −15.8 LUFS, about
+- The inserted clip is the loudest thing in the video. 1:02-1:08 reaches −15.8 LUFS, about
   8 LU over the median, and lines up with the `>>` movie clip at 0:58.8-1:08 (measured, matched
   to transcript).
-- **The sponsor sounds different.** From 6:40 the bass share rises to 0.40-0.45 (median 0.29) and
+- The sponsor sounds different. From 6:40 the bass share rises to 0.40-0.45 (median 0.29) and
   brightness falls to 530-710 Hz (median 908) (measured). A bassier bed or different processing
   under the ad is the likely cause (inferred).
-- **No music evidence under the story:** no caption tags, and the tempo reading jumps 66-172 BPM
+- No music evidence under the story: no caption tags, and the tempo reading jumps 66-172 BPM
   between minutes (measured). Any bed is low and not beat-led (inferred). Onsets at 95.8/min are
   the narration's own consonants plus any hits (inferred; a proxy).
 
 ## 8. Retention mechanics: why
-- **Countdown framing.** Tuesday, Wednesday, Thursday turns a pile of releases into one story
+- Countdown framing. Tuesday, Wednesday, Thursday turns a pile of releases into one story
   with a known end point. The job is clarity and setting the rhythm.
-- **Receipts on screen.** 57% of frames carry text, mostly the actual release page, tweet or
+- Receipts on screen. 57% of frames carry text, mostly the actual release page, tweet or
   benchmark table. The narrator is sarcastic throughout, and the screenshot is the evidence, so the
   jokes do not cost credibility (inferred). The job is delivering proof.
-- **A meme about every 37 seconds.** Each one lands on a punchline in the narration (1:23.6
+- A meme about every 37 seconds. Each one lands on a punchline in the narration (1:23.6
   bodybuilder on "TMBBs", 3:48.6 cartoon on the outage theory, seen against transcript). The job
   is resetting attention without slowing the information.
-- **The reversal as payoff.** The AGI claim deflates on an independent number at 6:23, and the
+- The reversal as payoff. The AGI claim deflates on an independent number at 6:23, and the
   same line hands off to the sponsor. The job is showing a payoff that answers the title.
-- **Clip louder than the voice.** The one loud moment in a flat mix is a borrowed clip, which
+- Clip louder than the voice. The one loud moment in a flat mix is a borrowed clip, which
   works as a sonic reset (inferred).
 
 ## 9. Outlier against control
