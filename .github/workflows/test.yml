@@ -1,0 +1,43 @@
+name: test
+on: [push, pull_request]
+jobs:
+  tools:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        python-version: ["3.10", "3.11", "3.12", "3.13"]
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
+        with:
+          python-version: ${{ matrix.python-version }}
+      - run: sudo apt-get update && sudo apt-get install -y ffmpeg
+      - run: pip install numpy pillow pytesseract
+      - run: python tools/scaffold.py --selftest
+      - run: python tools/captions.py --selftest
+      - run: python tools/bg_source.py --selftest
+      - run: python tools/check.py --selftest
+      - run: python sound/gen_bed.py --selftest
+      # the generators are deterministic, so a rerun must reproduce the committed files
+      - run: python sound/gen_sfx.py --selftest && git diff --exit-code sound/sfx
+  blocks:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v5
+        with:
+          node-version: '24'
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.13'
+      - run: npx -y hyperframes@0.8.77 telemetry disable
+      - name: lint every block demo
+        run: for d in examples/*/; do npx hyperframes@0.8.77 lint "$d" || exit 1; done
+      - name: scaffold and lint every style
+        run: |
+          for f in styles/*.json; do
+            id=$(basename "$f" .json)
+            fmt=$(python -c "import json,sys; print(json.load(open(sys.argv[1]))['format'])" "$f")
+            python tools/scaffold.py "_ci/$id" --format "$fmt" --duration 10 --style "$id"
+            npx hyperframes@0.8.77 lint "_ci/$id" || exit 1
+          done
