@@ -34,7 +34,13 @@ You also need Node for HyperFrames (`npx hyperframes@0.8.77` works, so does a lo
 
 ### As an agent skill
 
-`skills/hf-kit/SKILL.md` teaches a coding agent the workflow below. Copy `skills/hf-kit/` into `~/.claude/skills/` for Claude Code or `~/.codex/skills/` for Codex, and start the agent inside the clone, since the skill's paths are relative to the repo root. It expects the HyperFrames skills to be installed too.
+`skills/hf-kit/SKILL.md` teaches a coding agent the workflow below. Install it with
+
+```sh
+npx skills add cig13zs/hf-kit
+```
+
+which asks which agents to add it to (Claude Code, Codex and others). The skill's paths point into this repository, so the first time it runs it looks for a clone (the folder the agent started in, then `~/hf-kit`) and clones one to `~/hf-kit` if there is none. Copying `skills/hf-kit/` into `~/.claude/skills/` or `~/.codex/skills/` by hand works the same way. It expects the HyperFrames skills to be installed too.
 
 ## Workflow
 
