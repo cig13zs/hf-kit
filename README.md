@@ -1,6 +1,7 @@
 # hf-kit
 
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-support-ff5e5b?logo=ko-fi&logoColor=white)](https://ko-fi.com/jju1s)
+[![Tests](https://img.shields.io/github/actions/workflow/status/cig13zs/hf-kit/test.yml?label=tests)](https://github.com/cig13zs/hf-kit/actions)
 
 Blocks and presets for [HyperFrames](https://github.com/heygen-com/hyperframes) 0.8.77, built from measurements of 48 YouTube videos in 16 niches.
 
@@ -146,6 +147,10 @@ Where the rest lives:
 | The measuring scripts | `research/measure.py`, `research/audio_features.py`, `research/sample.py` |
 
 To measure another video the same way: `python research/measure.py "<url>" --niche <name> --role outlier`, then `python research/audio_features.py <video-id>`. Both need `yt-dlp`, and `measure.py` needs Tesseract for the text share.
+
+## Tests
+
+Every Python tool has a `--selftest` (`python tools/scaffold.py --selftest`, and the same for `captions.py`, `bg_source.py`, `check.py`, `sound/gen_sfx.py` and `sound/gen_bed.py`). CI runs them on Python 3.10 to 3.13, checks that the sound generators reproduce the committed files exactly, lints all 13 block demos with HyperFrames 0.8.77, and scaffolds and lints a project for each of the 16 styles.
 
 ## Limits
 
