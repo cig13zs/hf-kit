@@ -12,6 +12,19 @@ Read `SPEC.md` for the contracts, and follow the `hyperframes-core` composition 
 `hyperframes` below means `npx hyperframes@0.8.77` or a local install of 0.8.77. Python tools
 need Python 3.10+ with numpy and Pillow, plus ffmpeg on PATH.
 
+## Find the kit first
+This skill can be installed on its own (`npx skills add cig13zs/hf-kit`), but its tools, blocks
+and styles live in the repository. Before step 1, find the kit root, the folder that holds
+`tools/scaffold.py`:
+1. The current directory or one of its parents, if the agent was started inside a clone.
+2. `~/hf-kit`, if it exists.
+3. Otherwise tell the user you are fetching the kit and run
+   `git clone --depth 1 https://github.com/cig13zs/hf-kit ~/hf-kit`, then
+   `pip install numpy pillow pytesseract`.
+
+Run every command below from the kit root, or prefix each path with it. Put the user's video
+project outside the kit (for example next to it), so the kit stays a clean clone.
+
 ## Workflow
 1. **Pick the style.** `styles/README.md` maps niche → style id → blocks, captions and mix
    presets. The style JSON holds the measured ranges (cuts/min by segment, shot length, wpm,
