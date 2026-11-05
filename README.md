@@ -24,6 +24,18 @@ The result worth knowing before you use any of it: cut rate and loudness did not
 
 ## Install
 
+The Python tools ship as the `hf-kit` package (console scripts `hf-kit-scaffold`, `hf-kit-captions`, `hf-kit-check`, `hf-kit-bg-source`). Blocks, styles, sound and research still live in this repository, so keep a clone and set `HF_KIT_ROOT` if you install the package somewhere else.
+
+```sh
+pip install hf-kit
+# or from a clone:
+git clone https://github.com/cig13zs/hf-kit
+cd hf-kit
+pip install -e .
+```
+
+Without the package, the old clone-and-run path still works:
+
 ```sh
 git clone https://github.com/cig13zs/hf-kit
 cd hf-kit

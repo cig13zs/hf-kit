@@ -7,3 +7,8 @@ __pycache__/
 !docs/media/*.mp4
 sources/provenance.jsonl
 assets/
+dist/
+*.egg-info/
+__pycache__/
+_write_pkg*.py
+_patch_readme.py
