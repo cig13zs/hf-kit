@@ -1,0 +1,11 @@
+[
+  {"text": "Most", "start": 0.00, "end": 0.28},
+  {"text": "people", "start": 0.28, "end": 0.62},
+  {"text": "skip", "start": 0.62, "end": 0.95, "class": "accent"},
+  {"text": "this", "start": 0.95, "end": 1.18},
+  {"text": "step.", "start": 1.18, "end": 1.60},
+  {"text": "Here's", "start": 1.90, "end": 2.20},
+  {"text": "why", "start": 2.20, "end": 2.45},
+  {"text": "it", "start": 2.45, "end": 2.58},
+  {"text": "matters.", "start": 2.58, "end": 3.10}
+]
